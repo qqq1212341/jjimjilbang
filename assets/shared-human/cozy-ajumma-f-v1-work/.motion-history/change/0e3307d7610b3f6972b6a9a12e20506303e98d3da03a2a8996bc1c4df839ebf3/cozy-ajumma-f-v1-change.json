@@ -1,0 +1,161 @@
+{
+  "id": "cozy-ajumma-f-v1",
+  "action": "change",
+  "directions": {
+    "0": [
+      {
+        "error": 5.6856524891759613e-8,
+        "file": "cozy-ajumma-f-v1-change-d0-0.webp"
+      },
+      {
+        "error": 5.8007067957637884e-8,
+        "file": "cozy-ajumma-f-v1-change-d0-1.webp"
+      },
+      {
+        "error": 5.968654997942671e-8,
+        "file": "cozy-ajumma-f-v1-change-d0-2.webp"
+      },
+      {
+        "error": 6.01313537712645e-8,
+        "file": "cozy-ajumma-f-v1-change-d0-3.webp"
+      },
+      {
+        "error": 5.9564298286033734e-8,
+        "file": "cozy-ajumma-f-v1-change-d0-4.webp"
+      },
+      {
+        "error": 5.8997971512050346e-8,
+        "file": "cozy-ajumma-f-v1-change-d0-5.webp"
+      },
+      {
+        "error": 5.889289130605136e-8,
+        "file": "cozy-ajumma-f-v1-change-d0-6.webp"
+      },
+      {
+        "error": 5.889289130605136e-8,
+        "file": "cozy-ajumma-f-v1-change-d0-7.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 5.6856524891759613e-8,
+        "file": "cozy-ajumma-f-v1-change-d90-0.webp"
+      },
+      {
+        "error": 5.8007067957637884e-8,
+        "file": "cozy-ajumma-f-v1-change-d90-1.webp"
+      },
+      {
+        "error": 5.968654997942671e-8,
+        "file": "cozy-ajumma-f-v1-change-d90-2.webp"
+      },
+      {
+        "error": 6.01313537712645e-8,
+        "file": "cozy-ajumma-f-v1-change-d90-3.webp"
+      },
+      {
+        "error": 5.9564298286033734e-8,
+        "file": "cozy-ajumma-f-v1-change-d90-4.webp"
+      },
+      {
+        "error": 5.8997971512050346e-8,
+        "file": "cozy-ajumma-f-v1-change-d90-5.webp"
+      },
+      {
+        "error": 5.889289130605136e-8,
+        "file": "cozy-ajumma-f-v1-change-d90-6.webp"
+      },
+      {
+        "error": 5.889289130605136e-8,
+        "file": "cozy-ajumma-f-v1-change-d90-7.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 5.6856524891759613e-8,
+        "file": "cozy-ajumma-f-v1-change-d180-0.webp"
+      },
+      {
+        "error": 5.8007067957637884e-8,
+        "file": "cozy-ajumma-f-v1-change-d180-1.webp"
+      },
+      {
+        "error": 5.968654997942671e-8,
+        "file": "cozy-ajumma-f-v1-change-d180-2.webp"
+      },
+      {
+        "error": 6.01313537712645e-8,
+        "file": "cozy-ajumma-f-v1-change-d180-3.webp"
+      },
+      {
+        "error": 5.9564298286033734e-8,
+        "file": "cozy-ajumma-f-v1-change-d180-4.webp"
+      },
+      {
+        "error": 5.8997971512050346e-8,
+        "file": "cozy-ajumma-f-v1-change-d180-5.webp"
+      },
+      {
+        "error": 5.889289130605136e-8,
+        "file": "cozy-ajumma-f-v1-change-d180-6.webp"
+      },
+      {
+        "error": 5.889289130605136e-8,
+        "file": "cozy-ajumma-f-v1-change-d180-7.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 5.6856524891759613e-8,
+        "file": "cozy-ajumma-f-v1-change-d270-0.webp"
+      },
+      {
+        "error": 5.8007067957637884e-8,
+        "file": "cozy-ajumma-f-v1-change-d270-1.webp"
+      },
+      {
+        "error": 5.968654997942671e-8,
+        "file": "cozy-ajumma-f-v1-change-d270-2.webp"
+      },
+      {
+        "error": 6.01313537712645e-8,
+        "file": "cozy-ajumma-f-v1-change-d270-3.webp"
+      },
+      {
+        "error": 5.9564298286033734e-8,
+        "file": "cozy-ajumma-f-v1-change-d270-4.webp"
+      },
+      {
+        "error": 5.8997971512050346e-8,
+        "file": "cozy-ajumma-f-v1-change-d270-5.webp"
+      },
+      {
+        "error": 5.889289130605136e-8,
+        "file": "cozy-ajumma-f-v1-change-d270-6.webp"
+      },
+      {
+        "error": 5.889289130605136e-8,
+        "file": "cozy-ajumma-f-v1-change-d270-7.webp"
+      }
+    ]
+  },
+  "width": 78,
+  "height": 149,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8389261744966443
+  },
+  "crop": {
+    "left": 434,
+    "top": 518
+  },
+  "scale": 0.5,
+  "loop": false,
+  "durationMs": 1400,
+  "maxError": 6.01313537712645e-8,
+  "props": [
+    "clothes"
+  ],
+  "look": "casual",
+  "armRatio": 0.5754488710204448
+}

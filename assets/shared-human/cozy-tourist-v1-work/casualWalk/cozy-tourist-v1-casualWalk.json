@@ -1,0 +1,284 @@
+{
+  "id": "cozy-tourist-v1-casual",
+  "action": "walk",
+  "directions": {
+    "0": [
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-0.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-1.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-2.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-3.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-4.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-5.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-6.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-7.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-8.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-9.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-10.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-11.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-12.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-13.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-14.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d0-15.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-0.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-1.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-2.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-3.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-4.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-5.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-6.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-7.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-8.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-9.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-10.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-11.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-12.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-13.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-14.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d90-15.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-0.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-1.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-2.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-3.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-4.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-5.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-6.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-7.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-8.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-9.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-10.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-11.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-12.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-13.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-14.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d180-15.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-0.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-1.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-2.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-3.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-4.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-5.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-6.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-7.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-8.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-9.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-10.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-11.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-12.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-13.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-14.webp"
+      },
+      {
+        "error": 0,
+        "file": "cozy-tourist-v1-casualWalk-d270-15.webp"
+      }
+    ]
+  },
+  "width": 84,
+  "height": 154,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8344155844155844
+  },
+  "crop": {
+    "left": 428,
+    "top": 511
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1066.6667222976685,
+  "maxError": 0
+}

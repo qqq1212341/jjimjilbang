@@ -1,0 +1,161 @@
+{
+  "id": "cozy-office-f-v1",
+  "action": "towel",
+  "directions": {
+    "0": [
+      {
+        "error": 1.0806894860959224e-7,
+        "file": "cozy-office-f-v1-towel-d0-0.webp"
+      },
+      {
+        "error": 1.23875149746575e-7,
+        "file": "cozy-office-f-v1-towel-d0-1.webp"
+      },
+      {
+        "error": 9.141337163892052e-8,
+        "file": "cozy-office-f-v1-towel-d0-2.webp"
+      },
+      {
+        "error": 1.4299368929771702e-7,
+        "file": "cozy-office-f-v1-towel-d0-3.webp"
+      },
+      {
+        "error": 8.984306748721774e-8,
+        "file": "cozy-office-f-v1-towel-d0-4.webp"
+      },
+      {
+        "error": 1.368743313217705e-7,
+        "file": "cozy-office-f-v1-towel-d0-5.webp"
+      },
+      {
+        "error": 9.66165491529721e-8,
+        "file": "cozy-office-f-v1-towel-d0-6.webp"
+      },
+      {
+        "error": 1.0806894860959224e-7,
+        "file": "cozy-office-f-v1-towel-d0-7.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 1.0806894860959224e-7,
+        "file": "cozy-office-f-v1-towel-d90-0.webp"
+      },
+      {
+        "error": 1.23875149746575e-7,
+        "file": "cozy-office-f-v1-towel-d90-1.webp"
+      },
+      {
+        "error": 9.141337163892052e-8,
+        "file": "cozy-office-f-v1-towel-d90-2.webp"
+      },
+      {
+        "error": 1.4299368929771702e-7,
+        "file": "cozy-office-f-v1-towel-d90-3.webp"
+      },
+      {
+        "error": 8.984306748721774e-8,
+        "file": "cozy-office-f-v1-towel-d90-4.webp"
+      },
+      {
+        "error": 1.368743313217705e-7,
+        "file": "cozy-office-f-v1-towel-d90-5.webp"
+      },
+      {
+        "error": 9.66165491529721e-8,
+        "file": "cozy-office-f-v1-towel-d90-6.webp"
+      },
+      {
+        "error": 1.0806894860959224e-7,
+        "file": "cozy-office-f-v1-towel-d90-7.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 1.0806894860959224e-7,
+        "file": "cozy-office-f-v1-towel-d180-0.webp"
+      },
+      {
+        "error": 1.23875149746575e-7,
+        "file": "cozy-office-f-v1-towel-d180-1.webp"
+      },
+      {
+        "error": 9.141337163892052e-8,
+        "file": "cozy-office-f-v1-towel-d180-2.webp"
+      },
+      {
+        "error": 1.4299368929771702e-7,
+        "file": "cozy-office-f-v1-towel-d180-3.webp"
+      },
+      {
+        "error": 8.984306748721774e-8,
+        "file": "cozy-office-f-v1-towel-d180-4.webp"
+      },
+      {
+        "error": 1.368743313217705e-7,
+        "file": "cozy-office-f-v1-towel-d180-5.webp"
+      },
+      {
+        "error": 9.66165491529721e-8,
+        "file": "cozy-office-f-v1-towel-d180-6.webp"
+      },
+      {
+        "error": 1.0806894860959224e-7,
+        "file": "cozy-office-f-v1-towel-d180-7.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 1.0806894860959224e-7,
+        "file": "cozy-office-f-v1-towel-d270-0.webp"
+      },
+      {
+        "error": 1.23875149746575e-7,
+        "file": "cozy-office-f-v1-towel-d270-1.webp"
+      },
+      {
+        "error": 9.141337163892052e-8,
+        "file": "cozy-office-f-v1-towel-d270-2.webp"
+      },
+      {
+        "error": 1.4299368929771702e-7,
+        "file": "cozy-office-f-v1-towel-d270-3.webp"
+      },
+      {
+        "error": 8.984306748721774e-8,
+        "file": "cozy-office-f-v1-towel-d270-4.webp"
+      },
+      {
+        "error": 1.368743313217705e-7,
+        "file": "cozy-office-f-v1-towel-d270-5.webp"
+      },
+      {
+        "error": 9.66165491529721e-8,
+        "file": "cozy-office-f-v1-towel-d270-6.webp"
+      },
+      {
+        "error": 1.0806894860959224e-7,
+        "file": "cozy-office-f-v1-towel-d270-7.webp"
+      }
+    ]
+  },
+  "width": 61,
+  "height": 143,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8671328671328671
+  },
+  "crop": {
+    "left": 451,
+    "top": 520
+  },
+  "scale": 0.5,
+  "loop": false,
+  "durationMs": 1500,
+  "maxError": 1.4299368929771702e-7,
+  "props": [
+    "clothes"
+  ],
+  "look": "wet",
+  "armRatio": 0.5663216534920242
+}

@@ -1,0 +1,129 @@
+{
+  "id": "cozy-ajumma-f-v1",
+  "action": "arcadePlay",
+  "directions": {
+    "0": [
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d0-0.webp"
+      },
+      {
+        "error": 5.4264875868917784e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d0-1.webp"
+      },
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d0-2.webp"
+      },
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d0-3.webp"
+      },
+      {
+        "error": 5.4264875868917784e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d0-4.webp"
+      },
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d90-0.webp"
+      },
+      {
+        "error": 5.4264875868917784e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d90-1.webp"
+      },
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d90-2.webp"
+      },
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d90-3.webp"
+      },
+      {
+        "error": 5.4264875868917784e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d90-4.webp"
+      },
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d180-0.webp"
+      },
+      {
+        "error": 5.4264875868917784e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d180-1.webp"
+      },
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d180-2.webp"
+      },
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d180-3.webp"
+      },
+      {
+        "error": 5.4264875868917784e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d180-4.webp"
+      },
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d270-0.webp"
+      },
+      {
+        "error": 5.4264875868917784e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d270-1.webp"
+      },
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d270-2.webp"
+      },
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d270-3.webp"
+      },
+      {
+        "error": 5.4264875868917784e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d270-4.webp"
+      },
+      {
+        "error": 5.6227015231387735e-8,
+        "file": "cozy-ajumma-f-v1-arcadePlay-d270-5.webp"
+      }
+    ]
+  },
+  "width": 139,
+  "height": 156,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8044871794871795
+  },
+  "crop": {
+    "left": 373,
+    "top": 517
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1200,
+  "maxError": 5.6227015231387735e-8,
+  "props": [
+    "cabinet"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5754488710204448
+}

@@ -1,0 +1,4057 @@
+{
+  "…내가 30년 못 한 걸 네가 했다.": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "…많이 바뀌었네.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "…탕이랑 사물함은 남겨뒀어. 나머진 네가 채워.": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "\"자리가 몇 개 없다. 대신 목이 좋다.\"": {
+    "files": [
+      "../../engine/base/src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "\"줄이 밖까지 섰어. 이 정도면 진짜 장사지.\"": {
+    "files": [
+      "../../engine/base/src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "(넘기는 김에 물값도 좀 남겨주지.)": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "(먹고 눕는 데까지 있어야 하루를 보낸다.)": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "(문제집을 베고 자고 있다. 외워지는지는 잘 모르겠다.)": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "(버스에서 내린 손님들이 계란을 이마로 깬다. 박 씨가 가르쳤나 보다.)": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "(새벽 한 시에 정장 차림으로 들어왔다.)": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "(손이 가는 일이 돈이 되는 일이다.)": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "(시킨 사람은 없었다. 그냥 비어 있었을 뿐이다.)": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "(어른만 오는 곳이 아니게 됐다.)": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "(온탕 앞에서 발가락만 담갔다 뺐다 한다.)": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "(울던 애가 이제 냉탕에 제일 먼저 뛰어든다.)": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "(이제는 저녁 일곱 시에 온다. 정장 대신 운동복을 입고.)": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "(자리가 넓어졌지. 불가마부터.)": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "(카메라를 들고 탕에 들어가려다 락커 앞에서 막혔다.)": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "(탕 하나로 시작한 자리가, 여기까지 왔다.)": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "(퇴직하고 첫 주라고 했다. 아침 여섯 시부터 와 있다.)": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "(하늘 아래 탕이라. 나쁘지 않다.)": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "{0}\n한 번 고르면 못 바꿔요.": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0} — 돈이 모자라요": {
+    "files": [
+      "../../engine/base/src/render/fixtureCard.ts"
+    ],
+    "count": 1
+  },
+  "{0} · {1}단": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "{0} · {1}단이 됐어요": {
+    "files": [
+      "../../engine/base/src/render/growthAxes.ts"
+    ],
+    "count": 1
+  },
+  "{0} · 한 단 올리기": {
+    "files": [
+      "../../engine/base/src/render/fixtureCard.ts"
+    ],
+    "count": 1
+  },
+  "{0} {1}/{2}대": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "{0} {1}등급": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "{0} {1}위": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "{0} 내보내기": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0} 님을 돌려보냈어요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0} 님이 가게를 떠났어요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0} 달성!": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "{0} 더 모아야 해요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0} 등급": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0} 먼저": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0} 수입 {1}": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0} 여는 중": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0} 여는 중 · {1}일 남음": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "{0} 열려요": {
+    "files": [
+      "../../engine/base/src/render/rankUnlocks.ts"
+    ],
+    "count": 1
+  },
+  "{0} 옆 {1}": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0} 준비 중": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0} 준비 중 · {1}일 뒤 시작": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "{0} 지원해요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0} 최고 순위": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0}%  (오늘 +{1})": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "{0}단 / {1}단": {
+    "files": [
+      "../../engine/base/src/render/fixtureCard.ts"
+    ],
+    "count": 1
+  },
+  "{0}단계": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0}단계부터 지원해요": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "{0}단계에 열려요": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "{0}명": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "{0}에서 열려요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0}위": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0}일 뒤": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0}장": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0}점": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0}점 부족": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0}점이 필요해요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0}칸": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "{0}칸 차지": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts",
+      "../../engine/base/src/render/growthAxes.ts"
+    ],
+    "count": 2
+  },
+  "{label} {sec}초 / {total}초": {
+    "files": [
+      "src/data/orders.ts"
+    ],
+    "count": 1
+  },
+  "₩{0} 더 필요해요": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "17번 비워 뒀더라. 이모가 시켰니?": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "17번은 그대로구나.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "1단계": {
+    "files": [
+      "../../engine/base/src/data/stages.ts"
+    ],
+    "count": 1
+  },
+  "2단계": {
+    "files": [
+      "../../engine/base/src/data/stages.ts"
+    ],
+    "count": 1
+  },
+  "2단계에 오른다": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "30일 영업한다": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "3단계": {
+    "files": [
+      "../../engine/base/src/data/stages.ts"
+    ],
+    "count": 1
+  },
+  "4단계": {
+    "files": [
+      "../../engine/base/src/data/stages.ts"
+    ],
+    "count": 1
+  },
+  "5단계": {
+    "files": [
+      "../../engine/base/src/data/stages.ts"
+    ],
+    "count": 1
+  },
+  "6단계": {
+    "files": [
+      "../../engine/base/src/data/stages.ts"
+    ],
+    "count": 1
+  },
+  "7단계": {
+    "files": [
+      "../../engine/base/src/data/stages.ts"
+    ],
+    "count": 1
+  },
+  "가게": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "가게 등급": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "가게·돈·기록이 전부 사라져요. 되돌릴 수 없어요.": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "가게·돈·기록이 전부 사라지고 첫날부터 다시 시작해요. 되돌릴 수 없어요.": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 2
+  },
+  "가게가 깨끗해서 손님이 더 씁니다": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "가게가 넓어져요": {
+    "files": [
+      "../../engine/base/src/render/rankUnlocks.ts"
+    ],
+    "count": 1
+  },
+  "가게가 넓어졌다. 땀 뺄 데를 들이면 손님이 하루를 논다.": {
+    "files": [
+      "src/data/say.ts"
+    ],
+    "count": 1
+  },
+  "가게를 처음부터 다시 열어요 · 배운 건 그대로 남아요": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "가게를 통째로 맡는다": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "가게에 사람이 몰려요": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "가게와 돈은 처음으로 돌아가요. 배운 것(도감·연구·기록)과 회차 보너스는 그대로 남아요.": {
+    "files": [
+      "../../engine/base/src/render/growthAxes.ts"
+    ],
+    "count": 1
+  },
+  "가까운 일부터": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "가는 중": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "가장 잘 번 하루": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "가장 잘한 행사": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "가족 손님": {
+    "files": [
+      "src/data/guests.ts"
+    ],
+    "count": 1
+  },
+  "가족 손님이 통째로 와요": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "가족 휴게": {
+    "files": [
+      "src/data/stages.ts"
+    ],
+    "count": 1
+  },
+  "가진 돈": {
+    "files": [
+      "../../engine/base/src/boot.ts",
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 2
+  },
+  "강화": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "개최 행사": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 4
+  },
+  "개최할 행사가 열렸어요": {
+    "files": [
+      "../../engine/base/src/core/systems.ts"
+    ],
+    "count": 1
+  },
+  "객단가": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "건너뛰기": {
+    "files": [
+      "../../engine/base/src/data/story.ts",
+      "../../engine/base/src/render/GameScene.ts",
+      "src/data/story.ts"
+    ],
+    "count": 3
+  },
+  "걷는 속도 20% 빨라짐": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "게임": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "게임하는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "경험치": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "계단 앞은 비워두세요": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "계란 서비스": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "계란 하나 더 데이": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "계란 한 판 더 들여놔. 내가 다 먹을 테니까.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "계란은 이마로 깨야 제맛이지. 식혜는 있나?": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "계산이 가깝다": {
+    "files": [
+      "../../engine/base/src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "계속하기": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "고급 대접": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "고를 행사가 있어요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "고용비": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "고장과 더러움": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "고장이 덜 난다": {
+    "files": [
+      "../../engine/base/src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "골목 간판": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "골목 주간지": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "골목에 사람이 몰려요": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "골목에 소문이 돌기 시작했다.": {
+    "files": [
+      "../../engine/base/src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "공보 {0}위": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "관광객": {
+    "files": [
+      "src/data/guests.ts"
+    ],
+    "count": 1
+  },
+  "광고 보고 2배": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "광고 보상": {
+    "files": [
+      "../../engine/base/src/data/ledger.ts"
+    ],
+    "count": 1
+  },
+  "괜찮은 사람": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "구석구석 정리": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "그냥 넘기기": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "그동안 번 돈을 모아 뒀어요": {
+    "files": [
+      "src/data/say.ts"
+    ],
+    "count": 1
+  },
+  "그래도 쉬는 날엔 온다. 계란 식혀 두지 마.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "그런데도 또 왔네요. 밥이 맛있어서요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "그만두기": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts",
+      "../../engine/base/src/render/GameScene.ts",
+      "../../engine/base/src/render/PlaceMode.ts",
+      "../../engine/base/src/render/UIScene.ts",
+      "../../engine/base/src/render/growthAxes.ts"
+    ],
+    "count": 6
+  },
+  "기간 이벤트": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 2
+  },
+  "기계": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 2
+  },
+  "기다려 주는 시간": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "기다리는 중": {
+    "files": [
+      "src/data/orders.ts"
+    ],
+    "count": 5
+  },
+  "기다리다 그냥 갔어요": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "기록": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 2
+  },
+  "기물 {0}개": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "기물 앞은 비워두세요": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "기물 올리기": {
+    "files": [
+      "../../engine/base/src/data/ledger.ts"
+    ],
+    "count": 1
+  },
+  "길에 사람이 뜸해요": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "길이 막혀요": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "꺼짐": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "끝까지 보면 +{0}": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "끝까지 봐야 받아요": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "끝까지 올렸어요": {
+    "files": [
+      "../../engine/base/src/render/fixtureCard.ts"
+    ],
+    "count": 1
+  },
+  "끝낸 연구 (남은 점수 {0})": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "나": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "나 다음 주부터 아파트 경비 나가.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "나르는 중": {
+    "files": [
+      "src/data/orders.ts"
+    ],
+    "count": 1
+  },
+  "남녀 사우나": {
+    "files": [
+      "src/data/stages.ts"
+    ],
+    "count": 1
+  },
+  "남은 금액": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "남자 사우나": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "남탕 안쪽 사우나.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "내 가게니까, 내가 제일 열심히.": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "내 손으로": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "내보내기": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 2
+  },
+  "내일 가게가 깔끔해서 오래 머물러요": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "내일 도움": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "내일 보너스": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "내일 손님이 기분 좋게 더 씁니다": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "내일 손님이 조금 더 쓴다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "내일 손님이 조금 더 온다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "내일 쓸 수 있어요": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "내일 아는 사람을 데려와요": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "내일 아침 손님을 먼저 받아요": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "내일 열기": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "내일 장사가 조금 나아져요": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "내일 지나가는 사람이 조금 더 들러요": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "내일 하루 — 하나만 골라요": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "내일 하루 도움이 됩니다": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "내일은 잘 나가는 걸 앞에 둬요": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "낸 고용비는 돌아오지 않아요. 다시 뽑으려면 또 내야 해요.": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "냉탕": {
+    "files": [
+      "src/data/facilities.ts",
+      "src/data/pages.ts"
+    ],
+    "count": 2
+  },
+  "냉탕에 몸 담그는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "노천 전망": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "노천탕": {
+    "files": [
+      "src/data/facilities.ts",
+      "src/data/pages.ts"
+    ],
+    "count": 2
+  },
+  "노천탕 옆": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "노천탕에 몸 담그는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "노천탕에서 보는 노을은 찍어 둬야겠어요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "놓기": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "놓아 본 기물": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "누워 쉬는 동안 체류가 길어진다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "누적 매출": {
+    "files": [
+      "../../engine/base/src/boot.ts",
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 3
+  },
+  "누적 매출 ₩1,000,000": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "누적 매출 ₩10,000,000": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "느린 건 못 봐요.": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "늦게까지 남아 준다": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "늦어서 못 냈어요": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "다녀간 손님": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "다녀갔어요": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "다들 지갑이 두둑해요": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "다른 게임": {
+    "files": [
+      "src/main.ts"
+    ],
+    "count": 1
+  },
+  "다시 뽑으면 ₩{0}이 들지만 키운 레벨은 남아요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "다시 열기": {
+    "files": [
+      "../../engine/base/src/render/growthAxes.ts"
+    ],
+    "count": 1
+  },
+  "다음 {0}": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "다음 단계가 되면 사람을 뽑을 수 있어요": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "다음 목표": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "다음 행사를 기다려요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "다음 호": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "다음엔 더 잘할 수 있어요": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "단계를 올리면 새 물건이 열려요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "단골 {0}명": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "단골 5명": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "단골 손님": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "단골 어르신": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "단골 응대": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "단골끼리 하루 모여요": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "단골들이 자리를 지켰어요": {
+    "files": [
+      "src/data/say.ts"
+    ],
+    "count": 1
+  },
+  "단골에게 한마디": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "단골이 된 손님": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "단골이 생겼다. 이제 자리를 더 놓을 수 있겠는데.": {
+    "files": [
+      "../../engine/base/src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "닫기": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "대기 {0}": {
+    "files": [
+      "../../engine/base/src/render/npcTypes.ts",
+      "src/data/content.ts"
+    ],
+    "count": 2
+  },
+  "대형사우나": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "더 볼래요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "더 올라갈 곳이 없어요": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "더 올릴 수 없어요": {
+    "files": [
+      "../../engine/base/src/render/fixtureCard.ts"
+    ],
+    "count": 1
+  },
+  "더보기": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 2
+  },
+  "덕분에 저도 좀 누워 있어요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "데이터 초기화": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "도감에 새 기물이 열렸어요": {
+    "files": [
+      "../../engine/base/src/core/systems.ts"
+    ],
+    "count": 1
+  },
+  "도시 소식지": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "도시 스파 가이드": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "도시에서 잘한 가게를 뽑아요": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "도윤": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "독서실보다 여기가 싸요. 불가마 앞에서 제일 잘 외워져요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "돈이 모자라요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts",
+      "../../engine/base/src/render/GameScene.ts",
+      "../../engine/base/src/render/growthAxes.ts"
+    ],
+    "count": 4
+  },
+  "돈이 좀 모였네. 손님 갈 데를 하나 더 들여라.": {
+    "files": [
+      "src/data/say.ts"
+    ],
+    "count": 1
+  },
+  "돌려보내기": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "돌아가기": {
+    "files": [
+      "src/main.ts"
+    ],
+    "count": 1
+  },
+  "동네 목욕탕": {
+    "files": [
+      "src/data/stages.ts"
+    ],
+    "count": 1
+  },
+  "동네 목욕탕 소식": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "동네 사람들이 여기 이름을 대더라. 버스 타고 온다고.": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "동네 사람이 몰려요": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "동네 축제": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "동네가 다 아는 행사예요": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "동네에 소문이 퍼진다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "동선 설계": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "동전을 넣고 앉아 있는다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "둥둥 떠서 한참을 논다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "들어온 지원서": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "들여놓은 시설": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "등 뒤가 휑하다": {
+    "files": [
+      "src/data/content.ts"
+    ],
+    "count": 1
+  },
+  "등 밀어줄 사람 없나? 혼자선 안 닿아.": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "등급": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "땀 빼고 나면 배가 고파. 계란만 먹고 갈 순 없잖나.": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "땀 빼는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "땀 뺀 직후": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 2
+  },
+  "땀을 빼면 갈증이 난다 — 매점으로 간다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "때 미는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "때 밀고 바로": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "때를 밀어주고 값을 받는다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "때밀이·안마": {
+    "files": [
+      "src/data/stages.ts"
+    ],
+    "count": 1
+  },
+  "또 옵니다": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "뜨끈한 온탕. 오래 담글수록 목이 마르다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "라면 기계": {
+    "files": [
+      "../../engine/base/src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "라면 냄새": {
+    "files": [
+      "../../engine/base/src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "라면 먹는 중": {
+    "files": [
+      "../../engine/base/src/data/facilities.ts"
+    ],
+    "count": 2
+  },
+  "라면 자판기": {
+    "files": [
+      "../../engine/base/src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "락커": {
+    "files": [
+      "src/data/facilities.ts",
+      "src/data/pages.ts"
+    ],
+    "count": 2
+  },
+  "마사지 받는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "마사지룸": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "마지막 단계": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "마지막 단계에 오른다": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "막차를 놓쳤어요. 택시보다 여기가 싸서요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "만나 본 손님": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "만화 보는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "만화방": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "맛집 방송": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "매점": {
+    "files": [
+      "src/data/facilities.ts",
+      "src/data/ledger.ts"
+    ],
+    "count": 2
+  },
+  "매점에서 하나 더 사 간다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "맥반석계란 까는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "맥반석계란 비법": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "맵 밖": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "머리 자르는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "머무는 시간 {0}": {
+    "files": [
+      "../../engine/base/src/render/fixtureCard.ts"
+    ],
+    "count": 1
+  },
+  "머무는 시간 {0} → {1}": {
+    "files": [
+      "../../engine/base/src/render/fixtureCard.ts"
+    ],
+    "count": 1
+  },
+  "먹고 쉬는 데가 좋은 찜질방이 실려요": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "멀리서도 보이는 간판.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "목욕 끝에 머리도 다듬는다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "목욕 직후": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "목욕탕 숙련": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "몸 식히는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "무슨 일이든 맡길 수 있다": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "문을 연 날": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "미역국과 냉면을 판다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "민재": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "박 씨": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "밖에 물놀이 할 데 없나? 여름엔 애들이 탕에 안 들어가.": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "받기": {
+    "files": [
+      "src/main.ts"
+    ],
+    "count": 1
+  },
+  "발이 빠르다": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "밤사이 ₩{amount} 벌었어요": {
+    "files": [
+      "src/data/orders.ts"
+    ],
+    "count": 1
+  },
+  "밤사이 벌어둔 돈이 꽉 찼어요": {
+    "files": [
+      "src/data/say.ts"
+    ],
+    "count": 1
+  },
+  "밤사이 영업": {
+    "files": [
+      "../../engine/base/src/data/ledger.ts"
+    ],
+    "count": 1
+  },
+  "밤샘 찜질": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "밤손님이 더 든다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "밤이 더 편해요.": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "방에서 보기": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "방학엔 올게요. 수면실 그 자리 맡아 주세요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "배경음악": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "배치 보너스": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "버스 광고": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "버스 타고 오는 손님이 생긴다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "버스가 줄지어 서고 요금도 크게 올라요": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "번호표": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "베테랑 알바": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "벽을 등졌다": {
+    "files": [
+      "src/data/content.ts"
+    ],
+    "count": 1
+  },
+  "벽을 등지고 놓는다": {
+    "files": [
+      "src/data/content.ts"
+    ],
+    "count": 1
+  },
+  "보송한 수건": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "보유 {0}": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "보통": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "불가마": {
+    "files": [
+      "src/data/facilities.ts",
+      "src/data/pages.ts"
+    ],
+    "count": 2
+  },
+  "불가마보다 덜 뜨겁다. 오래 앉아 있는다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "불러오는 중": {
+    "files": [
+      "../../engine/base/src/boot.ts",
+      "src/main.ts"
+    ],
+    "count": 3
+  },
+  "붙었어요! 시험 날 아침에도 여기서 씻고 갔어요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "붙여 놓은 기물이 더 잘 팔린다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "비 오는 날": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "비싼 손님이 더 쓰고 간다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "비어 있음": {
+    "files": [
+      "src/data/orders.ts"
+    ],
+    "count": 1
+  },
+  "빠른 손놀림": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "사람": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "사람 채용": {
+    "files": [
+      "../../engine/base/src/data/ledger.ts"
+    ],
+    "count": 1
+  },
+  "사연": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "사우나 즐기는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 3
+  },
+  "사장": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts",
+      "../../engine/base/src/data/story.ts"
+    ],
+    "count": 4
+  },
+  "사장님은 쉬세요.": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "삶은 계란과 음료를 판다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "삼촌이 남긴 가게. 열쇠와 함께 쪽지 한 장이 왔다.": {
+    "files": [
+      "../../engine/base/src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "상금 ₩{0}": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "새 조합을 찾았어요": {
+    "files": [
+      "../../engine/base/src/core/systems.ts"
+    ],
+    "count": 1
+  },
+  "새 지원서 {0}": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "새 지원서 받기": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "새 지원서가 왔어요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "새 직원을 뽑았어요": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "새내기 알바": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "서른일곱 군데 중에 다시 온 데는 여기 하나예요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "서비스": {
+    "files": [
+      "src/data/ledger.ts"
+    ],
+    "count": 1
+  },
+  "서비스 한 잔": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "설정": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts",
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 2
+  },
+  "설치 금지 구역": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 2
+  },
+  "세신대": {
+    "files": [
+      "src/data/facilities.ts",
+      "src/data/pages.ts"
+    ],
+    "count": 2
+  },
+  "소금방": {
+    "files": [
+      "src/data/facilities.ts",
+      "src/data/pages.ts"
+    ],
+    "count": 2
+  },
+  "소금방 뒤 숙면": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "소금방 직후": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 2
+  },
+  "소금방에 누운 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "소리": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "속도": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "손 비면 내가 뛴다": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "손 빠른 알바": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "손님": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "손님 {0}": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "손님 {0}/{1}명": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "손님 {0}명": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "손님 1000명을 받는다": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "손님 100명을 받는다": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "손님 도감": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "손님 자리만": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "손님은 알아서 온다. 네가 할 일은 갈 데를 만들어 주는 거야.": {
+    "files": [
+      "src/data/say.ts"
+    ],
+    "count": 1
+  },
+  "손님은 줄지만 오래 머물러요": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "손님을 맞이하고 요금을 정리한다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "손님이 기꺼이 더 쓰고 가요": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "손님이 기분 좋게 더 쓰고 간다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "손님이 내는 돈 {0}": {
+    "files": [
+      "../../engine/base/src/render/fixtureCard.ts"
+    ],
+    "count": 1
+  },
+  "손님이 내는 돈 {0} → {1}": {
+    "files": [
+      "../../engine/base/src/render/fixtureCard.ts"
+    ],
+    "count": 1
+  },
+  "손님이 못 갑니다 — 길을 터 주세요": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "손님이 쓰는 돈": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "손님이 여기로 들어온다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "손이 야무지다": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "손질": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "수면실": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "수면실 생겨서 살았어요. 새벽 두 시까지 공부하고 여기서 자요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "쉬는 중": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "스트리머": {
+    "files": [
+      "../../engine/base/src/data/greyboxGuests.ts"
+    ],
+    "count": 1
+  },
+  "스파 브랜드": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "스파 축제": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "스파랜드": {
+    "files": [
+      "src/data/records.ts",
+      "src/data/stages.ts"
+    ],
+    "count": 2
+  },
+  "스파랜드의 상징. 최대 수용.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "슬라이드 타는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "시설": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 3
+  },
+  "시설을 하나 사서 놓는다": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "시작": {
+    "files": [
+      "../../engine/base/src/render/bootCover.ts"
+    ],
+    "count": 1
+  },
+  "시키는 건 열심히 합니다!": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "시킨 거 안 나오네, 됐다": {
+    "files": [
+      "src/data/content.ts"
+    ],
+    "count": 1
+  },
+  "식당": {
+    "files": [
+      "src/data/facilities.ts",
+      "src/data/ledger.ts",
+      "src/data/pages.ts"
+    ],
+    "count": 3
+  },
+  "식당에서 한 그릇 더 시킨다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "식사 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "식혜 마시는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "식혜기계": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "식후 마사지": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "식후 안마": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "신발 맡기는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 2
+  },
+  "신발장": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "신발장은 그대로 뒀구나. 내 자리는 17번이야. 아무한테도 주지 마.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "심야 찜질": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "쓰는 돈": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "아 사람 있네, 됐다": {
+    "files": [
+      "src/data/content.ts"
+    ],
+    "count": 1
+  },
+  "아래 시설을 눌러라.": {
+    "files": [
+      "src/data/say.ts"
+    ],
+    "count": 1
+  },
+  "아무 데나": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "아이 노는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "아이 따라와서": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "아이가 놀면 가족이 통째로 온다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "아이도 어른도 붙잡는다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "아저씨": {
+    "files": [
+      "src/data/guests.ts"
+    ],
+    "count": 1
+  },
+  "아줌마": {
+    "files": [
+      "src/data/guests.ts"
+    ],
+    "count": 1
+  },
+  "아직 놓을 수 있는 게 없어요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "아직 새 지원서가 없어요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "아직 소개할 게임이 없어요": {
+    "files": [
+      "src/main.ts"
+    ],
+    "count": 1
+  },
+  "아직 안 실렸어요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "아직 연구할 게 없어요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "아직 열 수 없어요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "아직 열리지 않았어요": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts",
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 2
+  },
+  "아직 직원을 둘 수 없어요": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "안 뜯은 지원서": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "안마 받고 만화": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "안마 받는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "안마의자": {
+    "files": [
+      "src/data/facilities.ts",
+      "src/data/pages.ts"
+    ],
+    "count": 2
+  },
+  "알겠어요": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "알바": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "앞쪽": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 2
+  },
+  "애가 목욕탕이 처음이에요. 물이 무섭다고 울어서요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "야간 알바": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "어디를 맡길까": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "어머, 사장이 바뀌었네? 이모는?": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "어제 정산이 그대로 있어요": {
+    "files": [
+      "src/data/say.ts"
+    ],
+    "count": 1
+  },
+  "언어": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "언제까지 기다리라고": {
+    "files": [
+      "src/data/content.ts"
+    ],
+    "count": 1
+  },
+  "얼굴 익은 손님이 생겼어.": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "얼굴을 아는 사이": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "얼음방": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "엄마한테는 독서실이라고 했어요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "업적": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "업적 달성": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "업적 달성 — {0}": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "여기 김치찌개 먹으려고 일부러 야근해요. 농담이에요. 반은요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "여기, 이제 네가 맡아라. 난 무릎이 안 좋다.": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "여기다! 딱 내 스타일": {
+    "files": [
+      "../../engine/base/src/data/guests.ts"
+    ],
+    "count": 1
+  },
+  "여기로 옮기기": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "여기에 놓기": {
+    "files": [
+      "../../engine/base/src/render/PlaceMode.ts"
+    ],
+    "count": 1
+  },
+  "여기엔 못 놓아요": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts",
+      "../../engine/base/src/render/PlaceMode.ts"
+    ],
+    "count": 2
+  },
+  "여자 락커": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "여자 사우나": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "여자 신발장": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "여자 탈의실 옷장.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "여탕 신발을 맡긴다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "여탕 안쪽 사우나.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "여탕 온탕": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "여탕의 따뜻한 물.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "연구": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts",
+      "../../engine/base/src/render/researchContext.ts"
+    ],
+    "count": 2
+  },
+  "연구 +{0}": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "연구 점수": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 2
+  },
+  "연구 점수가 더 쌓인다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "연구를 끝냈어요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "연구소": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "연휴": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "열기 · {0}점": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "열어 둔 연구": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "열었어요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "영수증": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "영숙": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "영업 시작": {
+    "files": [
+      "src/main.ts"
+    ],
+    "count": 1
+  },
+  "옆 가게가 문을 닫았다. 그 자리까지 넘볼 때가 됐다.": {
+    "files": [
+      "../../engine/base/src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "옆 기물": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "옆 동네에서도 온다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "옆자리 효과": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "예약제로 받는 고단가 시술.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "오, 여기 괜찮은데?": {
+    "files": [
+      "../../engine/base/src/data/guests.ts"
+    ],
+    "count": 1
+  },
+  "오고 있어요": {
+    "files": [
+      "src/data/orders.ts"
+    ],
+    "count": 2
+  },
+  "오는 손님": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "오늘": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "오늘 {0} 벌었어요": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "오늘 나와요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "오늘 매출 {0} → 내일 +{1}점": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "오늘 번 돈": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts",
+      "src/data/content.ts"
+    ],
+    "count": 2
+  },
+  "오늘도 문 닫는다. 나쁘지 않았어.": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "오늘로 끝": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "오늘부터": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "오늘부터 이 자리는 당신 것이다. 문을 열자.": {
+    "files": [
+      "../../engine/base/src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "오늘은 공쳤네. 내일은 낫겠지.": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "오늘은 공쳤어요": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "오늘은 둘이야. 신발장 하나 더 줘.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "오늘은 손님이 없었어요": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "오늘은 하은이 생일이라 친구들을 데려왔어요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "오늘의 추천": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "오락실": {
+    "files": [
+      "src/data/facilities.ts",
+      "src/data/pages.ts"
+    ],
+    "count": 2
+  },
+  "오락실 옆": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "오래 머무는 손님이 늘어요": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "오랜만이에요": {
+    "files": [
+      "src/data/say.ts"
+    ],
+    "count": 1
+  },
+  "온탕": {
+    "files": [
+      "src/data/facilities.ts",
+      "src/data/pages.ts"
+    ],
+    "count": 2
+  },
+  "온탕과 번갈아 들면 더 오래 머문다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "옷 갈아입는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 2
+  },
+  "옷을 맡기는 곳. 입장료를 여기서 받는다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "요샌 애들까지 데리고 온다더라. 주말엔 자리가 없어.": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "요즘은 하은이가 먼저 가자고 해요. 키즈존 때문에요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "운영 숙련": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "워터슬라이드": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "워터파크": {
+    "files": [
+      "src/data/stages.ts"
+    ],
+    "count": 1
+  },
+  "월급날": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "유수풀": {
+    "files": [
+      "src/data/facilities.ts",
+      "src/data/pages.ts"
+    ],
+    "count": 2
+  },
+  "유수풀 떠다니는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "유수풀로 이어짐": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "음료 뽑는 중": {
+    "files": [
+      "../../engine/base/src/data/facilities.ts"
+    ],
+    "count": 2
+  },
+  "음료 자판기": {
+    "files": [
+      "../../engine/base/src/data/facilities.ts"
+    ],
+    "count": 2
+  },
+  "음료가 가깝다": {
+    "files": [
+      "../../engine/base/src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "이 바닥 10년입니다.": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "이걸로": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "이동": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "이동 불가: ": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "이른 개점": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "이름만 대면 아는 곳이 된다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "이모 (전 주인)": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "이모가 남긴 동네 목욕탕, 오늘부터 내 가게": {
+    "files": [
+      "src/main.ts"
+    ],
+    "count": 1
+  },
+  "이모의 동네 목욕탕은 30년을 버텼다.": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "이모한테 전화했어. 네 얘기 하니까 웃더라.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "이미 함께 일하고 있어요": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "이발소": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "이번 주 손님 많은 목욕탕을 뽑아요": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "이번 주 순위": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "이번 주 잘한 가게를 뽑아요": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "이번 행사 · 하나만 고르세요": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "이번 회차부터 보너스가 붙어요": {
+    "files": [
+      "../../engine/base/src/render/growthAxes.ts"
+    ],
+    "count": 1
+  },
+  "이번엔 넘기기": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "이야기 듣기": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "이어서 하기": {
+    "files": [
+      "src/main.ts"
+    ],
+    "count": 1
+  },
+  "이제 낮에도 탕이 비어 있다.": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "일당": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts",
+      "../../engine/base/src/data/ledger.ts"
+    ],
+    "count": 2
+  },
+  "일반 손님": {
+    "files": [
+      "../../engine/base/src/data/greyboxGuests.ts"
+    ],
+    "count": 1
+  },
+  "일하는 중": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "입간판": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "입욕 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 2
+  },
+  "입장료": {
+    "files": [
+      "src/data/ledger.ts"
+    ],
+    "count": 1
+  },
+  "자는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "자리": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 2
+  },
+  "자리 없네, 딴 데 가자": {
+    "files": [
+      "src/data/content.ts"
+    ],
+    "count": 1
+  },
+  "자리 없음": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "자리 차지됨": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "자리가 모자라. 사람을 그냥 돌려보냈어.": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "자리가 빨리 비어서 손님을 더 받아요": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "자리가 없어요 · 단계를 올리면 늘어나요": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "자리로 가는 중": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "자리를 금방 치운다": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "자판기·수리기만": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "작업 중": {
+    "files": [
+      "src/data/orders.ts"
+    ],
+    "count": 1
+  },
+  "작은 모임": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "잠김": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "잠깐 들러서 받아 가세요": {
+    "files": [
+      "src/data/say.ts"
+    ],
+    "count": 1
+  },
+  "잠시 멈췄어요": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "잡지": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "잡지 상금": {
+    "files": [
+      "../../engine/base/src/data/ledger.ts"
+    ],
+    "count": 1
+  },
+  "장마": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "장사": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 3
+  },
+  "저장됨": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "전국 찜질방 도는 중이에요. 여기가 서른일곱 번째예요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "전국 찜질방 순례": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "전단지": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "전단지 돌리기": {
+    "files": [
+      "../../engine/base/src/data/progression.ts",
+      "src/data/systems.ts"
+    ],
+    "count": 2
+  },
+  "젊은 손님이 오래 앉는다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "점장": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "정말 초기화할까요?": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "제 영상 보고 버스 타고 오는 분들이 있대요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "조금씩 더 벌게 된다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "조금씩 더 온다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "좋아하는 것": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "주문 {0}건": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "주문 취소": {
+    "files": [
+      "src/data/orders.ts"
+    ],
+    "count": 1
+  },
+  "주문이 밀려. 조리대를 늘리거나 가까이 놔.": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "준비 중": {
+    "files": [
+      "src/main.ts"
+    ],
+    "count": 1
+  },
+  "준비하고 있어요": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "줄 선 손님이 덜 돌아간다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "지금 {0}": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "지금 가게에 없어요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "지금 단계": {
+    "files": [
+      "../../engine/base/src/boot.ts"
+    ],
+    "count": 1
+  },
+  "지금 보너스 +{0}% · 이번 회차로 한 번 더 올라가요": {
+    "files": [
+      "../../engine/base/src/render/growthAxes.ts"
+    ],
+    "count": 1
+  },
+  "지금 상태": {
+    "files": [
+      "src/data/orders.ts"
+    ],
+    "count": 1
+  },
+  "지금 성능": {
+    "files": [
+      "../../engine/base/src/render/fixtureCard.ts"
+    ],
+    "count": 1
+  },
+  "지금 여기": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "지금까지 {0}등급": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 1
+  },
+  "지금까지 {0}번 다시 열었어요 · 배운 건 그대로 남아요": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "지금까지 번 돈": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "지금까지 영업한 날": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "지금은 광고가 없어요": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "지금은 다시 볼 안내가 없어요": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "지금은 뽑을 수 없어요": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "지나가던 사람이 가게를 알아봐요": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "지나가던 사람이 한 번 더 들어온다": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "지현": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "직원": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 2
+  },
+  "직원 교육": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "직원 기다리는 중 {sec}초": {
+    "files": [
+      "src/data/orders.ts"
+    ],
+    "count": 1
+  },
+  "직원 오는 중": {
+    "files": [
+      "src/data/orders.ts"
+    ],
+    "count": 1
+  },
+  "직원 오는 중 {sec}초": {
+    "files": [
+      "src/data/orders.ts"
+    ],
+    "count": 1
+  },
+  "직장인": {
+    "files": [
+      "../../engine/base/src/data/greyboxGuests.ts",
+      "src/data/guests.ts"
+    ],
+    "count": 2
+  },
+  "진상": {
+    "files": [
+      "../../engine/base/src/data/greyboxGuests.ts"
+    ],
+    "count": 1
+  },
+  "진열장": {
+    "files": [
+      "../../engine/base/src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "진열장이 눈에 든다": {
+    "files": [
+      "../../engine/base/src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "집는 중": {
+    "files": [
+      "src/data/orders.ts"
+    ],
+    "count": 1
+  },
+  "집에 있으면 마누라가 눈치를 줘. 여기가 내 사무실이야.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "찜질 끝의 그 한 잔.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "찜질 세트 메뉴": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "찜질 코스의 마무리.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "찜질 후 숙면": {
+    "files": [
+      "src/data/systems.ts"
+    ],
+    "count": 1
+  },
+  "찜질방 간판": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "찜질방 추가": {
+    "files": [
+      "src/data/stages.ts"
+    ],
+    "count": 1
+  },
+  "찜질방 키우기": {
+    "files": [
+      "src/main.ts"
+    ],
+    "count": 1
+  },
+  "찜질방은 잘 있어요": {
+    "files": [
+      "src/data/say.ts"
+    ],
+    "count": 1
+  },
+  "찾아낸 조합": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "채용": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "처리했어요": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "처음부터": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "처음부터 다시": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "처음부터 다시 하기": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "천 명의 손님": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "천만 고지": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "첫 백만": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "청소 습관": {
+    "files": [
+      "../../engine/base/src/data/progression.ts"
+    ],
+    "count": 1
+  },
+  "초기화": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "총 ₩{0}": {
+    "files": [
+      "../../engine/base/src/render/npcTypes.ts"
+    ],
+    "count": 1
+  },
+  "최고 기록": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "최고 레벨": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "추워서 다들 뜨끈한 데를 찾아요": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "치우는 걸 배우는 중": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "치우는 시간 20% 짧아짐": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "치우는 중": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "친절": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "카운터": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts",
+      "../../engine/base/src/data/facilities.ts",
+      "src/data/facilities.ts"
+    ],
+    "count": 3
+  },
+  "카운터 쪽만": {
+    "files": [
+      "src/data/pages.ts"
+    ],
+    "count": 1
+  },
+  "켜짐": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "큰 잔치": {
+    "files": [
+      "../../engine/base/src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "키즈존": {
+    "files": [
+      "src/data/facilities.ts",
+      "src/data/pages.ts"
+    ],
+    "count": 2
+  },
+  "탕은 좋은데… 땀 뺄 데가 없어. 젊은 애들은 그거 하러 오잖아.": {
+    "files": [
+      "src/data/story.ts"
+    ],
+    "count": 1
+  },
+  "탕이 계속 뜨끈했어요": {
+    "files": [
+      "src/data/say.ts"
+    ],
+    "count": 1
+  },
+  "탕이 북적북적": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "탭하면 다음 ▶": {
+    "files": [
+      "../../engine/base/src/data/story.ts",
+      "src/data/story.ts"
+    ],
+    "count": 2
+  },
+  "튜토리얼 다시 보기": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "특급": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "특기": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "특별한 날": {
+    "files": [
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 2
+  },
+  "특성": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "판매 +₩{0}": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "팔기 ₩{0}": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "하늘 보며 담근다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "하드코어": {
+    "files": [
+      "../../engine/base/src/data/greyboxGuests.ts"
+    ],
+    "count": 1
+  },
+  "하루가 끝나면 얼마 벌었는지 나온다. 그게 다음 걸 들일 밑천이야.": {
+    "files": [
+      "src/data/say.ts"
+    ],
+    "count": 1
+  },
+  "하은이 엄마": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "학생": {
+    "files": [
+      "../../engine/base/src/data/greyboxGuests.ts",
+      "src/data/guests.ts"
+    ],
+    "count": 2
+  },
+  "한 권 잡으면 시간이 훅 간다.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "한 단 올리기": {
+    "files": [
+      "../../engine/base/src/render/fixtureCard.ts"
+    ],
+    "count": 1
+  },
+  "한 달 영업": {
+    "files": [
+      "src/data/records.ts"
+    ],
+    "count": 1
+  },
+  "한 번 더 열기": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts",
+      "../../engine/base/src/render/growthAxes.ts"
+    ],
+    "count": 2
+  },
+  "한쪽만 키운 곳은 여기서 밀려요": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "한파": {
+    "files": [
+      "src/data/world.ts"
+    ],
+    "count": 1
+  },
+  "합계": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "행사": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts",
+      "../../engine/base/src/data/ledger.ts",
+      "../../engine/base/src/render/UIScene.ts",
+      "../../engine/base/src/render/settleData.ts"
+    ],
+    "count": 6
+  },
+  "행사 상금": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "행사가 끝났어요 — {0}": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "회사 그만뒀어요. 이제 여섯 시에 퇴근해요.": {
+    "files": [
+      "src/data/guestStories.ts"
+    ],
+    "count": 1
+  },
+  "회전": {
+    "files": [
+      "../../engine/base/src/render/PlaceMode.ts",
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 2
+  },
+  "회전 불가: ": {
+    "files": [
+      "../../engine/base/src/render/GameScene.ts"
+    ],
+    "count": 1
+  },
+  "효과음": {
+    "files": [
+      "../../engine/base/src/render/UIScene.ts"
+    ],
+    "count": 1
+  },
+  "휴게": {
+    "files": [
+      "src/data/ledger.ts"
+    ],
+    "count": 1
+  },
+  "DAY {0} 까지 진행": {
+    "files": [
+      "../../engine/base/src/boot.ts"
+    ],
+    "count": 1
+  },
+  "DAY {0} 마감": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "DAY {0} 시작": {
+    "files": [
+      "../../engine/base/src/data/settleTexts.ts"
+    ],
+    "count": 1
+  },
+  "Lv.{0} 특성 하나 고르기": {
+    "files": [
+      "../../engine/base/src/data/common/pages.ts"
+    ],
+    "count": 1
+  },
+  "PC 수리기": {
+    "files": [
+      "../../engine/base/src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "PC 좌석": {
+    "files": [
+      "../../engine/base/src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "PC 하는 중": {
+    "files": [
+      "../../engine/base/src/data/facilities.ts",
+      "src/data/facilities.ts"
+    ],
+    "count": 2
+  },
+  "PC방": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "VIP 대접 받는 중": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "VIP룸": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  },
+  "VIP룸. 이 찜질방에서 제일 비싼 자리.": {
+    "files": [
+      "src/data/facilities.ts"
+    ],
+    "count": 1
+  }
+}

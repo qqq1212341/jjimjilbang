@@ -1,0 +1,129 @@
+{
+  "id": "cozy-tourist-v1",
+  "action": "sleepBath",
+  "directions": {
+    "0": [
+      {
+        "error": 5.061605929607733e-8,
+        "file": "cozy-tourist-v1-sleepBath-d0-0.webp"
+      },
+      {
+        "error": 5.052472943436742e-8,
+        "file": "cozy-tourist-v1-sleepBath-d0-1.webp"
+      },
+      {
+        "error": 5.052472943436742e-8,
+        "file": "cozy-tourist-v1-sleepBath-d0-2.webp"
+      },
+      {
+        "error": 5.0669679503826874e-8,
+        "file": "cozy-tourist-v1-sleepBath-d0-3.webp"
+      },
+      {
+        "error": 5.0834530375971185e-8,
+        "file": "cozy-tourist-v1-sleepBath-d0-4.webp"
+      },
+      {
+        "error": 5.0834530375971185e-8,
+        "file": "cozy-tourist-v1-sleepBath-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 5.061605929607733e-8,
+        "file": "cozy-tourist-v1-sleepBath-d90-0.webp"
+      },
+      {
+        "error": 5.052472943436742e-8,
+        "file": "cozy-tourist-v1-sleepBath-d90-1.webp"
+      },
+      {
+        "error": 5.052472943436742e-8,
+        "file": "cozy-tourist-v1-sleepBath-d90-2.webp"
+      },
+      {
+        "error": 5.0669679503826874e-8,
+        "file": "cozy-tourist-v1-sleepBath-d90-3.webp"
+      },
+      {
+        "error": 5.0834530375971185e-8,
+        "file": "cozy-tourist-v1-sleepBath-d90-4.webp"
+      },
+      {
+        "error": 5.0834530375971185e-8,
+        "file": "cozy-tourist-v1-sleepBath-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 5.061605929607733e-8,
+        "file": "cozy-tourist-v1-sleepBath-d180-0.webp"
+      },
+      {
+        "error": 5.052472943436742e-8,
+        "file": "cozy-tourist-v1-sleepBath-d180-1.webp"
+      },
+      {
+        "error": 5.052472943436742e-8,
+        "file": "cozy-tourist-v1-sleepBath-d180-2.webp"
+      },
+      {
+        "error": 5.0669679503826874e-8,
+        "file": "cozy-tourist-v1-sleepBath-d180-3.webp"
+      },
+      {
+        "error": 5.0834530375971185e-8,
+        "file": "cozy-tourist-v1-sleepBath-d180-4.webp"
+      },
+      {
+        "error": 5.0834530375971185e-8,
+        "file": "cozy-tourist-v1-sleepBath-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 5.061605929607733e-8,
+        "file": "cozy-tourist-v1-sleepBath-d270-0.webp"
+      },
+      {
+        "error": 5.052472943436742e-8,
+        "file": "cozy-tourist-v1-sleepBath-d270-1.webp"
+      },
+      {
+        "error": 5.052472943436742e-8,
+        "file": "cozy-tourist-v1-sleepBath-d270-2.webp"
+      },
+      {
+        "error": 5.0669679503826874e-8,
+        "file": "cozy-tourist-v1-sleepBath-d270-3.webp"
+      },
+      {
+        "error": 5.0834530375971185e-8,
+        "file": "cozy-tourist-v1-sleepBath-d270-4.webp"
+      },
+      {
+        "error": 5.0834530375971185e-8,
+        "file": "cozy-tourist-v1-sleepBath-d270-5.webp"
+      }
+    ]
+  },
+  "width": 179,
+  "height": 83,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5542168674698795
+  },
+  "crop": {
+    "left": 333,
+    "top": 676
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 2600,
+  "maxError": 5.0834530375971185e-8,
+  "props": [
+    "mat"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5719247837893897
+}

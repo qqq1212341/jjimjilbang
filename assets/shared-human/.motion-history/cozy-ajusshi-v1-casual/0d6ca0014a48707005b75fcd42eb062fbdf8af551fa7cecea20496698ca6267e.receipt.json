@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "2f976f05b472faf237e6e7975aafe649b88aee787b278836cb5fda48cfab5d9e",
+  "previous": "absent",
+  "current": "0d6ca0014a48707005b75fcd42eb062fbdf8af551fa7cecea20496698ca6267e",
+  "approvedBy": "사장님(jjs01hwang) 2026-09-25 대화 승인",
+  "review": {
+    "version": 1,
+    "fingerprint": "2f976f05b472faf237e6e7975aafe649b88aee787b278836cb5fda48cfab5d9e",
+    "candidateDigest": "0d6ca0014a48707005b75fcd42eb062fbdf8af551fa7cecea20496698ca6267e",
+    "approved": true,
+    "approvedBy": "사장님(jjs01hwang) 2026-09-25 대화 승인",
+    "checks": {
+      "ground-and-loop-visual-review": {
+        "passed": true,
+        "evidence": "../ajusshi-casual-v2-review.webp",
+        "sha256": "8754736f1eff935e63c6c0a4132b65b2a0218e2e27bc2fdb12a41be03a973334"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-wet-v3/male-report.json",
+        "sha256": "8f25ab0d60e07780e679a8a4fc06e5bb663cd628850d1ad9889f46671fa6487e"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_cast-walk-perf.json",
+        "sha256": "4ccd8fb14e3ab5764949d2fe4ce8798f1ddf5174e3b78ab63b070e1e1b297f82"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-25-bath-looks-and-enter.md",
+        "sha256": "43d98435e8e66ddcc06a4fc879e5f7a81ddf15f9f3933a731dac930437d7269b"
+      }
+    }
+  }
+}

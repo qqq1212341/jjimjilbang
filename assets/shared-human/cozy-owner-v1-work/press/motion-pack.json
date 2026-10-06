@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "adapter": "body",
+  "adapterVersion": 1,
+  "key": "cozy-owner-v1/press",
+  "stage": "baked-candidate",
+  "productionReady": false,
+  "renderKey": "57ada9d75d4a6789da21751ba97a86e27c98ac2dd7600f53df105eade1142417",
+  "fingerprint": "06ad95b30325acd001079805889ed19f95a63995b76736c3dd8527f1d207a0e6",
+  "provenance": {
+    "assets": {
+      "/models/owner_walk.glb": "3e8931ec40b2683cd7f30d8e74b12471bfbe59c61dda5f82a95bcd1f80ad24e0",
+      "/models/jjim_owner_opaque_remesh_walk.glb": "a089364aa6583b98489dd3436442361fc5812695a3a6a762a745f662a6f2715b"
+    },
+    "resources": {},
+    "engine": {
+      "executable": "/Users/jjs01/.cache/dgl-seat-baker/150.0.7871.124/mac-arm64/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing",
+      "expectedVersion": "150.0.7871.124",
+      "canvasFlags": [
+        "--disable-features=SkiaGraphite"
+      ],
+      "angle": "metal",
+      "platform": "darwin",
+      "arch": "arm64",
+      "binaryHash": "22ddf33cec88bbfd181588eb3da31250a65ba8ebfdb6efcd2694a36275697284",
+      "hardware": "Apple M4 Pro",
+      "osRelease": "24.6.0",
+      "montage": "Version: ImageMagick 7.1.1-41 Q16-HDRI x86_64 22504 https://imagemagick.org\nCopyright: (C) 1999 ImageMagick Studio LLC\nLicense: https://imagemagick.org/script/license.php\nFeatures: Cipher DPC HDRI Modules OpenMP \nDelegates (built-in): bzlib fontconfig freetype gslib heic jng jp2 jpeg jxl lcms lqr ltdl lzma openexr png ps raw tiff webp xml zlib zstd\nCompiler: clang (16.0.0)"
+    },
+    "sourceHash": "c2238335b607f38f99067db4fcc38d727d296891e7291873f63029c172fb6011"
+  },
+  "clips": [
+    {
+      "motion": "press",
+      "format": "shared-human-v1",
+      "metadata": "cozy-owner-v1-press.json",
+      "runtimeMetadata": "clip.json",
+      "clock": "simulation",
+      "loop": false
+    }
+  ],
+  "gates": {
+    "handError": 1.1102242059966038e-7,
+    "fourDirections": true,
+    "fixedPivot": true
+  },
+  "pending": [
+    "contact:button",
+    "ground-and-loop-visual-review",
+    "game-integration",
+    "performance",
+    "human-approval"
+  ]
+}

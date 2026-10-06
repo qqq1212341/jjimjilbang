@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "adapter": "jjim-activity",
+  "adapterVersion": 1,
+  "key": "cozy-ajumma-f-v1/waterslide",
+  "stage": "baked-candidate",
+  "productionReady": false,
+  "renderKey": "ca8323a9be3d9b32605b8f59facc51316e6b8dc46ff31ebbdf07ab633ca5ada9",
+  "fingerprint": "8ec74a3d2f6452c792a4e13f42147efddd10bb2ae1cfc6d91cf8106bd245efae",
+  "provenance": {
+    "assets": {
+      "/models/jjim_guest_female_wet_stripped_trial.glb": "cb547395b213006e31cc3dabb086deb35d9a65bc101535f904829445fdb5d05b"
+    },
+    "resources": {},
+    "engine": {
+      "executable": "/Users/jjs01/.cache/dgl-seat-baker/150.0.7871.124/mac-arm64/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing",
+      "expectedVersion": "150.0.7871.124",
+      "canvasFlags": [
+        "--disable-features=SkiaGraphite"
+      ],
+      "angle": "metal",
+      "platform": "darwin",
+      "arch": "arm64",
+      "binaryHash": "22ddf33cec88bbfd181588eb3da31250a65ba8ebfdb6efcd2694a36275697284",
+      "hardware": "Apple M4 Pro",
+      "osRelease": "24.6.0",
+      "montage": "Version: ImageMagick 7.1.1-41 Q16-HDRI x86_64 22504 https://imagemagick.org\nCopyright: (C) 1999 ImageMagick Studio LLC\nLicense: https://imagemagick.org/script/license.php\nFeatures: Cipher DPC HDRI Modules OpenMP \nDelegates (built-in): bzlib fontconfig freetype gslib heic jng jp2 jpeg jxl lcms lqr ltdl lzma openexr png ps raw tiff webp xml zlib zstd\nCompiler: clang (16.0.0)"
+    },
+    "sourceHash": "83a932612f20d354d733a4a44d87629033cbc111f77a315dd03ea4f447f06620"
+  },
+  "clips": [
+    {
+      "motion": "waterslide",
+      "format": "shared-human-v1",
+      "metadata": "cozy-ajumma-f-v1-waterslide.json",
+      "runtimeMetadata": "clip.json",
+      "clock": "simulation",
+      "loop": true
+    }
+  ],
+  "gates": {
+    "handError": 4.863397055973099e-8,
+    "fourDirections": true,
+    "fixedPivot": true
+  },
+  "pending": [
+    "facility-contact-visual-review",
+    "game-integration",
+    "performance",
+    "human-approval"
+  ]
+}

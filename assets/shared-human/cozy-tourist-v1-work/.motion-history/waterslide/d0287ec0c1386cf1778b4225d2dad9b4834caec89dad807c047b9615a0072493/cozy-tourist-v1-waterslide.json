@@ -1,0 +1,129 @@
+{
+  "id": "cozy-tourist-v1",
+  "action": "waterslide",
+  "directions": {
+    "0": [
+      {
+        "error": 3.8874926593104366e-8,
+        "file": "cozy-tourist-v1-waterslide-d0-0.webp"
+      },
+      {
+        "error": 4.0611464531900495e-8,
+        "file": "cozy-tourist-v1-waterslide-d0-1.webp"
+      },
+      {
+        "error": 4.0611464531900495e-8,
+        "file": "cozy-tourist-v1-waterslide-d0-2.webp"
+      },
+      {
+        "error": 3.8874926593104366e-8,
+        "file": "cozy-tourist-v1-waterslide-d0-3.webp"
+      },
+      {
+        "error": 3.340128285068954e-8,
+        "file": "cozy-tourist-v1-waterslide-d0-4.webp"
+      },
+      {
+        "error": 3.3401282920203187e-8,
+        "file": "cozy-tourist-v1-waterslide-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 3.8874926593104366e-8,
+        "file": "cozy-tourist-v1-waterslide-d90-0.webp"
+      },
+      {
+        "error": 4.0611464531900495e-8,
+        "file": "cozy-tourist-v1-waterslide-d90-1.webp"
+      },
+      {
+        "error": 4.0611464531900495e-8,
+        "file": "cozy-tourist-v1-waterslide-d90-2.webp"
+      },
+      {
+        "error": 3.8874926593104366e-8,
+        "file": "cozy-tourist-v1-waterslide-d90-3.webp"
+      },
+      {
+        "error": 3.340128285068954e-8,
+        "file": "cozy-tourist-v1-waterslide-d90-4.webp"
+      },
+      {
+        "error": 3.3401282920203187e-8,
+        "file": "cozy-tourist-v1-waterslide-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 3.8874926593104366e-8,
+        "file": "cozy-tourist-v1-waterslide-d180-0.webp"
+      },
+      {
+        "error": 4.0611464531900495e-8,
+        "file": "cozy-tourist-v1-waterslide-d180-1.webp"
+      },
+      {
+        "error": 4.0611464531900495e-8,
+        "file": "cozy-tourist-v1-waterslide-d180-2.webp"
+      },
+      {
+        "error": 3.8874926593104366e-8,
+        "file": "cozy-tourist-v1-waterslide-d180-3.webp"
+      },
+      {
+        "error": 3.340128285068954e-8,
+        "file": "cozy-tourist-v1-waterslide-d180-4.webp"
+      },
+      {
+        "error": 3.3401282920203187e-8,
+        "file": "cozy-tourist-v1-waterslide-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 3.8874926593104366e-8,
+        "file": "cozy-tourist-v1-waterslide-d270-0.webp"
+      },
+      {
+        "error": 4.0611464531900495e-8,
+        "file": "cozy-tourist-v1-waterslide-d270-1.webp"
+      },
+      {
+        "error": 4.0611464531900495e-8,
+        "file": "cozy-tourist-v1-waterslide-d270-2.webp"
+      },
+      {
+        "error": 3.8874926593104366e-8,
+        "file": "cozy-tourist-v1-waterslide-d270-3.webp"
+      },
+      {
+        "error": 3.340128285068954e-8,
+        "file": "cozy-tourist-v1-waterslide-d270-4.webp"
+      },
+      {
+        "error": 3.3401282920203187e-8,
+        "file": "cozy-tourist-v1-waterslide-d270-5.webp"
+      }
+    ]
+  },
+  "width": 99,
+  "height": 121,
+  "pivot": {
+    "x": 0.49999999999999994,
+    "y": 0.7644628099173554
+  },
+  "crop": {
+    "left": 413,
+    "top": 583
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1200,
+  "maxError": 4.0611464531900495e-8,
+  "props": [
+    "splash"
+  ],
+  "look": "wet",
+  "armRatio": 0.5719247837893897
+}

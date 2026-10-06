@@ -1,0 +1,130 @@
+{
+  "id": "cozy-family-f-v1",
+  "action": "lazyRiver",
+  "directions": {
+    "0": [
+      {
+        "error": 6.573375137436013e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d0-0.webp"
+      },
+      {
+        "error": 6.061102192161159e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d0-1.webp"
+      },
+      {
+        "error": 6.061102208457337e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d0-2.webp"
+      },
+      {
+        "error": 6.573376573876852e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d0-3.webp"
+      },
+      {
+        "error": 7.233333281242919e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d0-4.webp"
+      },
+      {
+        "error": 7.23333325712713e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 6.573375137436013e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d90-0.webp"
+      },
+      {
+        "error": 6.061102192161159e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d90-1.webp"
+      },
+      {
+        "error": 6.061102208457337e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d90-2.webp"
+      },
+      {
+        "error": 6.573376573876852e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d90-3.webp"
+      },
+      {
+        "error": 7.233333281242919e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d90-4.webp"
+      },
+      {
+        "error": 7.23333325712713e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 6.573375137436013e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d180-0.webp"
+      },
+      {
+        "error": 6.061102192161159e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d180-1.webp"
+      },
+      {
+        "error": 6.061102208457337e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d180-2.webp"
+      },
+      {
+        "error": 6.573376573876852e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d180-3.webp"
+      },
+      {
+        "error": 7.233333281242919e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d180-4.webp"
+      },
+      {
+        "error": 7.23333325712713e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 6.573375137436013e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d270-0.webp"
+      },
+      {
+        "error": 6.061102192161159e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d270-1.webp"
+      },
+      {
+        "error": 6.061102208457337e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d270-2.webp"
+      },
+      {
+        "error": 6.573376573876852e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d270-3.webp"
+      },
+      {
+        "error": 7.233333281242919e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d270-4.webp"
+      },
+      {
+        "error": 7.23333325712713e-8,
+        "file": "cozy-family-f-v1-lazyRiver-d270-5.webp"
+      }
+    ]
+  },
+  "width": 79,
+  "height": 135,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.825925925925926
+  },
+  "crop": {
+    "left": 433,
+    "top": 545
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1800,
+  "maxError": 7.233333281242919e-8,
+  "props": [
+    "water",
+    "tube"
+  ],
+  "look": "wet",
+  "armRatio": 0.5974128313389201
+}

@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "979f44e08ce375e76a02dd98fdbc415f6c0dba2b5955a8556bfc4e0cd6e63803",
+  "previous": "714726a6fe7869a45ecec11dac1c2d0aca605d577a10b3fc2c8939afea6b6119",
+  "current": "642e27a5d7637007bad338fffd9d595fda1d8ca79eda5152d66e6e39d5e76c81",
+  "approvedBy": "사장님 승인 기록 2026-09-26-casual-joint-fix.md",
+  "review": {
+    "version": 1,
+    "fingerprint": "979f44e08ce375e76a02dd98fdbc415f6c0dba2b5955a8556bfc4e0cd6e63803",
+    "candidateDigest": "642e27a5d7637007bad338fffd9d595fda1d8ca79eda5152d66e6e39d5e76c81",
+    "approved": true,
+    "approvedBy": "사장님 승인 기록 2026-09-26-casual-joint-fix.md",
+    "checks": {
+      "facility-contact-visual-review": {
+        "passed": true,
+        "evidence": "../casual-joint-fix-review.webp",
+        "sha256": "aa648033d425976397a524ea1e9eb7366eb791126b81fff9e899cb77de38f9c2"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-activity-v2/report.json",
+        "sha256": "e3eb2fb8a2764f69aec8631c18124c47abdea1ef74b2ac05ced6841eac20ffbc"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_guest-activity-perf.json",
+        "sha256": "b6ae19e258831d9e5113ef096660ad246649db7c4f05872a4b98b8e38e734332"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-26-casual-joint-fix.md",
+        "sha256": "3f510756954e329e0bf7fe6352cb38d1d6b8a5455201f5a0aa06808221f37c29"
+      }
+    }
+  }
+}

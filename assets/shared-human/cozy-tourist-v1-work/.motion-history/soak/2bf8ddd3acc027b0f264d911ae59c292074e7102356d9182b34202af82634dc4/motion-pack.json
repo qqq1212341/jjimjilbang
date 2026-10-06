@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "adapter": "jjim-activity",
+  "adapterVersion": 1,
+  "key": "cozy-tourist-v1/soak",
+  "stage": "baked-candidate",
+  "productionReady": false,
+  "renderKey": "601cd0a6a321e2761a0adf8e9fa130cfd6ae9ab0069a920da7926509a89f86b5",
+  "fingerprint": "6cc20f2f2f79a2475ec223058cb775d1b2ca3d703adf2ede1b313bce66dd8f68",
+  "provenance": {
+    "assets": {
+      "/models/jjim_guest_tourist_remesh_wet_stripped_trial.glb": "e18f16c9bf79ce8798f7f01ced77c0832a084ff5d569b5651d642aa51a225ddc"
+    },
+    "resources": {},
+    "engine": {
+      "executable": "/Users/jjs01/.cache/dgl-seat-baker/150.0.7871.124/mac-arm64/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing",
+      "expectedVersion": "150.0.7871.124",
+      "canvasFlags": [
+        "--disable-features=SkiaGraphite"
+      ],
+      "angle": "metal",
+      "platform": "darwin",
+      "arch": "arm64",
+      "binaryHash": "22ddf33cec88bbfd181588eb3da31250a65ba8ebfdb6efcd2694a36275697284",
+      "hardware": "Apple M4 Pro",
+      "osRelease": "24.6.0",
+      "montage": "Version: ImageMagick 7.1.1-41 Q16-HDRI x86_64 22504 https://imagemagick.org\nCopyright: (C) 1999 ImageMagick Studio LLC\nLicense: https://imagemagick.org/script/license.php\nFeatures: Cipher DPC HDRI Modules OpenMP \nDelegates (built-in): bzlib fontconfig freetype gslib heic jng jp2 jpeg jxl lcms lqr ltdl lzma openexr png ps raw tiff webp xml zlib zstd\nCompiler: clang (16.0.0)"
+    },
+    "sourceHash": "83a932612f20d354d733a4a44d87629033cbc111f77a315dd03ea4f447f06620"
+  },
+  "clips": [
+    {
+      "motion": "soak",
+      "format": "shared-human-v1",
+      "metadata": "cozy-tourist-v1-soak.json",
+      "runtimeMetadata": "clip.json",
+      "clock": "simulation",
+      "loop": true
+    }
+  ],
+  "gates": {
+    "handError": 5.5567321889800074e-8,
+    "fourDirections": true,
+    "fixedPivot": true
+  },
+  "pending": [
+    "facility-contact-visual-review",
+    "game-integration",
+    "performance",
+    "human-approval"
+  ]
+}

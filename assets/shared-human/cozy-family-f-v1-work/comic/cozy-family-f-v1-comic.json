@@ -1,0 +1,130 @@
+{
+  "id": "cozy-family-f-v1",
+  "action": "comic",
+  "directions": {
+    "0": [
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d0-0.webp"
+      },
+      {
+        "error": 9.229239592426587e-8,
+        "file": "cozy-family-f-v1-comic-d0-1.webp"
+      },
+      {
+        "error": 9.229239592426587e-8,
+        "file": "cozy-family-f-v1-comic-d0-2.webp"
+      },
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d0-3.webp"
+      },
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d0-4.webp"
+      },
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d90-0.webp"
+      },
+      {
+        "error": 9.229239592426587e-8,
+        "file": "cozy-family-f-v1-comic-d90-1.webp"
+      },
+      {
+        "error": 9.229239592426587e-8,
+        "file": "cozy-family-f-v1-comic-d90-2.webp"
+      },
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d90-3.webp"
+      },
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d90-4.webp"
+      },
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d180-0.webp"
+      },
+      {
+        "error": 9.229239592426587e-8,
+        "file": "cozy-family-f-v1-comic-d180-1.webp"
+      },
+      {
+        "error": 9.229239592426587e-8,
+        "file": "cozy-family-f-v1-comic-d180-2.webp"
+      },
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d180-3.webp"
+      },
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d180-4.webp"
+      },
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d270-0.webp"
+      },
+      {
+        "error": 9.229239592426587e-8,
+        "file": "cozy-family-f-v1-comic-d270-1.webp"
+      },
+      {
+        "error": 9.229239592426587e-8,
+        "file": "cozy-family-f-v1-comic-d270-2.webp"
+      },
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d270-3.webp"
+      },
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d270-4.webp"
+      },
+      {
+        "error": 9.003428547084495e-8,
+        "file": "cozy-family-f-v1-comic-d270-5.webp"
+      }
+    ]
+  },
+  "width": 160,
+  "height": 121,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.7396694214876033
+  },
+  "crop": {
+    "left": 352,
+    "top": 589
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1800,
+  "maxError": 9.229239592426587e-8,
+  "props": [
+    "mat",
+    "book"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5974128313389201
+}

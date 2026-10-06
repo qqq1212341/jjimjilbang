@@ -1,0 +1,129 @@
+{
+  "id": "cozy-tourist-v1",
+  "action": "cold",
+  "directions": {
+    "0": [
+      {
+        "error": 6.85124292420074e-8,
+        "file": "cozy-tourist-v1-cold-d0-0.webp"
+      },
+      {
+        "error": 6.968931707740971e-8,
+        "file": "cozy-tourist-v1-cold-d0-1.webp"
+      },
+      {
+        "error": 6.726778223981481e-8,
+        "file": "cozy-tourist-v1-cold-d0-2.webp"
+      },
+      {
+        "error": 6.851244437585068e-8,
+        "file": "cozy-tourist-v1-cold-d0-3.webp"
+      },
+      {
+        "error": 6.96893169225537e-8,
+        "file": "cozy-tourist-v1-cold-d0-4.webp"
+      },
+      {
+        "error": 6.726778223981481e-8,
+        "file": "cozy-tourist-v1-cold-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 6.85124292420074e-8,
+        "file": "cozy-tourist-v1-cold-d90-0.webp"
+      },
+      {
+        "error": 6.968931707740971e-8,
+        "file": "cozy-tourist-v1-cold-d90-1.webp"
+      },
+      {
+        "error": 6.726778223981481e-8,
+        "file": "cozy-tourist-v1-cold-d90-2.webp"
+      },
+      {
+        "error": 6.851244437585068e-8,
+        "file": "cozy-tourist-v1-cold-d90-3.webp"
+      },
+      {
+        "error": 6.96893169225537e-8,
+        "file": "cozy-tourist-v1-cold-d90-4.webp"
+      },
+      {
+        "error": 6.726778223981481e-8,
+        "file": "cozy-tourist-v1-cold-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 6.85124292420074e-8,
+        "file": "cozy-tourist-v1-cold-d180-0.webp"
+      },
+      {
+        "error": 6.968931707740971e-8,
+        "file": "cozy-tourist-v1-cold-d180-1.webp"
+      },
+      {
+        "error": 6.726778223981481e-8,
+        "file": "cozy-tourist-v1-cold-d180-2.webp"
+      },
+      {
+        "error": 6.851244437585068e-8,
+        "file": "cozy-tourist-v1-cold-d180-3.webp"
+      },
+      {
+        "error": 6.96893169225537e-8,
+        "file": "cozy-tourist-v1-cold-d180-4.webp"
+      },
+      {
+        "error": 6.726778223981481e-8,
+        "file": "cozy-tourist-v1-cold-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 6.85124292420074e-8,
+        "file": "cozy-tourist-v1-cold-d270-0.webp"
+      },
+      {
+        "error": 6.968931707740971e-8,
+        "file": "cozy-tourist-v1-cold-d270-1.webp"
+      },
+      {
+        "error": 6.726778223981481e-8,
+        "file": "cozy-tourist-v1-cold-d270-2.webp"
+      },
+      {
+        "error": 6.851244437585068e-8,
+        "file": "cozy-tourist-v1-cold-d270-3.webp"
+      },
+      {
+        "error": 6.96893169225537e-8,
+        "file": "cozy-tourist-v1-cold-d270-4.webp"
+      },
+      {
+        "error": 6.726778223981481e-8,
+        "file": "cozy-tourist-v1-cold-d270-5.webp"
+      }
+    ]
+  },
+  "width": 77,
+  "height": 149,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8389261744966444
+  },
+  "crop": {
+    "left": 435,
+    "top": 518
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 900,
+  "maxError": 6.968931707740971e-8,
+  "props": [
+    "water"
+  ],
+  "look": "wet",
+  "armRatio": 0.5719247837893897
+}

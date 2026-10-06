@@ -1,0 +1,161 @@
+{
+  "id": "cozy-office-f-v1",
+  "action": "changeBack",
+  "directions": {
+    "0": [
+      {
+        "error": 1.404534822391533e-7,
+        "file": "cozy-office-f-v1-changeBack-d0-0.webp"
+      },
+      {
+        "error": 1.422421041317012e-7,
+        "file": "cozy-office-f-v1-changeBack-d0-1.webp"
+      },
+      {
+        "error": 1.465383549490922e-7,
+        "file": "cozy-office-f-v1-changeBack-d0-2.webp"
+      },
+      {
+        "error": 1.5188087595766242e-7,
+        "file": "cozy-office-f-v1-changeBack-d0-3.webp"
+      },
+      {
+        "error": 1.5692752977784245e-7,
+        "file": "cozy-office-f-v1-changeBack-d0-4.webp"
+      },
+      {
+        "error": 1.6019265328938637e-7,
+        "file": "cozy-office-f-v1-changeBack-d0-5.webp"
+      },
+      {
+        "error": 1.6079419460500466e-7,
+        "file": "cozy-office-f-v1-changeBack-d0-6.webp"
+      },
+      {
+        "error": 1.6079419460500466e-7,
+        "file": "cozy-office-f-v1-changeBack-d0-7.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 1.404534822391533e-7,
+        "file": "cozy-office-f-v1-changeBack-d90-0.webp"
+      },
+      {
+        "error": 1.422421041317012e-7,
+        "file": "cozy-office-f-v1-changeBack-d90-1.webp"
+      },
+      {
+        "error": 1.465383549490922e-7,
+        "file": "cozy-office-f-v1-changeBack-d90-2.webp"
+      },
+      {
+        "error": 1.5188087595766242e-7,
+        "file": "cozy-office-f-v1-changeBack-d90-3.webp"
+      },
+      {
+        "error": 1.5692752977784245e-7,
+        "file": "cozy-office-f-v1-changeBack-d90-4.webp"
+      },
+      {
+        "error": 1.6019265328938637e-7,
+        "file": "cozy-office-f-v1-changeBack-d90-5.webp"
+      },
+      {
+        "error": 1.6079419460500466e-7,
+        "file": "cozy-office-f-v1-changeBack-d90-6.webp"
+      },
+      {
+        "error": 1.6079419460500466e-7,
+        "file": "cozy-office-f-v1-changeBack-d90-7.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 1.404534822391533e-7,
+        "file": "cozy-office-f-v1-changeBack-d180-0.webp"
+      },
+      {
+        "error": 1.422421041317012e-7,
+        "file": "cozy-office-f-v1-changeBack-d180-1.webp"
+      },
+      {
+        "error": 1.465383549490922e-7,
+        "file": "cozy-office-f-v1-changeBack-d180-2.webp"
+      },
+      {
+        "error": 1.5188087595766242e-7,
+        "file": "cozy-office-f-v1-changeBack-d180-3.webp"
+      },
+      {
+        "error": 1.5692752977784245e-7,
+        "file": "cozy-office-f-v1-changeBack-d180-4.webp"
+      },
+      {
+        "error": 1.6019265328938637e-7,
+        "file": "cozy-office-f-v1-changeBack-d180-5.webp"
+      },
+      {
+        "error": 1.6079419460500466e-7,
+        "file": "cozy-office-f-v1-changeBack-d180-6.webp"
+      },
+      {
+        "error": 1.6079419460500466e-7,
+        "file": "cozy-office-f-v1-changeBack-d180-7.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 1.404534822391533e-7,
+        "file": "cozy-office-f-v1-changeBack-d270-0.webp"
+      },
+      {
+        "error": 1.422421041317012e-7,
+        "file": "cozy-office-f-v1-changeBack-d270-1.webp"
+      },
+      {
+        "error": 1.465383549490922e-7,
+        "file": "cozy-office-f-v1-changeBack-d270-2.webp"
+      },
+      {
+        "error": 1.5188087595766242e-7,
+        "file": "cozy-office-f-v1-changeBack-d270-3.webp"
+      },
+      {
+        "error": 1.5692752977784245e-7,
+        "file": "cozy-office-f-v1-changeBack-d270-4.webp"
+      },
+      {
+        "error": 1.6019265328938637e-7,
+        "file": "cozy-office-f-v1-changeBack-d270-5.webp"
+      },
+      {
+        "error": 1.6079419460500466e-7,
+        "file": "cozy-office-f-v1-changeBack-d270-6.webp"
+      },
+      {
+        "error": 1.6079419460500466e-7,
+        "file": "cozy-office-f-v1-changeBack-d270-7.webp"
+      }
+    ]
+  },
+  "width": 76,
+  "height": 148,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8412162162162162
+  },
+  "crop": {
+    "left": 436,
+    "top": 519
+  },
+  "scale": 0.5,
+  "loop": false,
+  "durationMs": 1400,
+  "maxError": 1.6079419460500466e-7,
+  "props": [
+    "clothes"
+  ],
+  "look": "casual",
+  "armRatio": 0.5663216534920242
+}

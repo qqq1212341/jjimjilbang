@@ -1,0 +1,161 @@
+{
+  "id": "cozy-family-f-v1",
+  "action": "change",
+  "directions": {
+    "0": [
+      {
+        "error": 7.154818006966657e-8,
+        "file": "cozy-family-f-v1-change-d0-0.webp"
+      },
+      {
+        "error": 7.623718894821044e-8,
+        "file": "cozy-family-f-v1-change-d0-1.webp"
+      },
+      {
+        "error": 8.451601913149344e-8,
+        "file": "cozy-family-f-v1-change-d0-2.webp"
+      },
+      {
+        "error": 8.914193608990562e-8,
+        "file": "cozy-family-f-v1-change-d0-3.webp"
+      },
+      {
+        "error": 8.891529199097689e-8,
+        "file": "cozy-family-f-v1-change-d0-4.webp"
+      },
+      {
+        "error": 8.697525709611295e-8,
+        "file": "cozy-family-f-v1-change-d0-5.webp"
+      },
+      {
+        "error": 8.647815188702687e-8,
+        "file": "cozy-family-f-v1-change-d0-6.webp"
+      },
+      {
+        "error": 8.647815188702687e-8,
+        "file": "cozy-family-f-v1-change-d0-7.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 7.154818006966657e-8,
+        "file": "cozy-family-f-v1-change-d90-0.webp"
+      },
+      {
+        "error": 7.623718894821044e-8,
+        "file": "cozy-family-f-v1-change-d90-1.webp"
+      },
+      {
+        "error": 8.451601913149344e-8,
+        "file": "cozy-family-f-v1-change-d90-2.webp"
+      },
+      {
+        "error": 8.914193608990562e-8,
+        "file": "cozy-family-f-v1-change-d90-3.webp"
+      },
+      {
+        "error": 8.891529199097689e-8,
+        "file": "cozy-family-f-v1-change-d90-4.webp"
+      },
+      {
+        "error": 8.697525709611295e-8,
+        "file": "cozy-family-f-v1-change-d90-5.webp"
+      },
+      {
+        "error": 8.647815188702687e-8,
+        "file": "cozy-family-f-v1-change-d90-6.webp"
+      },
+      {
+        "error": 8.647815188702687e-8,
+        "file": "cozy-family-f-v1-change-d90-7.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 7.154818006966657e-8,
+        "file": "cozy-family-f-v1-change-d180-0.webp"
+      },
+      {
+        "error": 7.623718894821044e-8,
+        "file": "cozy-family-f-v1-change-d180-1.webp"
+      },
+      {
+        "error": 8.451601913149344e-8,
+        "file": "cozy-family-f-v1-change-d180-2.webp"
+      },
+      {
+        "error": 8.914193608990562e-8,
+        "file": "cozy-family-f-v1-change-d180-3.webp"
+      },
+      {
+        "error": 8.891529199097689e-8,
+        "file": "cozy-family-f-v1-change-d180-4.webp"
+      },
+      {
+        "error": 8.697525709611295e-8,
+        "file": "cozy-family-f-v1-change-d180-5.webp"
+      },
+      {
+        "error": 8.647815188702687e-8,
+        "file": "cozy-family-f-v1-change-d180-6.webp"
+      },
+      {
+        "error": 8.647815188702687e-8,
+        "file": "cozy-family-f-v1-change-d180-7.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 7.154818006966657e-8,
+        "file": "cozy-family-f-v1-change-d270-0.webp"
+      },
+      {
+        "error": 7.623718894821044e-8,
+        "file": "cozy-family-f-v1-change-d270-1.webp"
+      },
+      {
+        "error": 8.451601913149344e-8,
+        "file": "cozy-family-f-v1-change-d270-2.webp"
+      },
+      {
+        "error": 8.914193608990562e-8,
+        "file": "cozy-family-f-v1-change-d270-3.webp"
+      },
+      {
+        "error": 8.891529199097689e-8,
+        "file": "cozy-family-f-v1-change-d270-4.webp"
+      },
+      {
+        "error": 8.697525709611295e-8,
+        "file": "cozy-family-f-v1-change-d270-5.webp"
+      },
+      {
+        "error": 8.647815188702687e-8,
+        "file": "cozy-family-f-v1-change-d270-6.webp"
+      },
+      {
+        "error": 8.647815188702687e-8,
+        "file": "cozy-family-f-v1-change-d270-7.webp"
+      }
+    ]
+  },
+  "width": 78,
+  "height": 147,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8401360544217688
+  },
+  "crop": {
+    "left": 434,
+    "top": 521
+  },
+  "scale": 0.5,
+  "loop": false,
+  "durationMs": 1400,
+  "maxError": 8.914193608990562e-8,
+  "props": [
+    "clothes"
+  ],
+  "look": "casual",
+  "armRatio": 0.5974128313389201
+}

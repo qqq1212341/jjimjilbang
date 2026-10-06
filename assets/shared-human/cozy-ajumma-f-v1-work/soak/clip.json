@@ -1,0 +1,134 @@
+{
+  "durationMs": 2200,
+  "loop": true,
+  "directions": {
+    "0": {
+      "frames": [
+        {
+          "key": "cozy-ajumma-f-v1-soak-d0-0",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d0-0.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d0-1",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d0-1.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d0-2",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d0-2.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d0-3",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d0-3.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d0-4",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d0-4.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d0-5",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d0-5.webp"
+        }
+      ],
+      "pivot": {
+        "x": 0.5,
+        "y": 0.8296296296296296
+      }
+    },
+    "90": {
+      "frames": [
+        {
+          "key": "cozy-ajumma-f-v1-soak-d90-0",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d90-0.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d90-1",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d90-1.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d90-2",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d90-2.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d90-3",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d90-3.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d90-4",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d90-4.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d90-5",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d90-5.webp"
+        }
+      ],
+      "pivot": {
+        "x": 0.5,
+        "y": 0.8296296296296296
+      }
+    },
+    "180": {
+      "frames": [
+        {
+          "key": "cozy-ajumma-f-v1-soak-d180-0",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d180-0.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d180-1",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d180-1.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d180-2",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d180-2.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d180-3",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d180-3.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d180-4",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d180-4.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d180-5",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d180-5.webp"
+        }
+      ],
+      "pivot": {
+        "x": 0.5,
+        "y": 0.8296296296296296
+      }
+    },
+    "270": {
+      "frames": [
+        {
+          "key": "cozy-ajumma-f-v1-soak-d270-0",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d270-0.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d270-1",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d270-1.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d270-2",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d270-2.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d270-3",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d270-3.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d270-4",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d270-4.webp"
+        },
+        {
+          "key": "cozy-ajumma-f-v1-soak-d270-5",
+          "url": "assets/shared-human/cozy-ajumma-f-v1-work/soak/cozy-ajumma-f-v1-soak-d270-5.webp"
+        }
+      ],
+      "pivot": {
+        "x": 0.5,
+        "y": 0.8296296296296296
+      }
+    }
+  }
+}

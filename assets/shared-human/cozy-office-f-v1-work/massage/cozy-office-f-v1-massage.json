@@ -1,0 +1,129 @@
+{
+  "id": "cozy-office-f-v1",
+  "action": "massage",
+  "directions": {
+    "0": [
+      {
+        "error": 2.5721760315739165e-7,
+        "file": "cozy-office-f-v1-massage-d0-0.webp"
+      },
+      {
+        "error": 2.5727159805477545e-7,
+        "file": "cozy-office-f-v1-massage-d0-1.webp"
+      },
+      {
+        "error": 2.5727159805477545e-7,
+        "file": "cozy-office-f-v1-massage-d0-2.webp"
+      },
+      {
+        "error": 2.5727159809939476e-7,
+        "file": "cozy-office-f-v1-massage-d0-3.webp"
+      },
+      {
+        "error": 2.5727159799669085e-7,
+        "file": "cozy-office-f-v1-massage-d0-4.webp"
+      },
+      {
+        "error": 2.5727159809939476e-7,
+        "file": "cozy-office-f-v1-massage-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 2.5721760315739165e-7,
+        "file": "cozy-office-f-v1-massage-d90-0.webp"
+      },
+      {
+        "error": 2.5727159805477545e-7,
+        "file": "cozy-office-f-v1-massage-d90-1.webp"
+      },
+      {
+        "error": 2.5727159805477545e-7,
+        "file": "cozy-office-f-v1-massage-d90-2.webp"
+      },
+      {
+        "error": 2.5727159809939476e-7,
+        "file": "cozy-office-f-v1-massage-d90-3.webp"
+      },
+      {
+        "error": 2.5727159799669085e-7,
+        "file": "cozy-office-f-v1-massage-d90-4.webp"
+      },
+      {
+        "error": 2.5727159809939476e-7,
+        "file": "cozy-office-f-v1-massage-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 2.5721760315739165e-7,
+        "file": "cozy-office-f-v1-massage-d180-0.webp"
+      },
+      {
+        "error": 2.5727159805477545e-7,
+        "file": "cozy-office-f-v1-massage-d180-1.webp"
+      },
+      {
+        "error": 2.5727159805477545e-7,
+        "file": "cozy-office-f-v1-massage-d180-2.webp"
+      },
+      {
+        "error": 2.5727159809939476e-7,
+        "file": "cozy-office-f-v1-massage-d180-3.webp"
+      },
+      {
+        "error": 2.5727159799669085e-7,
+        "file": "cozy-office-f-v1-massage-d180-4.webp"
+      },
+      {
+        "error": 2.5727159809939476e-7,
+        "file": "cozy-office-f-v1-massage-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 2.5721760315739165e-7,
+        "file": "cozy-office-f-v1-massage-d270-0.webp"
+      },
+      {
+        "error": 2.5727159805477545e-7,
+        "file": "cozy-office-f-v1-massage-d270-1.webp"
+      },
+      {
+        "error": 2.5727159805477545e-7,
+        "file": "cozy-office-f-v1-massage-d270-2.webp"
+      },
+      {
+        "error": 2.5727159809939476e-7,
+        "file": "cozy-office-f-v1-massage-d270-3.webp"
+      },
+      {
+        "error": 2.5727159799669085e-7,
+        "file": "cozy-office-f-v1-massage-d270-4.webp"
+      },
+      {
+        "error": 2.5727159809939476e-7,
+        "file": "cozy-office-f-v1-massage-d270-5.webp"
+      }
+    ]
+  },
+  "width": 79,
+  "height": 135,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8222222222222222
+  },
+  "crop": {
+    "left": 433,
+    "top": 546
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1600,
+  "maxError": 2.5727159809939476e-7,
+  "props": [
+    "chair"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5663216534920242
+}

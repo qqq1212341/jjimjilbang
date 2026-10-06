@@ -1,0 +1,161 @@
+{
+  "id": "cozy-ajusshi-v1",
+  "action": "towel",
+  "directions": {
+    "0": [
+      {
+        "error": 9.910375896900071e-8,
+        "file": "cozy-ajusshi-v1-towel-d0-0.webp"
+      },
+      {
+        "error": 6.976962140121117e-8,
+        "file": "cozy-ajusshi-v1-towel-d0-1.webp"
+      },
+      {
+        "error": 6.701942950785946e-8,
+        "file": "cozy-ajusshi-v1-towel-d0-2.webp"
+      },
+      {
+        "error": 2.2729688041932622e-7,
+        "file": "cozy-ajusshi-v1-towel-d0-3.webp"
+      },
+      {
+        "error": 6.855597391349605e-8,
+        "file": "cozy-ajusshi-v1-towel-d0-4.webp"
+      },
+      {
+        "error": 1.6109187651705395e-7,
+        "file": "cozy-ajusshi-v1-towel-d0-5.webp"
+      },
+      {
+        "error": 5.856828749709655e-8,
+        "file": "cozy-ajusshi-v1-towel-d0-6.webp"
+      },
+      {
+        "error": 9.910375896900071e-8,
+        "file": "cozy-ajusshi-v1-towel-d0-7.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 9.910375896900071e-8,
+        "file": "cozy-ajusshi-v1-towel-d90-0.webp"
+      },
+      {
+        "error": 6.976962140121117e-8,
+        "file": "cozy-ajusshi-v1-towel-d90-1.webp"
+      },
+      {
+        "error": 6.701942950785946e-8,
+        "file": "cozy-ajusshi-v1-towel-d90-2.webp"
+      },
+      {
+        "error": 2.2729688041932622e-7,
+        "file": "cozy-ajusshi-v1-towel-d90-3.webp"
+      },
+      {
+        "error": 6.855597391349605e-8,
+        "file": "cozy-ajusshi-v1-towel-d90-4.webp"
+      },
+      {
+        "error": 1.6109187651705395e-7,
+        "file": "cozy-ajusshi-v1-towel-d90-5.webp"
+      },
+      {
+        "error": 5.856828749709655e-8,
+        "file": "cozy-ajusshi-v1-towel-d90-6.webp"
+      },
+      {
+        "error": 9.910375896900071e-8,
+        "file": "cozy-ajusshi-v1-towel-d90-7.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 9.910375896900071e-8,
+        "file": "cozy-ajusshi-v1-towel-d180-0.webp"
+      },
+      {
+        "error": 6.976962140121117e-8,
+        "file": "cozy-ajusshi-v1-towel-d180-1.webp"
+      },
+      {
+        "error": 6.701942950785946e-8,
+        "file": "cozy-ajusshi-v1-towel-d180-2.webp"
+      },
+      {
+        "error": 2.2729688041932622e-7,
+        "file": "cozy-ajusshi-v1-towel-d180-3.webp"
+      },
+      {
+        "error": 6.855597391349605e-8,
+        "file": "cozy-ajusshi-v1-towel-d180-4.webp"
+      },
+      {
+        "error": 1.6109187651705395e-7,
+        "file": "cozy-ajusshi-v1-towel-d180-5.webp"
+      },
+      {
+        "error": 5.856828749709655e-8,
+        "file": "cozy-ajusshi-v1-towel-d180-6.webp"
+      },
+      {
+        "error": 9.910375896900071e-8,
+        "file": "cozy-ajusshi-v1-towel-d180-7.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 9.910375896900071e-8,
+        "file": "cozy-ajusshi-v1-towel-d270-0.webp"
+      },
+      {
+        "error": 6.976962140121117e-8,
+        "file": "cozy-ajusshi-v1-towel-d270-1.webp"
+      },
+      {
+        "error": 6.701942950785946e-8,
+        "file": "cozy-ajusshi-v1-towel-d270-2.webp"
+      },
+      {
+        "error": 2.2729688041932622e-7,
+        "file": "cozy-ajusshi-v1-towel-d270-3.webp"
+      },
+      {
+        "error": 6.855597391349605e-8,
+        "file": "cozy-ajusshi-v1-towel-d270-4.webp"
+      },
+      {
+        "error": 1.6109187651705395e-7,
+        "file": "cozy-ajusshi-v1-towel-d270-5.webp"
+      },
+      {
+        "error": 5.856828749709655e-8,
+        "file": "cozy-ajusshi-v1-towel-d270-6.webp"
+      },
+      {
+        "error": 9.910375896900071e-8,
+        "file": "cozy-ajusshi-v1-towel-d270-7.webp"
+      }
+    ]
+  },
+  "width": 70,
+  "height": 157,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8630573248407644
+  },
+  "crop": {
+    "left": 442,
+    "top": 497
+  },
+  "scale": 0.5,
+  "loop": false,
+  "durationMs": 1500,
+  "maxError": 2.2729688041932622e-7,
+  "props": [
+    "clothes"
+  ],
+  "look": "wet",
+  "armRatio": 0.5705175798331517
+}

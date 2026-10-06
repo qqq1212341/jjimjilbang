@@ -1,0 +1,38 @@
+{
+ "asphalt": {
+  "variants": [
+   "asphalt_0.png",
+   "asphalt_1.png"
+  ],
+  "w": 192,
+  "h": 112,
+  "scale": 2
+ },
+ "curb": {
+  "variants": [
+   "curb_0.png",
+   "curb_1.png"
+  ],
+  "w": 192,
+  "h": 112,
+  "scale": 2
+ },
+ "lawn": {
+  "variants": [
+   "lawn_0.png",
+   "lawn_1.png"
+  ],
+  "w": 192,
+  "h": 112,
+  "scale": 2
+ },
+ "sidewalk": {
+  "variants": [
+   "sidewalk_0.png",
+   "sidewalk_1.png"
+  ],
+  "w": 192,
+  "h": 112,
+  "scale": 2
+ }
+}

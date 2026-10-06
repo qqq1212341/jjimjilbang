@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "897fe8212a9addb76edc7d69ada209a7a86490767c00b2288471f7fa06af09b0",
+  "previous": "absent",
+  "current": "be3d597353dc83aca413b60b0105062c349d7f7b5e4ef55714fae66e2a15cf76",
+  "approvedBy": "사장님 승인 기록 2026-09-26-cast-motions.md",
+  "review": {
+    "version": 1,
+    "fingerprint": "897fe8212a9addb76edc7d69ada209a7a86490767c00b2288471f7fa06af09b0",
+    "candidateDigest": "be3d597353dc83aca413b60b0105062c349d7f7b5e4ef55714fae66e2a15cf76",
+    "approved": true,
+    "approvedBy": "사장님 승인 기록 2026-09-26-cast-motions.md",
+    "checks": {
+      "ground-and-loop-visual-review": {
+        "passed": true,
+        "evidence": "../helper-factory-walk-review.webp",
+        "sha256": "28b234fac1d8083edf04b9ead7c79b3ea6cf0335b3054adb2150608bef56c31d"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-staff-v1/report.json",
+        "sha256": "7a40114250c1e3862f2593ea25ff297dd76de1fb4cb44cc342d41746fdb6d4ac"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_cast-walk-perf.json",
+        "sha256": "4ccd8fb14e3ab5764949d2fe4ce8798f1ddf5174e3b78ab63b070e1e1b297f82"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-26-cast-motions.md",
+        "sha256": "a0f12a304e18c2115f5d593f92220c4e2d797f3738d36a766270f7bac2ce6f90"
+      }
+    }
+  }
+}

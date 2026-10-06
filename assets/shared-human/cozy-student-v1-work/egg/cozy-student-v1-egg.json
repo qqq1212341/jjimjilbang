@@ -1,0 +1,130 @@
+{
+  "id": "cozy-student-v1",
+  "action": "egg",
+  "directions": {
+    "0": [
+      {
+        "error": 1.126678153808545e-7,
+        "file": "cozy-student-v1-egg-d0-0.webp"
+      },
+      {
+        "error": 1.139601828419691e-7,
+        "file": "cozy-student-v1-egg-d0-1.webp"
+      },
+      {
+        "error": 7.757669265655749e-8,
+        "file": "cozy-student-v1-egg-d0-2.webp"
+      },
+      {
+        "error": 4.258968751251074e-8,
+        "file": "cozy-student-v1-egg-d0-3.webp"
+      },
+      {
+        "error": 7.75766928159375e-8,
+        "file": "cozy-student-v1-egg-d0-4.webp"
+      },
+      {
+        "error": 1.1396018281842545e-7,
+        "file": "cozy-student-v1-egg-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 1.126678153808545e-7,
+        "file": "cozy-student-v1-egg-d90-0.webp"
+      },
+      {
+        "error": 1.139601828419691e-7,
+        "file": "cozy-student-v1-egg-d90-1.webp"
+      },
+      {
+        "error": 7.757669265655749e-8,
+        "file": "cozy-student-v1-egg-d90-2.webp"
+      },
+      {
+        "error": 4.258968751251074e-8,
+        "file": "cozy-student-v1-egg-d90-3.webp"
+      },
+      {
+        "error": 7.75766928159375e-8,
+        "file": "cozy-student-v1-egg-d90-4.webp"
+      },
+      {
+        "error": 1.1396018281842545e-7,
+        "file": "cozy-student-v1-egg-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 1.126678153808545e-7,
+        "file": "cozy-student-v1-egg-d180-0.webp"
+      },
+      {
+        "error": 1.139601828419691e-7,
+        "file": "cozy-student-v1-egg-d180-1.webp"
+      },
+      {
+        "error": 7.757669265655749e-8,
+        "file": "cozy-student-v1-egg-d180-2.webp"
+      },
+      {
+        "error": 4.258968751251074e-8,
+        "file": "cozy-student-v1-egg-d180-3.webp"
+      },
+      {
+        "error": 7.75766928159375e-8,
+        "file": "cozy-student-v1-egg-d180-4.webp"
+      },
+      {
+        "error": 1.1396018281842545e-7,
+        "file": "cozy-student-v1-egg-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 1.126678153808545e-7,
+        "file": "cozy-student-v1-egg-d270-0.webp"
+      },
+      {
+        "error": 1.139601828419691e-7,
+        "file": "cozy-student-v1-egg-d270-1.webp"
+      },
+      {
+        "error": 7.757669265655749e-8,
+        "file": "cozy-student-v1-egg-d270-2.webp"
+      },
+      {
+        "error": 4.258968751251074e-8,
+        "file": "cozy-student-v1-egg-d270-3.webp"
+      },
+      {
+        "error": 7.75766928159375e-8,
+        "file": "cozy-student-v1-egg-d270-4.webp"
+      },
+      {
+        "error": 1.1396018281842545e-7,
+        "file": "cozy-student-v1-egg-d270-5.webp"
+      }
+    ]
+  },
+  "width": 161,
+  "height": 116,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.7327586206896551
+  },
+  "crop": {
+    "left": 351,
+    "top": 598
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1800,
+  "maxError": 1.139601828419691e-7,
+  "props": [
+    "mat",
+    "egg"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5621035532763107
+}

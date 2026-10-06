@@ -1,0 +1,161 @@
+{
+  "id": "cozy-student-v1",
+  "action": "towel",
+  "directions": {
+    "0": [
+      {
+        "error": 1.5174659712235863e-7,
+        "file": "cozy-student-v1-towel-d0-0.webp"
+      },
+      {
+        "error": 6.371153666085039e-8,
+        "file": "cozy-student-v1-towel-d0-1.webp"
+      },
+      {
+        "error": 1.083750608272778e-7,
+        "file": "cozy-student-v1-towel-d0-2.webp"
+      },
+      {
+        "error": 1.0453735505485295e-7,
+        "file": "cozy-student-v1-towel-d0-3.webp"
+      },
+      {
+        "error": 9.707560544042954e-8,
+        "file": "cozy-student-v1-towel-d0-4.webp"
+      },
+      {
+        "error": 1.0377030487122983e-7,
+        "file": "cozy-student-v1-towel-d0-5.webp"
+      },
+      {
+        "error": 1.282421013778771e-7,
+        "file": "cozy-student-v1-towel-d0-6.webp"
+      },
+      {
+        "error": 1.5174659712235863e-7,
+        "file": "cozy-student-v1-towel-d0-7.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 1.5174659712235863e-7,
+        "file": "cozy-student-v1-towel-d90-0.webp"
+      },
+      {
+        "error": 6.371153666085039e-8,
+        "file": "cozy-student-v1-towel-d90-1.webp"
+      },
+      {
+        "error": 1.083750608272778e-7,
+        "file": "cozy-student-v1-towel-d90-2.webp"
+      },
+      {
+        "error": 1.0453735505485295e-7,
+        "file": "cozy-student-v1-towel-d90-3.webp"
+      },
+      {
+        "error": 9.707560544042954e-8,
+        "file": "cozy-student-v1-towel-d90-4.webp"
+      },
+      {
+        "error": 1.0377030487122983e-7,
+        "file": "cozy-student-v1-towel-d90-5.webp"
+      },
+      {
+        "error": 1.282421013778771e-7,
+        "file": "cozy-student-v1-towel-d90-6.webp"
+      },
+      {
+        "error": 1.5174659712235863e-7,
+        "file": "cozy-student-v1-towel-d90-7.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 1.5174659712235863e-7,
+        "file": "cozy-student-v1-towel-d180-0.webp"
+      },
+      {
+        "error": 6.371153666085039e-8,
+        "file": "cozy-student-v1-towel-d180-1.webp"
+      },
+      {
+        "error": 1.083750608272778e-7,
+        "file": "cozy-student-v1-towel-d180-2.webp"
+      },
+      {
+        "error": 1.0453735505485295e-7,
+        "file": "cozy-student-v1-towel-d180-3.webp"
+      },
+      {
+        "error": 9.707560544042954e-8,
+        "file": "cozy-student-v1-towel-d180-4.webp"
+      },
+      {
+        "error": 1.0377030487122983e-7,
+        "file": "cozy-student-v1-towel-d180-5.webp"
+      },
+      {
+        "error": 1.282421013778771e-7,
+        "file": "cozy-student-v1-towel-d180-6.webp"
+      },
+      {
+        "error": 1.5174659712235863e-7,
+        "file": "cozy-student-v1-towel-d180-7.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 1.5174659712235863e-7,
+        "file": "cozy-student-v1-towel-d270-0.webp"
+      },
+      {
+        "error": 6.371153666085039e-8,
+        "file": "cozy-student-v1-towel-d270-1.webp"
+      },
+      {
+        "error": 1.083750608272778e-7,
+        "file": "cozy-student-v1-towel-d270-2.webp"
+      },
+      {
+        "error": 1.0453735505485295e-7,
+        "file": "cozy-student-v1-towel-d270-3.webp"
+      },
+      {
+        "error": 9.707560544042954e-8,
+        "file": "cozy-student-v1-towel-d270-4.webp"
+      },
+      {
+        "error": 1.0377030487122983e-7,
+        "file": "cozy-student-v1-towel-d270-5.webp"
+      },
+      {
+        "error": 1.282421013778771e-7,
+        "file": "cozy-student-v1-towel-d270-6.webp"
+      },
+      {
+        "error": 1.5174659712235863e-7,
+        "file": "cozy-student-v1-towel-d270-7.webp"
+      }
+    ]
+  },
+  "width": 66,
+  "height": 155,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.867741935483871
+  },
+  "crop": {
+    "left": 446,
+    "top": 499
+  },
+  "scale": 0.5,
+  "loop": false,
+  "durationMs": 1500,
+  "maxError": 1.5174659712235863e-7,
+  "props": [
+    "clothes"
+  ],
+  "look": "wet",
+  "armRatio": 0.5621035532763107
+}

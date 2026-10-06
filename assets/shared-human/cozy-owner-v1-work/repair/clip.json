@@ -1,0 +1,294 @@
+{
+  "durationMs": 2000,
+  "loop": true,
+  "directions": {
+    "0": {
+      "frames": [
+        {
+          "key": "cozy-owner-v1-repair-d0-0",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-0.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-1",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-1.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-2",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-2.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-3",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-3.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-4",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-4.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-5",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-5.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-6",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-6.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-7",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-7.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-8",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-8.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-9",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-9.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-10",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-10.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-11",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-11.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-12",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-12.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-13",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-13.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-14",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-14.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d0-15",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d0-15.webp"
+        }
+      ],
+      "pivot": {
+        "x": 0.5136986301369864,
+        "y": 0.8466666666666667
+      }
+    },
+    "90": {
+      "frames": [
+        {
+          "key": "cozy-owner-v1-repair-d90-0",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-0.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-1",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-1.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-2",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-2.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-3",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-3.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-4",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-4.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-5",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-5.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-6",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-6.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-7",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-7.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-8",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-8.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-9",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-9.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-10",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-10.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-11",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-11.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-12",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-12.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-13",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-13.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-14",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-14.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d90-15",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d90-15.webp"
+        }
+      ],
+      "pivot": {
+        "x": 0.5136986301369864,
+        "y": 0.8466666666666667
+      }
+    },
+    "180": {
+      "frames": [
+        {
+          "key": "cozy-owner-v1-repair-d180-0",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-0.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-1",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-1.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-2",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-2.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-3",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-3.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-4",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-4.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-5",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-5.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-6",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-6.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-7",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-7.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-8",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-8.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-9",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-9.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-10",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-10.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-11",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-11.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-12",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-12.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-13",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-13.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-14",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-14.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d180-15",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d180-15.webp"
+        }
+      ],
+      "pivot": {
+        "x": 0.5136986301369864,
+        "y": 0.8466666666666667
+      }
+    },
+    "270": {
+      "frames": [
+        {
+          "key": "cozy-owner-v1-repair-d270-0",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-0.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-1",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-1.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-2",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-2.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-3",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-3.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-4",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-4.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-5",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-5.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-6",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-6.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-7",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-7.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-8",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-8.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-9",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-9.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-10",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-10.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-11",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-11.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-12",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-12.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-13",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-13.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-14",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-14.webp"
+        },
+        {
+          "key": "cozy-owner-v1-repair-d270-15",
+          "url": "assets/shared-human/cozy-owner-v1-work/repair/cozy-owner-v1-repair-d270-15.webp"
+        }
+      ],
+      "pivot": {
+        "x": 0.5136986301369864,
+        "y": 0.8466666666666667
+      }
+    }
+  }
+}

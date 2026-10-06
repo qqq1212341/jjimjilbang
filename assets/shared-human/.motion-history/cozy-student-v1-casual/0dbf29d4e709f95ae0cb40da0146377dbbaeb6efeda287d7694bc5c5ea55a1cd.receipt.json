@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "19c3ea414524164a0c18c6c74279d0618fdcc2ab2c892e051b835a02268a8ff7",
+  "previous": "84741b8a20a22988b125b12386b3f5e45b4b313803ed375586e6647598f9970f",
+  "current": "0dbf29d4e709f95ae0cb40da0146377dbbaeb6efeda287d7694bc5c5ea55a1cd",
+  "approvedBy": "사장님 승인 기록 2026-09-26-casual-joint-fix.md",
+  "review": {
+    "version": 1,
+    "fingerprint": "19c3ea414524164a0c18c6c74279d0618fdcc2ab2c892e051b835a02268a8ff7",
+    "candidateDigest": "0dbf29d4e709f95ae0cb40da0146377dbbaeb6efeda287d7694bc5c5ea55a1cd",
+    "approved": true,
+    "approvedBy": "사장님 승인 기록 2026-09-26-casual-joint-fix.md",
+    "checks": {
+      "ground-and-loop-visual-review": {
+        "passed": true,
+        "evidence": "../casual-joint-fix-review.webp",
+        "sha256": "aa648033d425976397a524ea1e9eb7366eb791126b81fff9e899cb77de38f9c2"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-cast-v4/cozy-student-v1/report.json",
+        "sha256": "5c15f63adff92c5aed0e43fdb767f133c502497dcf4c73f49c641a0004e2ce70"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_cast-walk-perf.json",
+        "sha256": "4ccd8fb14e3ab5764949d2fe4ce8798f1ddf5174e3b78ab63b070e1e1b297f82"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-26-casual-joint-fix.md",
+        "sha256": "3f510756954e329e0bf7fe6352cb38d1d6b8a5455201f5a0aa06808221f37c29"
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "51f85897f25ae0f595432836e51fe444403332b9b65b369f24eabc1e9a3191b3",
+  "previous": "77cecaa1bbc35d5a9a94e2ed0c7c44c76d35b2e168335157dc90edc73f54ac0a",
+  "current": "671b3977f793a8b797d77c197462b5223372c80abf6706145b23116651824428",
+  "approvedBy": "사장님 승인 기록 2026-09-26-casual-joint-fix.md",
+  "review": {
+    "version": 1,
+    "fingerprint": "51f85897f25ae0f595432836e51fe444403332b9b65b369f24eabc1e9a3191b3",
+    "candidateDigest": "671b3977f793a8b797d77c197462b5223372c80abf6706145b23116651824428",
+    "approved": true,
+    "approvedBy": "사장님 승인 기록 2026-09-26-casual-joint-fix.md",
+    "checks": {
+      "ground-and-loop-visual-review": {
+        "passed": true,
+        "evidence": "../casual-joint-fix-review.webp",
+        "sha256": "aa648033d425976397a524ea1e9eb7366eb791126b81fff9e899cb77de38f9c2"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-cast-v4/cozy-family-f-v1/report.json",
+        "sha256": "d928a46d1e940ed1366bc8fbcc36082e66677304a561f93c2e6f58969aacf289"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_cast-walk-perf.json",
+        "sha256": "4ccd8fb14e3ab5764949d2fe4ce8798f1ddf5174e3b78ab63b070e1e1b297f82"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-26-casual-joint-fix.md",
+        "sha256": "3f510756954e329e0bf7fe6352cb38d1d6b8a5455201f5a0aa06808221f37c29"
+      }
+    }
+  }
+}

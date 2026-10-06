@@ -1,0 +1,129 @@
+{
+  "id": "cozy-ajumma-f-v1",
+  "action": "sleepBath",
+  "directions": {
+    "0": [
+      {
+        "error": 8.035230852869713e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d0-0.webp"
+      },
+      {
+        "error": 7.91680605039492e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d0-1.webp"
+      },
+      {
+        "error": 7.91680605039492e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d0-2.webp"
+      },
+      {
+        "error": 8.025207274659802e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d0-3.webp"
+      },
+      {
+        "error": 8.133510690035453e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d0-4.webp"
+      },
+      {
+        "error": 8.133510690035453e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 8.035230852869713e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d90-0.webp"
+      },
+      {
+        "error": 7.91680605039492e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d90-1.webp"
+      },
+      {
+        "error": 7.91680605039492e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d90-2.webp"
+      },
+      {
+        "error": 8.025207274659802e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d90-3.webp"
+      },
+      {
+        "error": 8.133510690035453e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d90-4.webp"
+      },
+      {
+        "error": 8.133510690035453e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 8.035230852869713e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d180-0.webp"
+      },
+      {
+        "error": 7.91680605039492e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d180-1.webp"
+      },
+      {
+        "error": 7.91680605039492e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d180-2.webp"
+      },
+      {
+        "error": 8.025207274659802e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d180-3.webp"
+      },
+      {
+        "error": 8.133510690035453e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d180-4.webp"
+      },
+      {
+        "error": 8.133510690035453e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 8.035230852869713e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d270-0.webp"
+      },
+      {
+        "error": 7.91680605039492e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d270-1.webp"
+      },
+      {
+        "error": 7.91680605039492e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d270-2.webp"
+      },
+      {
+        "error": 8.025207274659802e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d270-3.webp"
+      },
+      {
+        "error": 8.133510690035453e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d270-4.webp"
+      },
+      {
+        "error": 8.133510690035453e-8,
+        "file": "cozy-ajumma-f-v1-sleepBath-d270-5.webp"
+      }
+    ]
+  },
+  "width": 186,
+  "height": 86,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5581395348837209
+  },
+  "crop": {
+    "left": 326,
+    "top": 672
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 2600,
+  "maxError": 8.133510690035453e-8,
+  "props": [
+    "mat"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5754488710204448
+}

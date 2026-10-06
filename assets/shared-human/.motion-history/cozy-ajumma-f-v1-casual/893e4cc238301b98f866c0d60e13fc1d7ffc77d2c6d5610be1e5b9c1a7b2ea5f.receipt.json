@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "b0a40fc7dfc717705352f3cfaa0379fc9198743bf08ceb59c2e35c37a9ce2af0",
+  "previous": "32389bbf671f9ee2fdcc6bf0bed964fc8e89a97b244730e1d0d6b9f2d6765f9f",
+  "current": "893e4cc238301b98f866c0d60e13fc1d7ffc77d2c6d5610be1e5b9c1a7b2ea5f",
+  "approvedBy": "사장님 승인 기록 2026-09-26-casual-joint-fix.md",
+  "review": {
+    "version": 1,
+    "fingerprint": "b0a40fc7dfc717705352f3cfaa0379fc9198743bf08ceb59c2e35c37a9ce2af0",
+    "candidateDigest": "893e4cc238301b98f866c0d60e13fc1d7ffc77d2c6d5610be1e5b9c1a7b2ea5f",
+    "approved": true,
+    "approvedBy": "사장님 승인 기록 2026-09-26-casual-joint-fix.md",
+    "checks": {
+      "ground-and-loop-visual-review": {
+        "passed": true,
+        "evidence": "../casual-joint-fix-review.webp",
+        "sha256": "aa648033d425976397a524ea1e9eb7366eb791126b81fff9e899cb77de38f9c2"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-wet-v3/female-report.json",
+        "sha256": "f3518145b0b4d0fb94e71c7275b4b84600829d2e2e71be4efda6c5903d10651a"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_cast-walk-perf.json",
+        "sha256": "4ccd8fb14e3ab5764949d2fe4ce8798f1ddf5174e3b78ab63b070e1e1b297f82"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-26-casual-joint-fix.md",
+        "sha256": "3f510756954e329e0bf7fe6352cb38d1d6b8a5455201f5a0aa06808221f37c29"
+      }
+    }
+  }
+}

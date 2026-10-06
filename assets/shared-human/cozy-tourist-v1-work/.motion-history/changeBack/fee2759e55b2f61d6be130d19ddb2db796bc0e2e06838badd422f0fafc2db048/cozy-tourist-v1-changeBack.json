@@ -1,0 +1,161 @@
+{
+  "id": "cozy-tourist-v1",
+  "action": "changeBack",
+  "directions": {
+    "0": [
+      {
+        "error": 5.948383378912835e-8,
+        "file": "cozy-tourist-v1-changeBack-d0-0.webp"
+      },
+      {
+        "error": 6.434896552270159e-8,
+        "file": "cozy-tourist-v1-changeBack-d0-1.webp"
+      },
+      {
+        "error": 7.6427125488427e-8,
+        "file": "cozy-tourist-v1-changeBack-d0-2.webp"
+      },
+      {
+        "error": 9.149754072041498e-8,
+        "file": "cozy-tourist-v1-changeBack-d0-3.webp"
+      },
+      {
+        "error": 1.0552261865275927e-7,
+        "file": "cozy-tourist-v1-changeBack-d0-4.webp"
+      },
+      {
+        "error": 1.1481310668519696e-7,
+        "file": "cozy-tourist-v1-changeBack-d0-5.webp"
+      },
+      {
+        "error": 1.1659223105683851e-7,
+        "file": "cozy-tourist-v1-changeBack-d0-6.webp"
+      },
+      {
+        "error": 1.1659223105683851e-7,
+        "file": "cozy-tourist-v1-changeBack-d0-7.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 5.948383378912835e-8,
+        "file": "cozy-tourist-v1-changeBack-d90-0.webp"
+      },
+      {
+        "error": 6.434896552270159e-8,
+        "file": "cozy-tourist-v1-changeBack-d90-1.webp"
+      },
+      {
+        "error": 7.6427125488427e-8,
+        "file": "cozy-tourist-v1-changeBack-d90-2.webp"
+      },
+      {
+        "error": 9.149754072041498e-8,
+        "file": "cozy-tourist-v1-changeBack-d90-3.webp"
+      },
+      {
+        "error": 1.0552261865275927e-7,
+        "file": "cozy-tourist-v1-changeBack-d90-4.webp"
+      },
+      {
+        "error": 1.1481310668519696e-7,
+        "file": "cozy-tourist-v1-changeBack-d90-5.webp"
+      },
+      {
+        "error": 1.1659223105683851e-7,
+        "file": "cozy-tourist-v1-changeBack-d90-6.webp"
+      },
+      {
+        "error": 1.1659223105683851e-7,
+        "file": "cozy-tourist-v1-changeBack-d90-7.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 5.948383378912835e-8,
+        "file": "cozy-tourist-v1-changeBack-d180-0.webp"
+      },
+      {
+        "error": 6.434896552270159e-8,
+        "file": "cozy-tourist-v1-changeBack-d180-1.webp"
+      },
+      {
+        "error": 7.6427125488427e-8,
+        "file": "cozy-tourist-v1-changeBack-d180-2.webp"
+      },
+      {
+        "error": 9.149754072041498e-8,
+        "file": "cozy-tourist-v1-changeBack-d180-3.webp"
+      },
+      {
+        "error": 1.0552261865275927e-7,
+        "file": "cozy-tourist-v1-changeBack-d180-4.webp"
+      },
+      {
+        "error": 1.1481310668519696e-7,
+        "file": "cozy-tourist-v1-changeBack-d180-5.webp"
+      },
+      {
+        "error": 1.1659223105683851e-7,
+        "file": "cozy-tourist-v1-changeBack-d180-6.webp"
+      },
+      {
+        "error": 1.1659223105683851e-7,
+        "file": "cozy-tourist-v1-changeBack-d180-7.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 5.948383378912835e-8,
+        "file": "cozy-tourist-v1-changeBack-d270-0.webp"
+      },
+      {
+        "error": 6.434896552270159e-8,
+        "file": "cozy-tourist-v1-changeBack-d270-1.webp"
+      },
+      {
+        "error": 7.6427125488427e-8,
+        "file": "cozy-tourist-v1-changeBack-d270-2.webp"
+      },
+      {
+        "error": 9.149754072041498e-8,
+        "file": "cozy-tourist-v1-changeBack-d270-3.webp"
+      },
+      {
+        "error": 1.0552261865275927e-7,
+        "file": "cozy-tourist-v1-changeBack-d270-4.webp"
+      },
+      {
+        "error": 1.1481310668519696e-7,
+        "file": "cozy-tourist-v1-changeBack-d270-5.webp"
+      },
+      {
+        "error": 1.1659223105683851e-7,
+        "file": "cozy-tourist-v1-changeBack-d270-6.webp"
+      },
+      {
+        "error": 1.1659223105683851e-7,
+        "file": "cozy-tourist-v1-changeBack-d270-7.webp"
+      }
+    ]
+  },
+  "width": 73,
+  "height": 148,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8445945945945946
+  },
+  "crop": {
+    "left": 439,
+    "top": 518
+  },
+  "scale": 0.5,
+  "loop": false,
+  "durationMs": 1400,
+  "maxError": 1.1659223105683851e-7,
+  "props": [
+    "clothes"
+  ],
+  "look": "casual",
+  "armRatio": 0.5719247837893897
+}

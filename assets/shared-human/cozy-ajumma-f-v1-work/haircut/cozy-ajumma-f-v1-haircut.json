@@ -1,0 +1,129 @@
+{
+  "id": "cozy-ajumma-f-v1",
+  "action": "haircut",
+  "directions": {
+    "0": [
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d0-0.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d0-1.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d0-2.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d0-3.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d0-4.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d90-0.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d90-1.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d90-2.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d90-3.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d90-4.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d180-0.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d180-1.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d180-2.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d180-3.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d180-4.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d270-0.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d270-1.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d270-2.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d270-3.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d270-4.webp"
+      },
+      {
+        "error": 7.403154447225037e-8,
+        "file": "cozy-ajumma-f-v1-haircut-d270-5.webp"
+      }
+    ]
+  },
+  "width": 82,
+  "height": 137,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8175182481751825
+  },
+  "crop": {
+    "left": 430,
+    "top": 544
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1600,
+  "maxError": 7.403154447225037e-8,
+  "props": [
+    "chair"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5754488710204448
+}

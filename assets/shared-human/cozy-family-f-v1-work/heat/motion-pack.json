@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "adapter": "jjim-activity",
+  "adapterVersion": 1,
+  "key": "cozy-family-f-v1/heat",
+  "stage": "baked-candidate",
+  "productionReady": false,
+  "renderKey": "b611f2e41572d9633a7f25e0827d7c3fcc633c5c13f38ecc907923c69d990bc6",
+  "fingerprint": "a350b2d7f31afcdbfc2aa43a26bf880606f280949c96e75975ecd440444779fd",
+  "provenance": {
+    "assets": {
+      "/models/jjim_guest_family_f_remesh_walk.glb": "ba496fcb462a65cd9cfe726594f9053d3d05a9a9c4dd2c692421e130cfd78041"
+    },
+    "resources": {},
+    "engine": {
+      "executable": "/Users/jjs01/.cache/dgl-seat-baker/150.0.7871.124/mac-arm64/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing",
+      "expectedVersion": "150.0.7871.124",
+      "canvasFlags": [
+        "--disable-features=SkiaGraphite"
+      ],
+      "angle": "metal",
+      "platform": "darwin",
+      "arch": "arm64",
+      "binaryHash": "22ddf33cec88bbfd181588eb3da31250a65ba8ebfdb6efcd2694a36275697284",
+      "hardware": "Apple M4 Pro",
+      "osRelease": "24.6.0",
+      "montage": "Version: ImageMagick 7.1.1-41 Q16-HDRI x86_64 22504 https://imagemagick.org\nCopyright: (C) 1999 ImageMagick Studio LLC\nLicense: https://imagemagick.org/script/license.php\nFeatures: Cipher DPC HDRI Modules OpenMP \nDelegates (built-in): bzlib fontconfig freetype gslib heic jng jp2 jpeg jxl lcms lqr ltdl lzma openexr png ps raw tiff webp xml zlib zstd\nCompiler: clang (16.0.0)"
+    },
+    "sourceHash": "83a932612f20d354d733a4a44d87629033cbc111f77a315dd03ea4f447f06620"
+  },
+  "clips": [
+    {
+      "motion": "heat",
+      "format": "shared-human-v1",
+      "metadata": "cozy-family-f-v1-heat.json",
+      "runtimeMetadata": "clip.json",
+      "clock": "simulation",
+      "loop": true
+    }
+  ],
+  "gates": {
+    "handError": 9.351870034829587e-8,
+    "fourDirections": true,
+    "fixedPivot": true
+  },
+  "pending": [
+    "facility-contact-visual-review",
+    "game-integration",
+    "performance",
+    "human-approval"
+  ]
+}

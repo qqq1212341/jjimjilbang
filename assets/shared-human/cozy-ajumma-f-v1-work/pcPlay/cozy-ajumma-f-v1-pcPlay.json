@@ -1,0 +1,130 @@
+{
+  "id": "cozy-ajumma-f-v1",
+  "action": "pcPlay",
+  "directions": {
+    "0": [
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d0-0.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d0-1.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d0-2.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d0-3.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d0-4.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d90-0.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d90-1.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d90-2.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d90-3.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d90-4.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d180-0.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d180-1.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d180-2.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d180-3.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d180-4.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d270-0.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d270-1.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d270-2.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d270-3.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d270-4.webp"
+      },
+      {
+        "error": 5.658270697698251e-8,
+        "file": "cozy-ajumma-f-v1-pcPlay-d270-5.webp"
+      }
+    ]
+  },
+  "width": 144,
+  "height": 155,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.7225806451612903
+  },
+  "crop": {
+    "left": 368,
+    "top": 544
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1400,
+  "maxError": 5.658270697698251e-8,
+  "props": [
+    "stool",
+    "desk"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5754488710204448
+}

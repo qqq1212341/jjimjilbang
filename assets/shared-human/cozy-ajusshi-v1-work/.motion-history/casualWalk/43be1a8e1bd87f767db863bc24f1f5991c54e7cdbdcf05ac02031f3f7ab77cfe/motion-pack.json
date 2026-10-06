@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "adapter": "body",
+  "adapterVersion": 1,
+  "key": "cozy-ajusshi-v1/casualWalk",
+  "stage": "baked-candidate",
+  "productionReady": false,
+  "renderKey": "666c8f3f9a1bed902c70ad99ae809865243981332d5e292f51dd8fd1a7e67387",
+  "fingerprint": "ecdb6fe730cf5a8f7fe3294abc1251c3d4655bb599c4203f02c1cc7ada639f44",
+  "provenance": {
+    "assets": {
+      "/models/owner_walk.glb": "3e8931ec40b2683cd7f30d8e74b12471bfbe59c61dda5f82a95bcd1f80ad24e0",
+      "/models/jjim_guest_male_pilot_walk.glb": "f6a35d1a9b98d4c8acf8d76fb9c90bb1bf73d153081ef45b94a6e64f7523a2e9"
+    },
+    "resources": {},
+    "engine": {
+      "executable": "/Users/jjs01/.cache/dgl-seat-baker/150.0.7871.124/mac-arm64/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing",
+      "expectedVersion": "150.0.7871.124",
+      "canvasFlags": [
+        "--disable-features=SkiaGraphite"
+      ],
+      "angle": "metal",
+      "platform": "darwin",
+      "arch": "arm64",
+      "binaryHash": "22ddf33cec88bbfd181588eb3da31250a65ba8ebfdb6efcd2694a36275697284",
+      "hardware": "Apple M4 Pro",
+      "osRelease": "24.6.0",
+      "montage": "Version: ImageMagick 7.1.1-41 Q16-HDRI x86_64 22504 https://imagemagick.org\nCopyright: (C) 1999 ImageMagick Studio LLC\nLicense: https://imagemagick.org/script/license.php\nFeatures: Cipher DPC HDRI Modules OpenMP \nDelegates (built-in): bzlib fontconfig freetype gslib heic jng jp2 jpeg jxl lcms lqr ltdl lzma openexr png ps raw tiff webp xml zlib zstd\nCompiler: clang (16.0.0)"
+    },
+    "sourceHash": "3faf762204691688e951f5aa13f9f54225e8c1aa895692e16e312f701fde7fd9"
+  },
+  "clips": [
+    {
+      "motion": "walk",
+      "gameVerb": "casualWalk",
+      "format": "shared-human-v1",
+      "metadata": "cozy-ajusshi-v1-casualWalk.json",
+      "runtimeMetadata": "clip.json",
+      "clock": "distance",
+      "loop": true
+    }
+  ],
+  "gates": {
+    "handError": 0,
+    "fourDirections": true,
+    "fixedPivot": true
+  },
+  "pending": [
+    "ground-and-loop-visual-review",
+    "game-integration",
+    "performance",
+    "human-approval"
+  ]
+}

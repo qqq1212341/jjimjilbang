@@ -1,0 +1,12 @@
+{
+ "facade": {
+  "sides": {
+   "l": "facade_l.png",
+   "r": "facade_r.png"
+  },
+  "w": 96,
+  "h": 184,
+  "wallH": 64,
+  "scale": 2
+ }
+}

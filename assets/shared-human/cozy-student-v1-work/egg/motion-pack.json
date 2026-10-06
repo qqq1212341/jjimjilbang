@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "adapter": "jjim-activity",
+  "adapterVersion": 1,
+  "key": "cozy-student-v1/egg",
+  "stage": "baked-candidate",
+  "productionReady": false,
+  "renderKey": "45eaa7db3cc9c5663d7a4b48272950c3eae27b6bc627ea3f3d01c1f4ecdb8e1d",
+  "fingerprint": "f80c5f1dee4c8b9c0b33efa133ded14a8d3eb262919a2396cff41099b953326b",
+  "provenance": {
+    "assets": {
+      "/models/jjim_guest_student_remesh_walk.glb": "aeb1725953bda458dfa0b93ca1267632423a9423a14505b58d6e837e3b752cdd"
+    },
+    "resources": {},
+    "engine": {
+      "executable": "/Users/jjs01/.cache/dgl-seat-baker/150.0.7871.124/mac-arm64/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing",
+      "expectedVersion": "150.0.7871.124",
+      "canvasFlags": [
+        "--disable-features=SkiaGraphite"
+      ],
+      "angle": "metal",
+      "platform": "darwin",
+      "arch": "arm64",
+      "binaryHash": "22ddf33cec88bbfd181588eb3da31250a65ba8ebfdb6efcd2694a36275697284",
+      "hardware": "Apple M4 Pro",
+      "osRelease": "24.6.0",
+      "montage": "Version: ImageMagick 7.1.1-41 Q16-HDRI x86_64 22504 https://imagemagick.org\nCopyright: (C) 1999 ImageMagick Studio LLC\nLicense: https://imagemagick.org/script/license.php\nFeatures: Cipher DPC HDRI Modules OpenMP \nDelegates (built-in): bzlib fontconfig freetype gslib heic jng jp2 jpeg jxl lcms lqr ltdl lzma openexr png ps raw tiff webp xml zlib zstd\nCompiler: clang (16.0.0)"
+    },
+    "sourceHash": "83a932612f20d354d733a4a44d87629033cbc111f77a315dd03ea4f447f06620"
+  },
+  "clips": [
+    {
+      "motion": "egg",
+      "format": "shared-human-v1",
+      "metadata": "cozy-student-v1-egg.json",
+      "runtimeMetadata": "clip.json",
+      "clock": "simulation",
+      "loop": true
+    }
+  ],
+  "gates": {
+    "handError": 1.139601828419691e-7,
+    "fourDirections": true,
+    "fixedPivot": true
+  },
+  "pending": [
+    "facility-contact-visual-review",
+    "game-integration",
+    "performance",
+    "human-approval"
+  ]
+}

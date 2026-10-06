@@ -1,0 +1,284 @@
+{
+  "id": "cozy-owner-v1",
+  "action": "press",
+  "directions": {
+    "0": [
+      {
+        "error": 1.1102242059966038e-7,
+        "file": "cozy-owner-v1-press-d0-0.webp"
+      },
+      {
+        "error": 1.1047786057170951e-7,
+        "file": "cozy-owner-v1-press-d0-1.webp"
+      },
+      {
+        "error": 1.0566126655196163e-7,
+        "file": "cozy-owner-v1-press-d0-2.webp"
+      },
+      {
+        "error": 9.28945286504471e-8,
+        "file": "cozy-owner-v1-press-d0-3.webp"
+      },
+      {
+        "error": 8.008281990899544e-8,
+        "file": "cozy-owner-v1-press-d0-4.webp"
+      },
+      {
+        "error": 7.55203459598617e-8,
+        "file": "cozy-owner-v1-press-d0-5.webp"
+      },
+      {
+        "error": 7.546848674430478e-8,
+        "file": "cozy-owner-v1-press-d0-6.webp"
+      },
+      {
+        "error": 7.546848674430478e-8,
+        "file": "cozy-owner-v1-press-d0-7.webp"
+      },
+      {
+        "error": 7.546848674430478e-8,
+        "file": "cozy-owner-v1-press-d0-8.webp"
+      },
+      {
+        "error": 7.546848674430478e-8,
+        "file": "cozy-owner-v1-press-d0-9.webp"
+      },
+      {
+        "error": 7.55203459598617e-8,
+        "file": "cozy-owner-v1-press-d0-10.webp"
+      },
+      {
+        "error": 8.008281990899544e-8,
+        "file": "cozy-owner-v1-press-d0-11.webp"
+      },
+      {
+        "error": 9.289452866179063e-8,
+        "file": "cozy-owner-v1-press-d0-12.webp"
+      },
+      {
+        "error": 1.0566126665886415e-7,
+        "file": "cozy-owner-v1-press-d0-13.webp"
+      },
+      {
+        "error": 1.1047786053956896e-7,
+        "file": "cozy-owner-v1-press-d0-14.webp"
+      },
+      {
+        "error": 1.1102242059966038e-7,
+        "file": "cozy-owner-v1-press-d0-15.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 5.520887761127156e-8,
+        "file": "cozy-owner-v1-press-d90-0.webp"
+      },
+      {
+        "error": 5.513950281090997e-8,
+        "file": "cozy-owner-v1-press-d90-1.webp"
+      },
+      {
+        "error": 5.459044168201478e-8,
+        "file": "cozy-owner-v1-press-d90-2.webp"
+      },
+      {
+        "error": 5.398134424521267e-8,
+        "file": "cozy-owner-v1-press-d90-3.webp"
+      },
+      {
+        "error": 5.4629997087483855e-8,
+        "file": "cozy-owner-v1-press-d90-4.webp"
+      },
+      {
+        "error": 5.5097685298865216e-8,
+        "file": "cozy-owner-v1-press-d90-5.webp"
+      },
+      {
+        "error": 5.510357293146732e-8,
+        "file": "cozy-owner-v1-press-d90-6.webp"
+      },
+      {
+        "error": 5.510357293146732e-8,
+        "file": "cozy-owner-v1-press-d90-7.webp"
+      },
+      {
+        "error": 5.510357293146732e-8,
+        "file": "cozy-owner-v1-press-d90-8.webp"
+      },
+      {
+        "error": 5.510357293146732e-8,
+        "file": "cozy-owner-v1-press-d90-9.webp"
+      },
+      {
+        "error": 5.5097685298865216e-8,
+        "file": "cozy-owner-v1-press-d90-10.webp"
+      },
+      {
+        "error": 5.4629997087483855e-8,
+        "file": "cozy-owner-v1-press-d90-11.webp"
+      },
+      {
+        "error": 5.398134422293662e-8,
+        "file": "cozy-owner-v1-press-d90-12.webp"
+      },
+      {
+        "error": 5.459044168704951e-8,
+        "file": "cozy-owner-v1-press-d90-13.webp"
+      },
+      {
+        "error": 5.513950282642647e-8,
+        "file": "cozy-owner-v1-press-d90-14.webp"
+      },
+      {
+        "error": 5.520887761127156e-8,
+        "file": "cozy-owner-v1-press-d90-15.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 1.1012069815458908e-7,
+        "file": "cozy-owner-v1-press-d180-0.webp"
+      },
+      {
+        "error": 1.0956503514439589e-7,
+        "file": "cozy-owner-v1-press-d180-1.webp"
+      },
+      {
+        "error": 1.0481702896974213e-7,
+        "file": "cozy-owner-v1-press-d180-2.webp"
+      },
+      {
+        "error": 9.239734006118122e-8,
+        "file": "cozy-owner-v1-press-d180-3.webp"
+      },
+      {
+        "error": 7.981301299354253e-8,
+        "file": "cozy-owner-v1-press-d180-4.webp"
+      },
+      {
+        "error": 7.528127027622226e-8,
+        "file": "cozy-owner-v1-press-d180-5.webp"
+      },
+      {
+        "error": 7.522960980714359e-8,
+        "file": "cozy-owner-v1-press-d180-6.webp"
+      },
+      {
+        "error": 7.522960980714359e-8,
+        "file": "cozy-owner-v1-press-d180-7.webp"
+      },
+      {
+        "error": 7.522960980714359e-8,
+        "file": "cozy-owner-v1-press-d180-8.webp"
+      },
+      {
+        "error": 7.522960980714359e-8,
+        "file": "cozy-owner-v1-press-d180-9.webp"
+      },
+      {
+        "error": 7.528127027622226e-8,
+        "file": "cozy-owner-v1-press-d180-10.webp"
+      },
+      {
+        "error": 7.981301299354253e-8,
+        "file": "cozy-owner-v1-press-d180-11.webp"
+      },
+      {
+        "error": 9.239734014467671e-8,
+        "file": "cozy-owner-v1-press-d180-12.webp"
+      },
+      {
+        "error": 1.0481702889972344e-7,
+        "file": "cozy-owner-v1-press-d180-13.webp"
+      },
+      {
+        "error": 1.0956503504323727e-7,
+        "file": "cozy-owner-v1-press-d180-14.webp"
+      },
+      {
+        "error": 1.1012069815458908e-7,
+        "file": "cozy-owner-v1-press-d180-15.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 5.7515006111680815e-8,
+        "file": "cozy-owner-v1-press-d270-0.webp"
+      },
+      {
+        "error": 5.763247796591429e-8,
+        "file": "cozy-owner-v1-press-d270-1.webp"
+      },
+      {
+        "error": 5.926836292091242e-8,
+        "file": "cozy-owner-v1-press-d270-2.webp"
+      },
+      {
+        "error": 6.77447906719461e-8,
+        "file": "cozy-owner-v1-press-d270-3.webp"
+      },
+      {
+        "error": 8.127603320584188e-8,
+        "file": "cozy-owner-v1-press-d270-4.webp"
+      },
+      {
+        "error": 8.6516002816512e-8,
+        "file": "cozy-owner-v1-press-d270-5.webp"
+      },
+      {
+        "error": 8.657494264417605e-8,
+        "file": "cozy-owner-v1-press-d270-6.webp"
+      },
+      {
+        "error": 8.657494264417605e-8,
+        "file": "cozy-owner-v1-press-d270-7.webp"
+      },
+      {
+        "error": 8.657494264417605e-8,
+        "file": "cozy-owner-v1-press-d270-8.webp"
+      },
+      {
+        "error": 8.657494264417605e-8,
+        "file": "cozy-owner-v1-press-d270-9.webp"
+      },
+      {
+        "error": 8.6516002816512e-8,
+        "file": "cozy-owner-v1-press-d270-10.webp"
+      },
+      {
+        "error": 8.127603320584188e-8,
+        "file": "cozy-owner-v1-press-d270-11.webp"
+      },
+      {
+        "error": 6.774479075658248e-8,
+        "file": "cozy-owner-v1-press-d270-12.webp"
+      },
+      {
+        "error": 5.926836292091242e-8,
+        "file": "cozy-owner-v1-press-d270-13.webp"
+      },
+      {
+        "error": 5.763247792159387e-8,
+        "file": "cozy-owner-v1-press-d270-14.webp"
+      },
+      {
+        "error": 5.7515006111680815e-8,
+        "file": "cozy-owner-v1-press-d270-15.webp"
+      }
+    ]
+  },
+  "width": 69,
+  "height": 148,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8581081081081081
+  },
+  "crop": {
+    "left": 443,
+    "top": 514
+  },
+  "scale": 0.5,
+  "loop": false,
+  "durationMs": 2000,
+  "maxError": 1.1102242059966038e-7
+}

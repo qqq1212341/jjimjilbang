@@ -1,0 +1,129 @@
+{
+  "id": "cozy-family-f-v1",
+  "action": "cold",
+  "directions": {
+    "0": [
+      {
+        "error": 9.878530676739983e-8,
+        "file": "cozy-family-f-v1-cold-d0-0.webp"
+      },
+      {
+        "error": 1.0017299531386609e-7,
+        "file": "cozy-family-f-v1-cold-d0-1.webp"
+      },
+      {
+        "error": 9.783488621614879e-8,
+        "file": "cozy-family-f-v1-cold-d0-2.webp"
+      },
+      {
+        "error": 9.878530488072898e-8,
+        "file": "cozy-family-f-v1-cold-d0-3.webp"
+      },
+      {
+        "error": 1.0017299521224536e-7,
+        "file": "cozy-family-f-v1-cold-d0-4.webp"
+      },
+      {
+        "error": 9.783488625428761e-8,
+        "file": "cozy-family-f-v1-cold-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 9.878530676739983e-8,
+        "file": "cozy-family-f-v1-cold-d90-0.webp"
+      },
+      {
+        "error": 1.0017299531386609e-7,
+        "file": "cozy-family-f-v1-cold-d90-1.webp"
+      },
+      {
+        "error": 9.783488621614879e-8,
+        "file": "cozy-family-f-v1-cold-d90-2.webp"
+      },
+      {
+        "error": 9.878530488072898e-8,
+        "file": "cozy-family-f-v1-cold-d90-3.webp"
+      },
+      {
+        "error": 1.0017299521224536e-7,
+        "file": "cozy-family-f-v1-cold-d90-4.webp"
+      },
+      {
+        "error": 9.783488625428761e-8,
+        "file": "cozy-family-f-v1-cold-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 9.878530676739983e-8,
+        "file": "cozy-family-f-v1-cold-d180-0.webp"
+      },
+      {
+        "error": 1.0017299531386609e-7,
+        "file": "cozy-family-f-v1-cold-d180-1.webp"
+      },
+      {
+        "error": 9.783488621614879e-8,
+        "file": "cozy-family-f-v1-cold-d180-2.webp"
+      },
+      {
+        "error": 9.878530488072898e-8,
+        "file": "cozy-family-f-v1-cold-d180-3.webp"
+      },
+      {
+        "error": 1.0017299521224536e-7,
+        "file": "cozy-family-f-v1-cold-d180-4.webp"
+      },
+      {
+        "error": 9.783488625428761e-8,
+        "file": "cozy-family-f-v1-cold-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 9.878530676739983e-8,
+        "file": "cozy-family-f-v1-cold-d270-0.webp"
+      },
+      {
+        "error": 1.0017299531386609e-7,
+        "file": "cozy-family-f-v1-cold-d270-1.webp"
+      },
+      {
+        "error": 9.783488621614879e-8,
+        "file": "cozy-family-f-v1-cold-d270-2.webp"
+      },
+      {
+        "error": 9.878530488072898e-8,
+        "file": "cozy-family-f-v1-cold-d270-3.webp"
+      },
+      {
+        "error": 1.0017299521224536e-7,
+        "file": "cozy-family-f-v1-cold-d270-4.webp"
+      },
+      {
+        "error": 9.783488625428761e-8,
+        "file": "cozy-family-f-v1-cold-d270-5.webp"
+      }
+    ]
+  },
+  "width": 79,
+  "height": 135,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8296296296296296
+  },
+  "crop": {
+    "left": 433,
+    "top": 544
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 900,
+  "maxError": 1.0017299531386609e-7,
+  "props": [
+    "water"
+  ],
+  "look": "wet",
+  "armRatio": 0.5974128313389201
+}

@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "7f9a12f966885b5ce3442c896d98d676fed7613f6919a708c34c10c053f7d402",
+  "previous": "absent",
+  "current": "84741b8a20a22988b125b12386b3f5e45b4b313803ed375586e6647598f9970f",
+  "approvedBy": "사장님(jjs01hwang) 2026-09-25 대화 승인",
+  "review": {
+    "version": 1,
+    "fingerprint": "7f9a12f966885b5ce3442c896d98d676fed7613f6919a708c34c10c053f7d402",
+    "candidateDigest": "84741b8a20a22988b125b12386b3f5e45b4b313803ed375586e6647598f9970f",
+    "approved": true,
+    "approvedBy": "사장님(jjs01hwang) 2026-09-25 대화 승인",
+    "checks": {
+      "ground-and-loop-visual-review": {
+        "passed": true,
+        "evidence": "../student-casual-v3-review.webp",
+        "sha256": "71d00db1f24014c0a6422edd9dce7924b76a9283c0772baff032c40db26cbf6e"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-cast-v4/cozy-student-v1/report.json",
+        "sha256": "5c15f63adff92c5aed0e43fdb767f133c502497dcf4c73f49c641a0004e2ce70"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_cast-walk-perf.json",
+        "sha256": "4ccd8fb14e3ab5764949d2fe4ce8798f1ddf5174e3b78ab63b070e1e1b297f82"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-25-bath-looks-and-enter.md",
+        "sha256": "43d98435e8e66ddcc06a4fc879e5f7a81ddf15f9f3933a731dac930437d7269b"
+      }
+    }
+  }
+}

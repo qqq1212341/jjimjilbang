@@ -1,0 +1,56 @@
+{
+ "dry": {
+  "variants": [
+   "dry_0.png",
+   "dry_1.png"
+  ],
+  "w": 192,
+  "h": 112,
+  "scale": 2
+ },
+ "food": {
+  "variants": [
+   "food_0.png",
+   "food_1.png"
+  ],
+  "w": 192,
+  "h": 112,
+  "scale": 2
+ },
+ "heat": {
+  "variants": [
+   "heat_0.png",
+   "heat_1.png"
+  ],
+  "w": 192,
+  "h": 112,
+  "scale": 2
+ },
+ "path": {
+  "variants": [
+   "path_0.png",
+   "path_1.png"
+  ],
+  "w": 192,
+  "h": 112,
+  "scale": 2
+ },
+ "wet": {
+  "variants": [
+   "wet_0.png",
+   "wet_1.png"
+  ],
+  "w": 192,
+  "h": 112,
+  "scale": 2
+ },
+ "entrymat": {
+  "variants": [
+   "entrymat_0.png",
+   "entrymat_1.png"
+  ],
+  "w": 192,
+  "h": 112,
+  "scale": 2
+ }
+}

@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "98ef117bad073739e45e9deedcd50976f33cd839867387ffb0699106f99753dd",
+  "previous": "absent",
+  "current": "32389bbf671f9ee2fdcc6bf0bed964fc8e89a97b244730e1d0d6b9f2d6765f9f",
+  "approvedBy": "사장님(jjs01hwang) 2026-09-25 대화 승인",
+  "review": {
+    "version": 1,
+    "fingerprint": "98ef117bad073739e45e9deedcd50976f33cd839867387ffb0699106f99753dd",
+    "candidateDigest": "32389bbf671f9ee2fdcc6bf0bed964fc8e89a97b244730e1d0d6b9f2d6765f9f",
+    "approved": true,
+    "approvedBy": "사장님(jjs01hwang) 2026-09-25 대화 승인",
+    "checks": {
+      "ground-and-loop-visual-review": {
+        "passed": true,
+        "evidence": "../ajumma-f-casual-v2-review.webp",
+        "sha256": "6901487907c5975de20102ef9ff2eb98109e2640bea0096ba92853aba372919d"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-wet-v3/female-report.json",
+        "sha256": "f3518145b0b4d0fb94e71c7275b4b84600829d2e2e71be4efda6c5903d10651a"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_cast-walk-perf.json",
+        "sha256": "4ccd8fb14e3ab5764949d2fe4ce8798f1ddf5174e3b78ab63b070e1e1b297f82"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-25-bath-looks-and-enter.md",
+        "sha256": "43d98435e8e66ddcc06a4fc879e5f7a81ddf15f9f3933a731dac930437d7269b"
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "cozy-family-f-v1",
+  "action": "massage",
+  "directions": {
+    "0": [
+      {
+        "error": 1.3153888160844715e-7,
+        "file": "cozy-family-f-v1-massage-d0-0.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d0-1.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d0-2.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d0-3.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d0-4.webp"
+      },
+      {
+        "error": 1.3154134635762497e-7,
+        "file": "cozy-family-f-v1-massage-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 1.3153888160844715e-7,
+        "file": "cozy-family-f-v1-massage-d90-0.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d90-1.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d90-2.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d90-3.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d90-4.webp"
+      },
+      {
+        "error": 1.3154134635762497e-7,
+        "file": "cozy-family-f-v1-massage-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 1.3153888160844715e-7,
+        "file": "cozy-family-f-v1-massage-d180-0.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d180-1.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d180-2.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d180-3.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d180-4.webp"
+      },
+      {
+        "error": 1.3154134635762497e-7,
+        "file": "cozy-family-f-v1-massage-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 1.3153888160844715e-7,
+        "file": "cozy-family-f-v1-massage-d270-0.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d270-1.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d270-2.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d270-3.webp"
+      },
+      {
+        "error": 1.3154134616165185e-7,
+        "file": "cozy-family-f-v1-massage-d270-4.webp"
+      },
+      {
+        "error": 1.3154134635762497e-7,
+        "file": "cozy-family-f-v1-massage-d270-5.webp"
+      }
+    ]
+  },
+  "width": 82,
+  "height": 133,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8082706766917294
+  },
+  "crop": {
+    "left": 430,
+    "top": 553
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1600,
+  "maxError": 1.3154134635762497e-7,
+  "props": [
+    "chair"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5974128313389201
+}

@@ -1,0 +1,290 @@
+{
+  "id": "cozy-family-f-v1",
+  "action": "bathEnter",
+  "directions": {
+    "0": [
+      {
+        "error": 7.156163403239104e-8,
+        "file": "cozy-family-f-v1-bathEnter-d0-0.webp"
+      },
+      {
+        "error": 9.323637953833098e-8,
+        "file": "cozy-family-f-v1-bathEnter-d0-1.webp"
+      },
+      {
+        "error": 1.2882373669829657e-7,
+        "file": "cozy-family-f-v1-bathEnter-d0-2.webp"
+      },
+      {
+        "error": 1.408493228623658e-7,
+        "file": "cozy-family-f-v1-bathEnter-d0-3.webp"
+      },
+      {
+        "error": 6.616142903728001e-8,
+        "file": "cozy-family-f-v1-bathEnter-d0-4.webp"
+      },
+      {
+        "error": 1.1900256106759175e-7,
+        "file": "cozy-family-f-v1-bathEnter-d0-5.webp"
+      },
+      {
+        "error": 1.4521385799788306e-7,
+        "file": "cozy-family-f-v1-bathEnter-d0-6.webp"
+      },
+      {
+        "error": 2.09201957409636e-7,
+        "file": "cozy-family-f-v1-bathEnter-d0-7.webp"
+      },
+      {
+        "error": 6.045144407544995e-8,
+        "file": "cozy-family-f-v1-bathEnter-d0-8.webp"
+      },
+      {
+        "error": 6.040500547049851e-8,
+        "file": "cozy-family-f-v1-bathEnter-d0-9.webp"
+      },
+      {
+        "error": 6.140956407170793e-8,
+        "file": "cozy-family-f-v1-bathEnter-d0-10.webp"
+      },
+      {
+        "error": 6.081490292757987e-8,
+        "file": "cozy-family-f-v1-bathEnter-d0-11.webp"
+      },
+      {
+        "error": 6.182084999322503e-8,
+        "file": "cozy-family-f-v1-bathEnter-d0-12.webp"
+      },
+      {
+        "error": 6.114878937784367e-8,
+        "file": "cozy-family-f-v1-bathEnter-d0-13.webp"
+      },
+      {
+        "error": 6.263948887197277e-8,
+        "file": "cozy-family-f-v1-bathEnter-d0-14.webp"
+      },
+      {
+        "error": 7.495200083982255e-8,
+        "file": "cozy-family-f-v1-bathEnter-d0-15.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 7.156163403239104e-8,
+        "file": "cozy-family-f-v1-bathEnter-d90-0.webp"
+      },
+      {
+        "error": 9.323637953833098e-8,
+        "file": "cozy-family-f-v1-bathEnter-d90-1.webp"
+      },
+      {
+        "error": 1.2882373669829657e-7,
+        "file": "cozy-family-f-v1-bathEnter-d90-2.webp"
+      },
+      {
+        "error": 1.408493228623658e-7,
+        "file": "cozy-family-f-v1-bathEnter-d90-3.webp"
+      },
+      {
+        "error": 6.616142903728001e-8,
+        "file": "cozy-family-f-v1-bathEnter-d90-4.webp"
+      },
+      {
+        "error": 1.1900256106759175e-7,
+        "file": "cozy-family-f-v1-bathEnter-d90-5.webp"
+      },
+      {
+        "error": 1.4521385799788306e-7,
+        "file": "cozy-family-f-v1-bathEnter-d90-6.webp"
+      },
+      {
+        "error": 2.09201957409636e-7,
+        "file": "cozy-family-f-v1-bathEnter-d90-7.webp"
+      },
+      {
+        "error": 6.045144407544995e-8,
+        "file": "cozy-family-f-v1-bathEnter-d90-8.webp"
+      },
+      {
+        "error": 6.040500547049851e-8,
+        "file": "cozy-family-f-v1-bathEnter-d90-9.webp"
+      },
+      {
+        "error": 6.140956407170793e-8,
+        "file": "cozy-family-f-v1-bathEnter-d90-10.webp"
+      },
+      {
+        "error": 6.081490292757987e-8,
+        "file": "cozy-family-f-v1-bathEnter-d90-11.webp"
+      },
+      {
+        "error": 6.182084999322503e-8,
+        "file": "cozy-family-f-v1-bathEnter-d90-12.webp"
+      },
+      {
+        "error": 6.114878937784367e-8,
+        "file": "cozy-family-f-v1-bathEnter-d90-13.webp"
+      },
+      {
+        "error": 6.263948887197277e-8,
+        "file": "cozy-family-f-v1-bathEnter-d90-14.webp"
+      },
+      {
+        "error": 7.495200083982255e-8,
+        "file": "cozy-family-f-v1-bathEnter-d90-15.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 7.156163403239104e-8,
+        "file": "cozy-family-f-v1-bathEnter-d180-0.webp"
+      },
+      {
+        "error": 9.323637953833098e-8,
+        "file": "cozy-family-f-v1-bathEnter-d180-1.webp"
+      },
+      {
+        "error": 1.2882373669829657e-7,
+        "file": "cozy-family-f-v1-bathEnter-d180-2.webp"
+      },
+      {
+        "error": 1.408493228623658e-7,
+        "file": "cozy-family-f-v1-bathEnter-d180-3.webp"
+      },
+      {
+        "error": 6.616142903728001e-8,
+        "file": "cozy-family-f-v1-bathEnter-d180-4.webp"
+      },
+      {
+        "error": 1.1900256106759175e-7,
+        "file": "cozy-family-f-v1-bathEnter-d180-5.webp"
+      },
+      {
+        "error": 1.4521385799788306e-7,
+        "file": "cozy-family-f-v1-bathEnter-d180-6.webp"
+      },
+      {
+        "error": 2.09201957409636e-7,
+        "file": "cozy-family-f-v1-bathEnter-d180-7.webp"
+      },
+      {
+        "error": 6.045144407544995e-8,
+        "file": "cozy-family-f-v1-bathEnter-d180-8.webp"
+      },
+      {
+        "error": 6.040500547049851e-8,
+        "file": "cozy-family-f-v1-bathEnter-d180-9.webp"
+      },
+      {
+        "error": 6.140956407170793e-8,
+        "file": "cozy-family-f-v1-bathEnter-d180-10.webp"
+      },
+      {
+        "error": 6.081490292757987e-8,
+        "file": "cozy-family-f-v1-bathEnter-d180-11.webp"
+      },
+      {
+        "error": 6.182084999322503e-8,
+        "file": "cozy-family-f-v1-bathEnter-d180-12.webp"
+      },
+      {
+        "error": 6.114878937784367e-8,
+        "file": "cozy-family-f-v1-bathEnter-d180-13.webp"
+      },
+      {
+        "error": 6.263948887197277e-8,
+        "file": "cozy-family-f-v1-bathEnter-d180-14.webp"
+      },
+      {
+        "error": 7.495200083982255e-8,
+        "file": "cozy-family-f-v1-bathEnter-d180-15.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 7.156163403239104e-8,
+        "file": "cozy-family-f-v1-bathEnter-d270-0.webp"
+      },
+      {
+        "error": 9.323637953833098e-8,
+        "file": "cozy-family-f-v1-bathEnter-d270-1.webp"
+      },
+      {
+        "error": 1.2882373669829657e-7,
+        "file": "cozy-family-f-v1-bathEnter-d270-2.webp"
+      },
+      {
+        "error": 1.408493228623658e-7,
+        "file": "cozy-family-f-v1-bathEnter-d270-3.webp"
+      },
+      {
+        "error": 6.616142903728001e-8,
+        "file": "cozy-family-f-v1-bathEnter-d270-4.webp"
+      },
+      {
+        "error": 1.1900256106759175e-7,
+        "file": "cozy-family-f-v1-bathEnter-d270-5.webp"
+      },
+      {
+        "error": 1.4521385799788306e-7,
+        "file": "cozy-family-f-v1-bathEnter-d270-6.webp"
+      },
+      {
+        "error": 2.09201957409636e-7,
+        "file": "cozy-family-f-v1-bathEnter-d270-7.webp"
+      },
+      {
+        "error": 6.045144407544995e-8,
+        "file": "cozy-family-f-v1-bathEnter-d270-8.webp"
+      },
+      {
+        "error": 6.040500547049851e-8,
+        "file": "cozy-family-f-v1-bathEnter-d270-9.webp"
+      },
+      {
+        "error": 6.140956407170793e-8,
+        "file": "cozy-family-f-v1-bathEnter-d270-10.webp"
+      },
+      {
+        "error": 6.081490292757987e-8,
+        "file": "cozy-family-f-v1-bathEnter-d270-11.webp"
+      },
+      {
+        "error": 6.182084999322503e-8,
+        "file": "cozy-family-f-v1-bathEnter-d270-12.webp"
+      },
+      {
+        "error": 6.114878937784367e-8,
+        "file": "cozy-family-f-v1-bathEnter-d270-13.webp"
+      },
+      {
+        "error": 6.263948887197277e-8,
+        "file": "cozy-family-f-v1-bathEnter-d270-14.webp"
+      },
+      {
+        "error": 7.495200083982255e-8,
+        "file": "cozy-family-f-v1-bathEnter-d270-15.webp"
+      }
+    ]
+  },
+  "width": 109,
+  "height": 164,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.7957317073170732
+  },
+  "crop": {
+    "left": 403,
+    "top": 507
+  },
+  "scale": 0.5,
+  "durationMs": 5966.666698455811,
+  "loop": false,
+  "maxAnkleError": 2.09201957409636e-7,
+  "retargetMetrics": {
+    "trackCount": 23,
+    "initialFloor": 0.03718250580918925,
+    "minimumFloor": 0.036336655431721626,
+    "maxLift": 0.2928456121344007
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "cozy-office-f-v1",
+  "action": "comic",
+  "directions": {
+    "0": [
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d0-0.webp"
+      },
+      {
+        "error": 1.2655995631094743e-7,
+        "file": "cozy-office-f-v1-comic-d0-1.webp"
+      },
+      {
+        "error": 1.2655995631094743e-7,
+        "file": "cozy-office-f-v1-comic-d0-2.webp"
+      },
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d0-3.webp"
+      },
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d0-4.webp"
+      },
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d90-0.webp"
+      },
+      {
+        "error": 1.2655995631094743e-7,
+        "file": "cozy-office-f-v1-comic-d90-1.webp"
+      },
+      {
+        "error": 1.2655995631094743e-7,
+        "file": "cozy-office-f-v1-comic-d90-2.webp"
+      },
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d90-3.webp"
+      },
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d90-4.webp"
+      },
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d180-0.webp"
+      },
+      {
+        "error": 1.2655995631094743e-7,
+        "file": "cozy-office-f-v1-comic-d180-1.webp"
+      },
+      {
+        "error": 1.2655995631094743e-7,
+        "file": "cozy-office-f-v1-comic-d180-2.webp"
+      },
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d180-3.webp"
+      },
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d180-4.webp"
+      },
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d270-0.webp"
+      },
+      {
+        "error": 1.2655995631094743e-7,
+        "file": "cozy-office-f-v1-comic-d270-1.webp"
+      },
+      {
+        "error": 1.2655995631094743e-7,
+        "file": "cozy-office-f-v1-comic-d270-2.webp"
+      },
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d270-3.webp"
+      },
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d270-4.webp"
+      },
+      {
+        "error": 1.3175660917708843e-7,
+        "file": "cozy-office-f-v1-comic-d270-5.webp"
+      }
+    ]
+  },
+  "width": 163,
+  "height": 114,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.7324561403508771
+  },
+  "crop": {
+    "left": 349,
+    "top": 601
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1800,
+  "maxError": 1.3175660917708843e-7,
+  "props": [
+    "mat",
+    "book"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5663216534920242
+}

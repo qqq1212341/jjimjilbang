@@ -1,0 +1,161 @@
+{
+  "id": "cozy-ajumma-f-v1",
+  "action": "towel",
+  "directions": {
+    "0": [
+      {
+        "error": 3.699677018642405e-8,
+        "file": "cozy-ajumma-f-v1-towel-d0-0.webp"
+      },
+      {
+        "error": 3.4881843891077596e-8,
+        "file": "cozy-ajumma-f-v1-towel-d0-1.webp"
+      },
+      {
+        "error": 4.3043571504364316e-8,
+        "file": "cozy-ajumma-f-v1-towel-d0-2.webp"
+      },
+      {
+        "error": 3.6322773390891263e-8,
+        "file": "cozy-ajumma-f-v1-towel-d0-3.webp"
+      },
+      {
+        "error": 2.616348385346833e-8,
+        "file": "cozy-ajumma-f-v1-towel-d0-4.webp"
+      },
+      {
+        "error": 3.380177452310343e-8,
+        "file": "cozy-ajumma-f-v1-towel-d0-5.webp"
+      },
+      {
+        "error": 4.000769026451649e-8,
+        "file": "cozy-ajumma-f-v1-towel-d0-6.webp"
+      },
+      {
+        "error": 3.699677018642405e-8,
+        "file": "cozy-ajumma-f-v1-towel-d0-7.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 3.699677018642405e-8,
+        "file": "cozy-ajumma-f-v1-towel-d90-0.webp"
+      },
+      {
+        "error": 3.4881843891077596e-8,
+        "file": "cozy-ajumma-f-v1-towel-d90-1.webp"
+      },
+      {
+        "error": 4.3043571504364316e-8,
+        "file": "cozy-ajumma-f-v1-towel-d90-2.webp"
+      },
+      {
+        "error": 3.6322773390891263e-8,
+        "file": "cozy-ajumma-f-v1-towel-d90-3.webp"
+      },
+      {
+        "error": 2.616348385346833e-8,
+        "file": "cozy-ajumma-f-v1-towel-d90-4.webp"
+      },
+      {
+        "error": 3.380177452310343e-8,
+        "file": "cozy-ajumma-f-v1-towel-d90-5.webp"
+      },
+      {
+        "error": 4.000769026451649e-8,
+        "file": "cozy-ajumma-f-v1-towel-d90-6.webp"
+      },
+      {
+        "error": 3.699677018642405e-8,
+        "file": "cozy-ajumma-f-v1-towel-d90-7.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 3.699677018642405e-8,
+        "file": "cozy-ajumma-f-v1-towel-d180-0.webp"
+      },
+      {
+        "error": 3.4881843891077596e-8,
+        "file": "cozy-ajumma-f-v1-towel-d180-1.webp"
+      },
+      {
+        "error": 4.3043571504364316e-8,
+        "file": "cozy-ajumma-f-v1-towel-d180-2.webp"
+      },
+      {
+        "error": 3.6322773390891263e-8,
+        "file": "cozy-ajumma-f-v1-towel-d180-3.webp"
+      },
+      {
+        "error": 2.616348385346833e-8,
+        "file": "cozy-ajumma-f-v1-towel-d180-4.webp"
+      },
+      {
+        "error": 3.380177452310343e-8,
+        "file": "cozy-ajumma-f-v1-towel-d180-5.webp"
+      },
+      {
+        "error": 4.000769026451649e-8,
+        "file": "cozy-ajumma-f-v1-towel-d180-6.webp"
+      },
+      {
+        "error": 3.699677018642405e-8,
+        "file": "cozy-ajumma-f-v1-towel-d180-7.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 3.699677018642405e-8,
+        "file": "cozy-ajumma-f-v1-towel-d270-0.webp"
+      },
+      {
+        "error": 3.4881843891077596e-8,
+        "file": "cozy-ajumma-f-v1-towel-d270-1.webp"
+      },
+      {
+        "error": 4.3043571504364316e-8,
+        "file": "cozy-ajumma-f-v1-towel-d270-2.webp"
+      },
+      {
+        "error": 3.6322773390891263e-8,
+        "file": "cozy-ajumma-f-v1-towel-d270-3.webp"
+      },
+      {
+        "error": 2.616348385346833e-8,
+        "file": "cozy-ajumma-f-v1-towel-d270-4.webp"
+      },
+      {
+        "error": 3.380177452310343e-8,
+        "file": "cozy-ajumma-f-v1-towel-d270-5.webp"
+      },
+      {
+        "error": 4.000769026451649e-8,
+        "file": "cozy-ajumma-f-v1-towel-d270-6.webp"
+      },
+      {
+        "error": 3.699677018642405e-8,
+        "file": "cozy-ajumma-f-v1-towel-d270-7.webp"
+      }
+    ]
+  },
+  "width": 61,
+  "height": 144,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8645833333333334
+  },
+  "crop": {
+    "left": 451,
+    "top": 519
+  },
+  "scale": 0.5,
+  "loop": false,
+  "durationMs": 1500,
+  "maxError": 4.3043571504364316e-8,
+  "props": [
+    "clothes"
+  ],
+  "look": "wet",
+  "armRatio": 0.5754488710204448
+}

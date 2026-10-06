@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "d7c107f8fd6b6eda70f458ec24047c09756eb0ee3898bfe70fa2eb60b6301860",
+  "previous": "20980a10214c8d776d7c69a51baff4a10fe97e0b30da1cbca2e541ad99a9c6af",
+  "current": "a3d232314d2c1953ab972d0d13a7b94706e5055bf39dd3e65be28b914093f1d1",
+  "approvedBy": "사장님 승인 기록 2026-09-27-male-waist-towel.md",
+  "review": {
+    "version": 1,
+    "fingerprint": "d7c107f8fd6b6eda70f458ec24047c09756eb0ee3898bfe70fa2eb60b6301860",
+    "candidateDigest": "a3d232314d2c1953ab972d0d13a7b94706e5055bf39dd3e65be28b914093f1d1",
+    "approved": true,
+    "approvedBy": "사장님 승인 기록 2026-09-27-male-waist-towel.md",
+    "checks": {
+      "facility-contact-visual-review": {
+        "passed": true,
+        "evidence": "../male-waist-towel-review.webp",
+        "sha256": "005c96ab8cbb55d7adb6c122992dc87297a78f7d9d9c679cfce502c7cbf59eff"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-activity-v2/report.json",
+        "sha256": "e3eb2fb8a2764f69aec8631c18124c47abdea1ef74b2ac05ced6841eac20ffbc"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_guest-activity-perf.json",
+        "sha256": "b6ae19e258831d9e5113ef096660ad246649db7c4f05872a4b98b8e38e734332"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-27-male-waist-towel.md",
+        "sha256": "8545bae36f2ad47675741e5c80106f7ee5edfa5f61178abd673c504733b6ce08"
+      }
+    }
+  }
+}

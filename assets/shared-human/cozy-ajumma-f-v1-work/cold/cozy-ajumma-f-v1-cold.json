@@ -1,0 +1,129 @@
+{
+  "id": "cozy-ajumma-f-v1",
+  "action": "cold",
+  "directions": {
+    "0": [
+      {
+        "error": 5.3446056042150813e-8,
+        "file": "cozy-ajumma-f-v1-cold-d0-0.webp"
+      },
+      {
+        "error": 5.301417238706544e-8,
+        "file": "cozy-ajumma-f-v1-cold-d0-1.webp"
+      },
+      {
+        "error": 5.3976891520096754e-8,
+        "file": "cozy-ajumma-f-v1-cold-d0-2.webp"
+      },
+      {
+        "error": 5.3446052311539364e-8,
+        "file": "cozy-ajumma-f-v1-cold-d0-3.webp"
+      },
+      {
+        "error": 5.301417237562189e-8,
+        "file": "cozy-ajumma-f-v1-cold-d0-4.webp"
+      },
+      {
+        "error": 5.3976891485743513e-8,
+        "file": "cozy-ajumma-f-v1-cold-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 5.3446056042150813e-8,
+        "file": "cozy-ajumma-f-v1-cold-d90-0.webp"
+      },
+      {
+        "error": 5.301417238706544e-8,
+        "file": "cozy-ajumma-f-v1-cold-d90-1.webp"
+      },
+      {
+        "error": 5.3976891520096754e-8,
+        "file": "cozy-ajumma-f-v1-cold-d90-2.webp"
+      },
+      {
+        "error": 5.3446052311539364e-8,
+        "file": "cozy-ajumma-f-v1-cold-d90-3.webp"
+      },
+      {
+        "error": 5.301417237562189e-8,
+        "file": "cozy-ajumma-f-v1-cold-d90-4.webp"
+      },
+      {
+        "error": 5.3976891485743513e-8,
+        "file": "cozy-ajumma-f-v1-cold-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 5.3446056042150813e-8,
+        "file": "cozy-ajumma-f-v1-cold-d180-0.webp"
+      },
+      {
+        "error": 5.301417238706544e-8,
+        "file": "cozy-ajumma-f-v1-cold-d180-1.webp"
+      },
+      {
+        "error": 5.3976891520096754e-8,
+        "file": "cozy-ajumma-f-v1-cold-d180-2.webp"
+      },
+      {
+        "error": 5.3446052311539364e-8,
+        "file": "cozy-ajumma-f-v1-cold-d180-3.webp"
+      },
+      {
+        "error": 5.301417237562189e-8,
+        "file": "cozy-ajumma-f-v1-cold-d180-4.webp"
+      },
+      {
+        "error": 5.3976891485743513e-8,
+        "file": "cozy-ajumma-f-v1-cold-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 5.3446056042150813e-8,
+        "file": "cozy-ajumma-f-v1-cold-d270-0.webp"
+      },
+      {
+        "error": 5.301417238706544e-8,
+        "file": "cozy-ajumma-f-v1-cold-d270-1.webp"
+      },
+      {
+        "error": 5.3976891520096754e-8,
+        "file": "cozy-ajumma-f-v1-cold-d270-2.webp"
+      },
+      {
+        "error": 5.3446052311539364e-8,
+        "file": "cozy-ajumma-f-v1-cold-d270-3.webp"
+      },
+      {
+        "error": 5.301417237562189e-8,
+        "file": "cozy-ajumma-f-v1-cold-d270-4.webp"
+      },
+      {
+        "error": 5.3976891485743513e-8,
+        "file": "cozy-ajumma-f-v1-cold-d270-5.webp"
+      }
+    ]
+  },
+  "width": 81,
+  "height": 134,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8283582089552238
+  },
+  "crop": {
+    "left": 431,
+    "top": 546
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 900,
+  "maxError": 5.3976891520096754e-8,
+  "props": [
+    "water"
+  ],
+  "look": "wet",
+  "armRatio": 0.5754488710204448
+}

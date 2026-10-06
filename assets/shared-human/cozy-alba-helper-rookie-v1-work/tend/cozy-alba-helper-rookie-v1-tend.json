@@ -1,0 +1,284 @@
+{
+  "id": "cozy-alba-helper-rookie-v1",
+  "action": "tend",
+  "directions": {
+    "0": [
+      {
+        "error": 6.328240848207311e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-0.webp"
+      },
+      {
+        "error": 6.307563441663528e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-1.webp"
+      },
+      {
+        "error": 6.29073483500808e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-2.webp"
+      },
+      {
+        "error": 6.27995157437387e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-3.webp"
+      },
+      {
+        "error": 6.276266018302335e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-4.webp"
+      },
+      {
+        "error": 6.27995157437387e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-5.webp"
+      },
+      {
+        "error": 6.29073483500808e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-6.webp"
+      },
+      {
+        "error": 6.307563441663528e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-7.webp"
+      },
+      {
+        "error": 6.328240848207311e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-8.webp"
+      },
+      {
+        "error": 6.349520887256529e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-9.webp"
+      },
+      {
+        "error": 6.367814802598646e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-10.webp"
+      },
+      {
+        "error": 6.380077936256355e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-11.webp"
+      },
+      {
+        "error": 6.384380716898339e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-12.webp"
+      },
+      {
+        "error": 6.380077936256355e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-13.webp"
+      },
+      {
+        "error": 6.367814802598646e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-14.webp"
+      },
+      {
+        "error": 6.349520887695677e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d0-15.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 6.387708857414388e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-0.webp"
+      },
+      {
+        "error": 6.231927670181464e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-1.webp"
+      },
+      {
+        "error": 6.094137987759325e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-2.webp"
+      },
+      {
+        "error": 5.999566968486062e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-3.webp"
+      },
+      {
+        "error": 5.965946314561004e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-4.webp"
+      },
+      {
+        "error": 5.999566968486062e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-5.webp"
+      },
+      {
+        "error": 6.094137987759325e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-6.webp"
+      },
+      {
+        "error": 6.231927670181464e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-7.webp"
+      },
+      {
+        "error": 6.387708857414388e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-8.webp"
+      },
+      {
+        "error": 6.535209686164185e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-9.webp"
+      },
+      {
+        "error": 6.653221267416274e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-10.webp"
+      },
+      {
+        "error": 6.728314486179389e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-11.webp"
+      },
+      {
+        "error": 6.753955060151923e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-12.webp"
+      },
+      {
+        "error": 6.728314486179389e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-13.webp"
+      },
+      {
+        "error": 6.653221267416274e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-14.webp"
+      },
+      {
+        "error": 6.535209686164185e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d90-15.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 4.587451715922032e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-0.webp"
+      },
+      {
+        "error": 4.6173025404765345e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-1.webp"
+      },
+      {
+        "error": 4.645501590911719e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-2.webp"
+      },
+      {
+        "error": 3.720161062764597e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-3.webp"
+      },
+      {
+        "error": 3.7324705572855774e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-4.webp"
+      },
+      {
+        "error": 3.720161062764597e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-5.webp"
+      },
+      {
+        "error": 4.645501584800556e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-6.webp"
+      },
+      {
+        "error": 4.6173025404765345e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-7.webp"
+      },
+      {
+        "error": 4.587451715922032e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-8.webp"
+      },
+      {
+        "error": 4.561249705505251e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-9.webp"
+      },
+      {
+        "error": 4.541851786324909e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-10.webp"
+      },
+      {
+        "error": 4.5303086693995666e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-11.webp"
+      },
+      {
+        "error": 4.526521772914159e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-12.webp"
+      },
+      {
+        "error": 4.5303086693995666e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-13.webp"
+      },
+      {
+        "error": 4.541851785839671e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-14.webp"
+      },
+      {
+        "error": 4.561249704465644e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d180-15.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 4.499750894456905e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-0.webp"
+      },
+      {
+        "error": 4.7539431662435935e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-1.webp"
+      },
+      {
+        "error": 4.988228022824792e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-2.webp"
+      },
+      {
+        "error": 5.154741625925131e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-3.webp"
+      },
+      {
+        "error": 5.2151643061374715e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-4.webp"
+      },
+      {
+        "error": 5.154741625925131e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-5.webp"
+      },
+      {
+        "error": 4.988228022824792e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-6.webp"
+      },
+      {
+        "error": 4.7539431662435935e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-7.webp"
+      },
+      {
+        "error": 4.499750894456905e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-8.webp"
+      },
+      {
+        "error": 4.268764342722532e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-9.webp"
+      },
+      {
+        "error": 4.0906896470690985e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-10.webp"
+      },
+      {
+        "error": 3.980650433027244e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-11.webp"
+      },
+      {
+        "error": 3.9436977172544655e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-12.webp"
+      },
+      {
+        "error": 3.980650433027244e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-13.webp"
+      },
+      {
+        "error": 4.0906896470690985e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-14.webp"
+      },
+      {
+        "error": 4.268764342722532e-8,
+        "file": "cozy-alba-helper-rookie-v1-tend-d270-15.webp"
+      }
+    ]
+  },
+  "width": 61,
+  "height": 144,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8715277777777778
+  },
+  "crop": {
+    "left": 451,
+    "top": 517
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 4000,
+  "maxError": 6.753955060151923e-8
+}

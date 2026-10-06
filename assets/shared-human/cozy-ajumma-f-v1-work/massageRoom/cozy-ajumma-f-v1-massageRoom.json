@@ -1,0 +1,129 @@
+{
+  "id": "cozy-ajumma-f-v1",
+  "action": "massageRoom",
+  "directions": {
+    "0": [
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d0-0.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d0-1.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d0-2.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d0-3.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d0-4.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d90-0.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d90-1.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d90-2.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d90-3.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d90-4.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d180-0.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d180-1.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d180-2.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d180-3.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d180-4.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d270-0.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d270-1.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d270-2.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d270-3.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d270-4.webp"
+      },
+      {
+        "error": 1.0263590193017568e-7,
+        "file": "cozy-ajumma-f-v1-massageRoom-d270-5.webp"
+      }
+    ]
+  },
+  "width": 164,
+  "height": 119,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5882352941176471
+  },
+  "crop": {
+    "left": 348,
+    "top": 628
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 2200,
+  "maxError": 1.0263590193017568e-7,
+  "props": [
+    "bed"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5754488710204448
+}

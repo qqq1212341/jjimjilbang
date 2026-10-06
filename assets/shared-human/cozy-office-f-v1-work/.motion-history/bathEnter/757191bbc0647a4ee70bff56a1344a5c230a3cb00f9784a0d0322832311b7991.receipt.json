@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "c4fe66326203e6fb90f177add049935499efba8871d3e35b1543cfbd67f8df0d",
+  "previous": "absent",
+  "current": "757191bbc0647a4ee70bff56a1344a5c230a3cb00f9784a0d0322832311b7991",
+  "approvedBy": "사장님 승인 기록 2026-09-26-cast-motions.md",
+  "review": {
+    "version": 1,
+    "fingerprint": "c4fe66326203e6fb90f177add049935499efba8871d3e35b1543cfbd67f8df0d",
+    "candidateDigest": "757191bbc0647a4ee70bff56a1344a5c230a3cb00f9784a0d0322832311b7991",
+    "approved": true,
+    "approvedBy": "사장님 승인 기록 2026-09-26-cast-motions.md",
+    "checks": {
+      "body-and-towel-mesh-rim-collision": {
+        "passed": true,
+        "evidence": "../refs/_bath-enter-choreo-contact-audit.json",
+        "sha256": "727c14c435f0df9393142838cf2e12f0b3d5f18a14ef3145f4404041e5a67097"
+      },
+      "water-occlusion": {
+        "passed": true,
+        "evidence": "../refs/_bath-enter-unscheduled.json",
+        "sha256": "b1745284b3f8b87eac21ae4ebce9675c489816bad5670bf087b651892850eb9e"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../refs/_bath-enter-unscheduled.json",
+        "sha256": "b1745284b3f8b87eac21ae4ebce9675c489816bad5670bf087b651892850eb9e"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_guest-activity-perf.json",
+        "sha256": "b6ae19e258831d9e5113ef096660ad246649db7c4f05872a4b98b8e38e734332"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-26-cast-motions.md",
+        "sha256": "a0f12a304e18c2115f5d593f92220c4e2d797f3738d36a766270f7bac2ce6f90"
+      }
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "cozy-office-f-v1",
+  "action": "egg",
+  "directions": {
+    "0": [
+      {
+        "error": 1.5656638376435468e-7,
+        "file": "cozy-office-f-v1-egg-d0-0.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d0-1.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d0-2.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d0-3.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d0-4.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 1.5656638376435468e-7,
+        "file": "cozy-office-f-v1-egg-d90-0.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d90-1.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d90-2.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d90-3.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d90-4.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 1.5656638376435468e-7,
+        "file": "cozy-office-f-v1-egg-d180-0.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d180-1.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d180-2.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d180-3.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d180-4.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 1.5656638376435468e-7,
+        "file": "cozy-office-f-v1-egg-d270-0.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d270-1.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d270-2.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d270-3.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d270-4.webp"
+      },
+      {
+        "error": 1.2858269669957932e-7,
+        "file": "cozy-office-f-v1-egg-d270-5.webp"
+      }
+    ]
+  },
+  "width": 163,
+  "height": 117,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.7350427350427351
+  },
+  "crop": {
+    "left": 349,
+    "top": 596
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1800,
+  "maxError": 1.5656638376435468e-7,
+  "props": [
+    "mat",
+    "egg"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5663216534920242
+}

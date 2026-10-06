@@ -1,0 +1,614 @@
+{
+  "durationMs": 2000,
+  "loop": false,
+  "directions": {
+    "0": {
+      "frames": [
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-0",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-0.webp",
+          "item": {
+            "x": 12.763864025478256,
+            "y": -56.99388232946211,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-1",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-1.webp",
+          "item": {
+            "x": 12.864181658747043,
+            "y": -56.75430019606574,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-2",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-2.webp",
+          "item": {
+            "x": 13.147788763108053,
+            "y": -56.0769797369108,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-3",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-3.webp",
+          "item": {
+            "x": 13.565645219902876,
+            "y": -55.07903472006956,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-4",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-4.webp",
+          "item": {
+            "x": 14.04550311170857,
+            "y": -53.93302076439062,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-5",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-5.webp",
+          "item": {
+            "x": 14.504388985036428,
+            "y": -52.837093143485845,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-6",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-6.webp",
+          "item": {
+            "x": 14.862957283570665,
+            "y": -51.98074767656664,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-7",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-7.webp",
+          "item": {
+            "x": 15.059208240867179,
+            "y": -51.512054265953566,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-8",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-8.webp",
+          "item": {
+            "x": 15.059208240867179,
+            "y": -51.51205426595351,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-9",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-9.webp",
+          "item": {
+            "x": 14.862957283570665,
+            "y": -51.98074767656664,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-10",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-10.webp",
+          "item": {
+            "x": 14.504388985036428,
+            "y": -52.837093143485845,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-11",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-11.webp",
+          "item": {
+            "x": 14.04550311170857,
+            "y": -53.93302076439062,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-12",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-12.webp",
+          "item": {
+            "x": 13.565645219902876,
+            "y": -55.07903472006956,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-13",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-13.webp",
+          "item": {
+            "x": 13.147788763108053,
+            "y": -56.0769797369108,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-14",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-14.webp",
+          "item": {
+            "x": 12.864181658747043,
+            "y": -56.75430019606574,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d0-15",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d0-15.webp",
+          "item": {
+            "x": 12.763864025478256,
+            "y": -56.99388232946211,
+            "behind": false
+          }
+        }
+      ],
+      "pivot": {
+        "x": 0.5705882352941177,
+        "y": 0.8096774193548387
+      }
+    },
+    "90": {
+      "frames": [
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-0",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-0.webp",
+          "item": {
+            "x": -12.763860636036611,
+            "y": -56.99387628878816,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-1",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-1.webp",
+          "item": {
+            "x": -12.864178212047278,
+            "y": -56.75429411171126,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-2",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-2.webp",
+          "item": {
+            "x": -13.147785128092437,
+            "y": -56.076973536429875,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-3",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-3.webp",
+          "item": {
+            "x": -13.565643194221764,
+            "y": -55.07902948823562,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-4",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-4.webp",
+          "item": {
+            "x": -14.045500980074678,
+            "y": -53.933015590992625,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-5",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-5.webp",
+          "item": {
+            "x": -14.504386726608516,
+            "y": -52.83708805738593,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-6",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-6.webp",
+          "item": {
+            "x": -14.862954906446674,
+            "y": -51.980742686779365,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-7",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-7.webp",
+          "item": {
+            "x": -15.059205791344368,
+            "y": -51.51204934200007,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-8",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-8.webp",
+          "item": {
+            "x": -15.059205791344368,
+            "y": -51.51204934200007,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-9",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-9.webp",
+          "item": {
+            "x": -14.862954906446674,
+            "y": -51.980742686779365,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-10",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-10.webp",
+          "item": {
+            "x": -14.504386726608516,
+            "y": -52.83708805738593,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-11",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-11.webp",
+          "item": {
+            "x": -14.045500980074678,
+            "y": -53.933015590992625,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-12",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-12.webp",
+          "item": {
+            "x": -13.565643194221764,
+            "y": -55.07902948823562,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-13",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-13.webp",
+          "item": {
+            "x": -13.147785128092437,
+            "y": -56.076973536429875,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-14",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-14.webp",
+          "item": {
+            "x": -12.864178212047278,
+            "y": -56.75429411171126,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d90-15",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d90-15.webp",
+          "item": {
+            "x": -12.763860636036611,
+            "y": -56.99387628878816,
+            "behind": false
+          }
+        }
+      ],
+      "pivot": {
+        "x": 0.5705882352941177,
+        "y": 0.8096774193548387
+      }
+    },
+    "180": {
+      "frames": [
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-0",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-0.webp",
+          "item": {
+            "x": -12.763867047146562,
+            "y": -65.72487573338765,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-1",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-1.webp",
+          "item": {
+            "x": -12.864184607597736,
+            "y": -65.55391475690607,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-2",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-2.webp",
+          "item": {
+            "x": -13.147791477676861,
+            "y": -65.07059255592208,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-3",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-3.webp",
+          "item": {
+            "x": -13.56564785528741,
+            "y": -64.35848013012514,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-4",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-4.webp",
+          "item": {
+            "x": -14.045505734676595,
+            "y": -63.54070805825853,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-5",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-5.webp",
+          "item": {
+            "x": -14.504391559846624,
+            "y": -62.75867658231374,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-6",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-6.webp",
+          "item": {
+            "x": -14.862959792176952,
+            "y": -62.14760603721953,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-7",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-7.webp",
+          "item": {
+            "x": -15.059210701203227,
+            "y": -61.81315605156561,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-8",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-8.webp",
+          "item": {
+            "x": -15.059210701203227,
+            "y": -61.81315605156561,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-9",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-9.webp",
+          "item": {
+            "x": -14.862959792176952,
+            "y": -62.14760603721953,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-10",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-10.webp",
+          "item": {
+            "x": -14.504391559846624,
+            "y": -62.75867658231374,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-11",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-11.webp",
+          "item": {
+            "x": -14.045505734676595,
+            "y": -63.54070805825853,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-12",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-12.webp",
+          "item": {
+            "x": -13.56564785528741,
+            "y": -64.35848013012514,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-13",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-13.webp",
+          "item": {
+            "x": -13.147791477676861,
+            "y": -65.07059255592208,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-14",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-14.webp",
+          "item": {
+            "x": -12.864184607597736,
+            "y": -65.55391475690607,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d180-15",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d180-15.webp",
+          "item": {
+            "x": -12.763867047146562,
+            "y": -65.72487573338765,
+            "behind": true
+          }
+        }
+      ],
+      "pivot": {
+        "x": 0.5705882352941177,
+        "y": 0.8096774193548387
+      }
+    },
+    "270": {
+      "frames": [
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-0",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-0.webp",
+          "item": {
+            "x": 12.763862559107451,
+            "y": -65.72487372331932,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-1",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-1.webp",
+          "item": {
+            "x": 12.864180024925759,
+            "y": -65.55391283116921,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-2",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-2.webp",
+          "item": {
+            "x": 13.147786615460518,
+            "y": -65.07059085596813,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-3",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-3.webp",
+          "item": {
+            "x": 13.565644166967672,
+            "y": -64.35847857751918,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-4",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-4.webp",
+          "item": {
+            "x": 14.04550131786715,
+            "y": -63.54070668942296,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-5",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-5.webp",
+          "item": {
+            "x": 14.504386424260474,
+            "y": -62.75867537654932,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-6",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-6.webp",
+          "item": {
+            "x": 14.862954906447271,
+            "y": -62.147605920387605,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-7",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-7.webp",
+          "item": {
+            "x": 15.059205791344993,
+            "y": -61.81315606226178,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-8",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-8.webp",
+          "item": {
+            "x": 15.059205791344993,
+            "y": -61.81315606226178,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-9",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-9.webp",
+          "item": {
+            "x": 14.862954906447271,
+            "y": -62.147605920387605,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-10",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-10.webp",
+          "item": {
+            "x": 14.504386424260474,
+            "y": -62.75867537654932,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-11",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-11.webp",
+          "item": {
+            "x": 14.04550131786715,
+            "y": -63.54070668942296,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-12",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-12.webp",
+          "item": {
+            "x": 13.565644166967672,
+            "y": -64.35847857751918,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-13",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-13.webp",
+          "item": {
+            "x": 13.147786615460518,
+            "y": -65.07059085596813,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-14",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-14.webp",
+          "item": {
+            "x": 12.864180024925759,
+            "y": -65.55391283116921,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-alba-helper-rookie-v1-serve-d270-15",
+          "url": "assets/shared-human/cozy-alba-helper-rookie-v1-work/serve/cozy-alba-helper-rookie-v1-serve-d270-15.webp",
+          "item": {
+            "x": 12.763862559107451,
+            "y": -65.72487372331932,
+            "behind": true
+          }
+        }
+      ],
+      "pivot": {
+        "x": 0.5705882352941177,
+        "y": 0.8096774193548387
+      }
+    }
+  }
+}

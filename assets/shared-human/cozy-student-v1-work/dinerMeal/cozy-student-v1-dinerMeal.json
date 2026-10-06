@@ -1,0 +1,131 @@
+{
+  "id": "cozy-student-v1",
+  "action": "dinerMeal",
+  "directions": {
+    "0": [
+      {
+        "error": 5.896985865965166e-8,
+        "file": "cozy-student-v1-dinerMeal-d0-0.webp"
+      },
+      {
+        "error": 9.563662267093439e-8,
+        "file": "cozy-student-v1-dinerMeal-d0-1.webp"
+      },
+      {
+        "error": 5.3181784112475715e-8,
+        "file": "cozy-student-v1-dinerMeal-d0-2.webp"
+      },
+      {
+        "error": 3.1606511474776955e-8,
+        "file": "cozy-student-v1-dinerMeal-d0-3.webp"
+      },
+      {
+        "error": 5.3181784103208665e-8,
+        "file": "cozy-student-v1-dinerMeal-d0-4.webp"
+      },
+      {
+        "error": 9.563662278349487e-8,
+        "file": "cozy-student-v1-dinerMeal-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 5.896985865965166e-8,
+        "file": "cozy-student-v1-dinerMeal-d90-0.webp"
+      },
+      {
+        "error": 9.563662267093439e-8,
+        "file": "cozy-student-v1-dinerMeal-d90-1.webp"
+      },
+      {
+        "error": 5.3181784112475715e-8,
+        "file": "cozy-student-v1-dinerMeal-d90-2.webp"
+      },
+      {
+        "error": 3.1606511474776955e-8,
+        "file": "cozy-student-v1-dinerMeal-d90-3.webp"
+      },
+      {
+        "error": 5.3181784103208665e-8,
+        "file": "cozy-student-v1-dinerMeal-d90-4.webp"
+      },
+      {
+        "error": 9.563662278349487e-8,
+        "file": "cozy-student-v1-dinerMeal-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 5.896985865965166e-8,
+        "file": "cozy-student-v1-dinerMeal-d180-0.webp"
+      },
+      {
+        "error": 9.563662267093439e-8,
+        "file": "cozy-student-v1-dinerMeal-d180-1.webp"
+      },
+      {
+        "error": 5.3181784112475715e-8,
+        "file": "cozy-student-v1-dinerMeal-d180-2.webp"
+      },
+      {
+        "error": 3.1606511474776955e-8,
+        "file": "cozy-student-v1-dinerMeal-d180-3.webp"
+      },
+      {
+        "error": 5.3181784103208665e-8,
+        "file": "cozy-student-v1-dinerMeal-d180-4.webp"
+      },
+      {
+        "error": 9.563662278349487e-8,
+        "file": "cozy-student-v1-dinerMeal-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 5.896985865965166e-8,
+        "file": "cozy-student-v1-dinerMeal-d270-0.webp"
+      },
+      {
+        "error": 9.563662267093439e-8,
+        "file": "cozy-student-v1-dinerMeal-d270-1.webp"
+      },
+      {
+        "error": 5.3181784112475715e-8,
+        "file": "cozy-student-v1-dinerMeal-d270-2.webp"
+      },
+      {
+        "error": 3.1606511474776955e-8,
+        "file": "cozy-student-v1-dinerMeal-d270-3.webp"
+      },
+      {
+        "error": 5.3181784103208665e-8,
+        "file": "cozy-student-v1-dinerMeal-d270-4.webp"
+      },
+      {
+        "error": 9.563662278349487e-8,
+        "file": "cozy-student-v1-dinerMeal-d270-5.webp"
+      }
+    ]
+  },
+  "width": 141,
+  "height": 159,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.7327044025157232
+  },
+  "crop": {
+    "left": 371,
+    "top": 535
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1800,
+  "maxError": 9.563662278349487e-8,
+  "props": [
+    "stool",
+    "table",
+    "bowl"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5621035532763107
+}

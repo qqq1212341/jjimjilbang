@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "fd8b0b9afb56bb876b1bdfe7c9a425f3d50ae33465ee31eb261d23c0d2b63dce",
+  "previous": "ee7ca47a6e2b05c699d1eb6f28ac51b2f7208c6502a664d7aa3746180d213af3",
+  "current": "456b7144627d2f9dcfc8bedddd66abaeb571730a3cc8f239923103d5444b1e98",
+  "approvedBy": "사장님 승인 기록 2026-09-26-casual-joint-fix.md",
+  "review": {
+    "version": 1,
+    "fingerprint": "fd8b0b9afb56bb876b1bdfe7c9a425f3d50ae33465ee31eb261d23c0d2b63dce",
+    "candidateDigest": "456b7144627d2f9dcfc8bedddd66abaeb571730a3cc8f239923103d5444b1e98",
+    "approved": true,
+    "approvedBy": "사장님 승인 기록 2026-09-26-casual-joint-fix.md",
+    "checks": {
+      "ground-and-loop-visual-review": {
+        "passed": true,
+        "evidence": "../casual-joint-fix-review.webp",
+        "sha256": "aa648033d425976397a524ea1e9eb7366eb791126b81fff9e899cb77de38f9c2"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-cast-v4/cozy-office-f-v1/report.json",
+        "sha256": "abea58fabdb295ac14abef70299d3c0a4d7a8e5ca5d0f2918966929c06cb1245"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_cast-walk-perf.json",
+        "sha256": "4ccd8fb14e3ab5764949d2fe4ce8798f1ddf5174e3b78ab63b070e1e1b297f82"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-26-casual-joint-fix.md",
+        "sha256": "3f510756954e329e0bf7fe6352cb38d1d6b8a5455201f5a0aa06808221f37c29"
+      }
+    }
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "id": "cozy-owner-v1",
+  "action": "scrub",
+  "directions": {
+    "0": [
+      {
+        "error": 9.809630194473677e-8,
+        "file": "cozy-owner-v1-scrub-d0-0.webp"
+      },
+      {
+        "error": 9.230906529510254e-8,
+        "file": "cozy-owner-v1-scrub-d0-1.webp"
+      },
+      {
+        "error": 7.990820102481734e-8,
+        "file": "cozy-owner-v1-scrub-d0-2.webp"
+      },
+      {
+        "error": 7.012932601507252e-8,
+        "file": "cozy-owner-v1-scrub-d0-3.webp"
+      },
+      {
+        "error": 7.012932601507252e-8,
+        "file": "cozy-owner-v1-scrub-d0-4.webp"
+      },
+      {
+        "error": 7.012932601507252e-8,
+        "file": "cozy-owner-v1-scrub-d0-5.webp"
+      },
+      {
+        "error": 7.99082009546719e-8,
+        "file": "cozy-owner-v1-scrub-d0-6.webp"
+      },
+      {
+        "error": 9.230906529510254e-8,
+        "file": "cozy-owner-v1-scrub-d0-7.webp"
+      },
+      {
+        "error": 9.809630194473677e-8,
+        "file": "cozy-owner-v1-scrub-d0-8.webp"
+      },
+      {
+        "error": 9.407760790852524e-8,
+        "file": "cozy-owner-v1-scrub-d0-9.webp"
+      },
+      {
+        "error": 8.671734290138686e-8,
+        "file": "cozy-owner-v1-scrub-d0-10.webp"
+      },
+      {
+        "error": 7.012932601507252e-8,
+        "file": "cozy-owner-v1-scrub-d0-11.webp"
+      },
+      {
+        "error": 7.012932601507252e-8,
+        "file": "cozy-owner-v1-scrub-d0-12.webp"
+      },
+      {
+        "error": 7.012932601507252e-8,
+        "file": "cozy-owner-v1-scrub-d0-13.webp"
+      },
+      {
+        "error": 8.671734298744435e-8,
+        "file": "cozy-owner-v1-scrub-d0-14.webp"
+      },
+      {
+        "error": 9.407760790852524e-8,
+        "file": "cozy-owner-v1-scrub-d0-15.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 5.997971611417197e-8,
+        "file": "cozy-owner-v1-scrub-d90-0.webp"
+      },
+      {
+        "error": 6.537703252322929e-8,
+        "file": "cozy-owner-v1-scrub-d90-1.webp"
+      },
+      {
+        "error": 6.755051322132037e-8,
+        "file": "cozy-owner-v1-scrub-d90-2.webp"
+      },
+      {
+        "error": 6.960717616156443e-8,
+        "file": "cozy-owner-v1-scrub-d90-3.webp"
+      },
+      {
+        "error": 7.065348271466918e-8,
+        "file": "cozy-owner-v1-scrub-d90-4.webp"
+      },
+      {
+        "error": 6.960717616156443e-8,
+        "file": "cozy-owner-v1-scrub-d90-5.webp"
+      },
+      {
+        "error": 6.755051317778221e-8,
+        "file": "cozy-owner-v1-scrub-d90-6.webp"
+      },
+      {
+        "error": 6.537703252322929e-8,
+        "file": "cozy-owner-v1-scrub-d90-7.webp"
+      },
+      {
+        "error": 5.997971611417197e-8,
+        "file": "cozy-owner-v1-scrub-d90-8.webp"
+      },
+      {
+        "error": 4.955976594153911e-8,
+        "file": "cozy-owner-v1-scrub-d90-9.webp"
+      },
+      {
+        "error": 4.867960518855061e-8,
+        "file": "cozy-owner-v1-scrub-d90-10.webp"
+      },
+      {
+        "error": 4.867960518855061e-8,
+        "file": "cozy-owner-v1-scrub-d90-11.webp"
+      },
+      {
+        "error": 4.867960518855061e-8,
+        "file": "cozy-owner-v1-scrub-d90-12.webp"
+      },
+      {
+        "error": 4.867960518855061e-8,
+        "file": "cozy-owner-v1-scrub-d90-13.webp"
+      },
+      {
+        "error": 4.867960518855061e-8,
+        "file": "cozy-owner-v1-scrub-d90-14.webp"
+      },
+      {
+        "error": 4.9559765865848444e-8,
+        "file": "cozy-owner-v1-scrub-d90-15.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 9.787394070471024e-8,
+        "file": "cozy-owner-v1-scrub-d180-0.webp"
+      },
+      {
+        "error": 9.254544303312715e-8,
+        "file": "cozy-owner-v1-scrub-d180-1.webp"
+      },
+      {
+        "error": 8.091948459095322e-8,
+        "file": "cozy-owner-v1-scrub-d180-2.webp"
+      },
+      {
+        "error": 7.32249959204403e-8,
+        "file": "cozy-owner-v1-scrub-d180-3.webp"
+      },
+      {
+        "error": 7.32249959204403e-8,
+        "file": "cozy-owner-v1-scrub-d180-4.webp"
+      },
+      {
+        "error": 7.32249959204403e-8,
+        "file": "cozy-owner-v1-scrub-d180-5.webp"
+      },
+      {
+        "error": 8.091948452675626e-8,
+        "file": "cozy-owner-v1-scrub-d180-6.webp"
+      },
+      {
+        "error": 9.254544303312715e-8,
+        "file": "cozy-owner-v1-scrub-d180-7.webp"
+      },
+      {
+        "error": 9.787394070471024e-8,
+        "file": "cozy-owner-v1-scrub-d180-8.webp"
+      },
+      {
+        "error": 9.382626216406072e-8,
+        "file": "cozy-owner-v1-scrub-d180-9.webp"
+      },
+      {
+        "error": 8.680376470398261e-8,
+        "file": "cozy-owner-v1-scrub-d180-10.webp"
+      },
+      {
+        "error": 7.32249959204403e-8,
+        "file": "cozy-owner-v1-scrub-d180-11.webp"
+      },
+      {
+        "error": 7.32249959204403e-8,
+        "file": "cozy-owner-v1-scrub-d180-12.webp"
+      },
+      {
+        "error": 7.32249959204403e-8,
+        "file": "cozy-owner-v1-scrub-d180-13.webp"
+      },
+      {
+        "error": 8.680376471989949e-8,
+        "file": "cozy-owner-v1-scrub-d180-14.webp"
+      },
+      {
+        "error": 9.382626208242616e-8,
+        "file": "cozy-owner-v1-scrub-d180-15.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 5.997971605702804e-8,
+        "file": "cozy-owner-v1-scrub-d270-0.webp"
+      },
+      {
+        "error": 6.537703253640858e-8,
+        "file": "cozy-owner-v1-scrub-d270-1.webp"
+      },
+      {
+        "error": 6.755051320030476e-8,
+        "file": "cozy-owner-v1-scrub-d270-2.webp"
+      },
+      {
+        "error": 6.960717622877867e-8,
+        "file": "cozy-owner-v1-scrub-d270-3.webp"
+      },
+      {
+        "error": 7.065348266345106e-8,
+        "file": "cozy-owner-v1-scrub-d270-4.webp"
+      },
+      {
+        "error": 6.960717622877867e-8,
+        "file": "cozy-owner-v1-scrub-d270-5.webp"
+      },
+      {
+        "error": 6.755051319879783e-8,
+        "file": "cozy-owner-v1-scrub-d270-6.webp"
+      },
+      {
+        "error": 6.537703253640858e-8,
+        "file": "cozy-owner-v1-scrub-d270-7.webp"
+      },
+      {
+        "error": 5.997971605702804e-8,
+        "file": "cozy-owner-v1-scrub-d270-8.webp"
+      },
+      {
+        "error": 5.6666680236261554e-8,
+        "file": "cozy-owner-v1-scrub-d270-9.webp"
+      },
+      {
+        "error": 4.249790473091258e-8,
+        "file": "cozy-owner-v1-scrub-d270-10.webp"
+      },
+      {
+        "error": 4.1830206948977264e-8,
+        "file": "cozy-owner-v1-scrub-d270-11.webp"
+      },
+      {
+        "error": 4.1830206948977264e-8,
+        "file": "cozy-owner-v1-scrub-d270-12.webp"
+      },
+      {
+        "error": 4.1830206948977264e-8,
+        "file": "cozy-owner-v1-scrub-d270-13.webp"
+      },
+      {
+        "error": 4.249790483212278e-8,
+        "file": "cozy-owner-v1-scrub-d270-14.webp"
+      },
+      {
+        "error": 5.666668020692499e-8,
+        "file": "cozy-owner-v1-scrub-d270-15.webp"
+      }
+    ]
+  },
+  "width": 84,
+  "height": 153,
+  "pivot": {
+    "x": 0.5059523809523809,
+    "y": 0.8300653594771242
+  },
+  "crop": {
+    "left": 427,
+    "top": 514
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 2000,
+  "maxError": 9.809630194473677e-8
+}

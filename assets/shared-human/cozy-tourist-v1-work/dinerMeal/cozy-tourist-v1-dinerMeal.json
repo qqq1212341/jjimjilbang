@@ -1,0 +1,131 @@
+{
+  "id": "cozy-tourist-v1",
+  "action": "dinerMeal",
+  "directions": {
+    "0": [
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d0-0.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d0-1.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d0-2.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d0-3.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d0-4.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d90-0.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d90-1.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d90-2.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d90-3.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d90-4.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d180-0.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d180-1.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d180-2.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d180-3.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d180-4.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d270-0.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d270-1.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d270-2.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d270-3.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d270-4.webp"
+      },
+      {
+        "error": 1.2300643837050593e-7,
+        "file": "cozy-tourist-v1-dinerMeal-d270-5.webp"
+      }
+    ]
+  },
+  "width": 137,
+  "height": 156,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.7339743589743589
+  },
+  "crop": {
+    "left": 375,
+    "top": 539
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1800,
+  "maxError": 1.2300643837050593e-7,
+  "props": [
+    "stool",
+    "table",
+    "bowl"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5719247837893897
+}

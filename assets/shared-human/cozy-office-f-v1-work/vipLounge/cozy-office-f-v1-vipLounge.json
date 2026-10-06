@@ -1,0 +1,129 @@
+{
+  "id": "cozy-office-f-v1",
+  "action": "vipLounge",
+  "directions": {
+    "0": [
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d0-0.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d0-1.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d0-2.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d0-3.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d0-4.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d90-0.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d90-1.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d90-2.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d90-3.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d90-4.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d180-0.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d180-1.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d180-2.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d180-3.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d180-4.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d270-0.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d270-1.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d270-2.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d270-3.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d270-4.webp"
+      },
+      {
+        "error": 1.3962032844491798e-7,
+        "file": "cozy-office-f-v1-vipLounge-d270-5.webp"
+      }
+    ]
+  },
+  "width": 124,
+  "height": 137,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8138686131386861
+  },
+  "crop": {
+    "left": 388,
+    "top": 545
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 2400,
+  "maxError": 1.3962032844491798e-7,
+  "props": [
+    "lounger"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5663216534920242
+}

@@ -1,0 +1,129 @@
+{
+  "id": "cozy-ajusshi-v1",
+  "action": "massage",
+  "directions": {
+    "0": [
+      {
+        "error": 5.349446200347651e-8,
+        "file": "cozy-ajusshi-v1-massage-d0-0.webp"
+      },
+      {
+        "error": 5.3504218990728014e-8,
+        "file": "cozy-ajusshi-v1-massage-d0-1.webp"
+      },
+      {
+        "error": 5.350421888327227e-8,
+        "file": "cozy-ajusshi-v1-massage-d0-2.webp"
+      },
+      {
+        "error": 5.3504218990728014e-8,
+        "file": "cozy-ajusshi-v1-massage-d0-3.webp"
+      },
+      {
+        "error": 5.350421888327227e-8,
+        "file": "cozy-ajusshi-v1-massage-d0-4.webp"
+      },
+      {
+        "error": 5.3504218990728014e-8,
+        "file": "cozy-ajusshi-v1-massage-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 5.349446200347651e-8,
+        "file": "cozy-ajusshi-v1-massage-d90-0.webp"
+      },
+      {
+        "error": 5.3504218990728014e-8,
+        "file": "cozy-ajusshi-v1-massage-d90-1.webp"
+      },
+      {
+        "error": 5.350421888327227e-8,
+        "file": "cozy-ajusshi-v1-massage-d90-2.webp"
+      },
+      {
+        "error": 5.3504218990728014e-8,
+        "file": "cozy-ajusshi-v1-massage-d90-3.webp"
+      },
+      {
+        "error": 5.350421888327227e-8,
+        "file": "cozy-ajusshi-v1-massage-d90-4.webp"
+      },
+      {
+        "error": 5.3504218990728014e-8,
+        "file": "cozy-ajusshi-v1-massage-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 5.349446200347651e-8,
+        "file": "cozy-ajusshi-v1-massage-d180-0.webp"
+      },
+      {
+        "error": 5.3504218990728014e-8,
+        "file": "cozy-ajusshi-v1-massage-d180-1.webp"
+      },
+      {
+        "error": 5.350421888327227e-8,
+        "file": "cozy-ajusshi-v1-massage-d180-2.webp"
+      },
+      {
+        "error": 5.3504218990728014e-8,
+        "file": "cozy-ajusshi-v1-massage-d180-3.webp"
+      },
+      {
+        "error": 5.350421888327227e-8,
+        "file": "cozy-ajusshi-v1-massage-d180-4.webp"
+      },
+      {
+        "error": 5.3504218990728014e-8,
+        "file": "cozy-ajusshi-v1-massage-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 5.349446200347651e-8,
+        "file": "cozy-ajusshi-v1-massage-d270-0.webp"
+      },
+      {
+        "error": 5.3504218990728014e-8,
+        "file": "cozy-ajusshi-v1-massage-d270-1.webp"
+      },
+      {
+        "error": 5.350421888327227e-8,
+        "file": "cozy-ajusshi-v1-massage-d270-2.webp"
+      },
+      {
+        "error": 5.3504218990728014e-8,
+        "file": "cozy-ajusshi-v1-massage-d270-3.webp"
+      },
+      {
+        "error": 5.350421888327227e-8,
+        "file": "cozy-ajusshi-v1-massage-d270-4.webp"
+      },
+      {
+        "error": 5.3504218990728014e-8,
+        "file": "cozy-ajusshi-v1-massage-d270-5.webp"
+      }
+    ]
+  },
+  "width": 78,
+  "height": 133,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8233082706766918
+  },
+  "crop": {
+    "left": 434,
+    "top": 549
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1600,
+  "maxError": 5.3504218990728014e-8,
+  "props": [
+    "chair"
+  ],
+  "look": "lounge",
+  "armRatio": 0.5705175798331517
+}

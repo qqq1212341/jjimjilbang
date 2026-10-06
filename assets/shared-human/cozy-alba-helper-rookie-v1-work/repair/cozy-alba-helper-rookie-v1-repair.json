@@ -1,0 +1,284 @@
+{
+  "id": "cozy-alba-helper-rookie-v1",
+  "action": "repair",
+  "directions": {
+    "0": [
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-0.webp"
+      },
+      {
+        "error": 8.57993223944046e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-1.webp"
+      },
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-2.webp"
+      },
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-3.webp"
+      },
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-4.webp"
+      },
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-5.webp"
+      },
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-6.webp"
+      },
+      {
+        "error": 8.579932234369477e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-7.webp"
+      },
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-8.webp"
+      },
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-9.webp"
+      },
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-10.webp"
+      },
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-11.webp"
+      },
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-12.webp"
+      },
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-13.webp"
+      },
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-14.webp"
+      },
+      {
+        "error": 8.52914557758271e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d0-15.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-0.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-1.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-2.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-3.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-4.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-5.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-6.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-7.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-8.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-9.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-10.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-11.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-12.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-13.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-14.webp"
+      },
+      {
+        "error": 7.506596580604534e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d90-15.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-0.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-1.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-2.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-3.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-4.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-5.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-6.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-7.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-8.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-9.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-10.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-11.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-12.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-13.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-14.webp"
+      },
+      {
+        "error": 7.614957228321526e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d180-15.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-0.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-1.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-2.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-3.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-4.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-5.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-6.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-7.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-8.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-9.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-10.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-11.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-12.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-13.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-14.webp"
+      },
+      {
+        "error": 4.841050415194216e-8,
+        "file": "cozy-alba-helper-rookie-v1-repair-d270-15.webp"
+      }
+    ]
+  },
+  "width": 71,
+  "height": 148,
+  "pivot": {
+    "x": 0.5140845070422535,
+    "y": 0.847972972972973
+  },
+  "crop": {
+    "left": 439,
+    "top": 517
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 2000,
+  "maxError": 8.57993223944046e-8
+}

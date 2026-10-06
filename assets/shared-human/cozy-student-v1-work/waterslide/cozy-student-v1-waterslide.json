@@ -1,0 +1,129 @@
+{
+  "id": "cozy-student-v1",
+  "action": "waterslide",
+  "directions": {
+    "0": [
+      {
+        "error": 7.470882077038964e-8,
+        "file": "cozy-student-v1-waterslide-d0-0.webp"
+      },
+      {
+        "error": 8.994475054717731e-8,
+        "file": "cozy-student-v1-waterslide-d0-1.webp"
+      },
+      {
+        "error": 8.994475059360775e-8,
+        "file": "cozy-student-v1-waterslide-d0-2.webp"
+      },
+      {
+        "error": 7.470882028822794e-8,
+        "file": "cozy-student-v1-waterslide-d0-3.webp"
+      },
+      {
+        "error": 7.680500884875217e-8,
+        "file": "cozy-student-v1-waterslide-d0-4.webp"
+      },
+      {
+        "error": 7.680500884875217e-8,
+        "file": "cozy-student-v1-waterslide-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 7.470882077038964e-8,
+        "file": "cozy-student-v1-waterslide-d90-0.webp"
+      },
+      {
+        "error": 8.994475054717731e-8,
+        "file": "cozy-student-v1-waterslide-d90-1.webp"
+      },
+      {
+        "error": 8.994475059360775e-8,
+        "file": "cozy-student-v1-waterslide-d90-2.webp"
+      },
+      {
+        "error": 7.470882028822794e-8,
+        "file": "cozy-student-v1-waterslide-d90-3.webp"
+      },
+      {
+        "error": 7.680500884875217e-8,
+        "file": "cozy-student-v1-waterslide-d90-4.webp"
+      },
+      {
+        "error": 7.680500884875217e-8,
+        "file": "cozy-student-v1-waterslide-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 7.470882077038964e-8,
+        "file": "cozy-student-v1-waterslide-d180-0.webp"
+      },
+      {
+        "error": 8.994475054717731e-8,
+        "file": "cozy-student-v1-waterslide-d180-1.webp"
+      },
+      {
+        "error": 8.994475059360775e-8,
+        "file": "cozy-student-v1-waterslide-d180-2.webp"
+      },
+      {
+        "error": 7.470882028822794e-8,
+        "file": "cozy-student-v1-waterslide-d180-3.webp"
+      },
+      {
+        "error": 7.680500884875217e-8,
+        "file": "cozy-student-v1-waterslide-d180-4.webp"
+      },
+      {
+        "error": 7.680500884875217e-8,
+        "file": "cozy-student-v1-waterslide-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 7.470882077038964e-8,
+        "file": "cozy-student-v1-waterslide-d270-0.webp"
+      },
+      {
+        "error": 8.994475054717731e-8,
+        "file": "cozy-student-v1-waterslide-d270-1.webp"
+      },
+      {
+        "error": 8.994475059360775e-8,
+        "file": "cozy-student-v1-waterslide-d270-2.webp"
+      },
+      {
+        "error": 7.470882028822794e-8,
+        "file": "cozy-student-v1-waterslide-d270-3.webp"
+      },
+      {
+        "error": 7.680500884875217e-8,
+        "file": "cozy-student-v1-waterslide-d270-4.webp"
+      },
+      {
+        "error": 7.680500884875217e-8,
+        "file": "cozy-student-v1-waterslide-d270-5.webp"
+      }
+    ]
+  },
+  "width": 101,
+  "height": 121,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.756198347107438
+  },
+  "crop": {
+    "left": 411,
+    "top": 585
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1200,
+  "maxError": 8.994475059360775e-8,
+  "props": [
+    "splash"
+  ],
+  "look": "wet",
+  "armRatio": 0.5621035532763107
+}

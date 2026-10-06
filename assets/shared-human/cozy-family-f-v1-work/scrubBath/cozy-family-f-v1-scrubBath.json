@@ -1,0 +1,129 @@
+{
+  "id": "cozy-family-f-v1",
+  "action": "scrubBath",
+  "directions": {
+    "0": [
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d0-0.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d0-1.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d0-2.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d0-3.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d0-4.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d90-0.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d90-1.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d90-2.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d90-3.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d90-4.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d180-0.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d180-1.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d180-2.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d180-3.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d180-4.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d270-0.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d270-1.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d270-2.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d270-3.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d270-4.webp"
+      },
+      {
+        "error": 8.803469067981554e-8,
+        "file": "cozy-family-f-v1-scrubBath-d270-5.webp"
+      }
+    ]
+  },
+  "width": 159,
+  "height": 121,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.6074380165289256
+  },
+  "crop": {
+    "left": 353,
+    "top": 621
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1200,
+  "maxError": 8.803469067981554e-8,
+  "props": [
+    "bed"
+  ],
+  "look": "wet",
+  "armRatio": 0.5974128313389201
+}

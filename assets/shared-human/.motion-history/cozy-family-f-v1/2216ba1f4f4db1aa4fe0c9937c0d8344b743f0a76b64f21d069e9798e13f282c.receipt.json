@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "3b7a343ee659680d8a8416fb1edacf9636382fd1224ee9aa98f6117dd781c094",
+  "previous": "absent",
+  "current": "2216ba1f4f4db1aa4fe0c9937c0d8344b743f0a76b64f21d069e9798e13f282c",
+  "approvedBy": "사장님(jjs01hwang) 2026-09-25 대화 승인",
+  "review": {
+    "version": 1,
+    "fingerprint": "3b7a343ee659680d8a8416fb1edacf9636382fd1224ee9aa98f6117dd781c094",
+    "candidateDigest": "2216ba1f4f4db1aa4fe0c9937c0d8344b743f0a76b64f21d069e9798e13f282c",
+    "approved": true,
+    "approvedBy": "사장님(jjs01hwang) 2026-09-25 대화 승인",
+    "checks": {
+      "ground-and-loop-visual-review": {
+        "passed": true,
+        "evidence": "../family-factory-walk-review.webp",
+        "sha256": "15bec4684f5d63933243a6940a2acb391dc94d2a0c5b3b2dca67bf1fb3c736ee"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-cast-v4/cozy-family-f-v1/report.json",
+        "sha256": "d928a46d1e940ed1366bc8fbcc36082e66677304a561f93c2e6f58969aacf289"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_cast-walk-perf.json",
+        "sha256": "4ccd8fb14e3ab5764949d2fe4ce8798f1ddf5174e3b78ab63b070e1e1b297f82"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-25-bath-looks-and-enter.md",
+        "sha256": "43d98435e8e66ddcc06a4fc879e5f7a81ddf15f9f3933a731dac930437d7269b"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "adapter": "bath-enter",
+  "adapterVersion": 1,
+  "key": "cozy-ajusshi-v1/bathEnter",
+  "stage": "baked-candidate",
+  "productionReady": false,
+  "renderKey": "aef7d6b6d0b3c613660c32db17fbf485439d7424b784fd1904bbc95d85221745",
+  "fingerprint": "c5c6d526e3afabcf52c7ebe3ac52db1c487eb5c2faa482aec26d0907c7888313",
+  "provenance": {
+    "assets": {
+      "/models/jjim_guest_male_wet_stripped_trial.glb": "c0423212ece85824a92ed2b414d3ed5f36fe6b004f9aff0ae0890575f7147705"
+    },
+    "resources": {
+      "/Users/jjs01/orca/workspaces/Dumb Game Lab/jjim-character-renewal/genres/tycoon/games/JjimjilbangTycoon/art/characters/jjim-cozy-v1/refs/bath-enter-swift.bvh": "febeff8583bdabd777458bb97074ab9d7ba8597dc436e1fab5c68073ee64134e"
+    },
+    "engine": {
+      "executable": "/Users/jjs01/.cache/dgl-seat-baker/150.0.7871.124/mac-arm64/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing",
+      "expectedVersion": "150.0.7871.124",
+      "canvasFlags": [
+        "--disable-features=SkiaGraphite"
+      ],
+      "angle": "metal",
+      "platform": "darwin",
+      "arch": "arm64",
+      "binaryHash": "22ddf33cec88bbfd181588eb3da31250a65ba8ebfdb6efcd2694a36275697284",
+      "hardware": "Apple M4 Pro",
+      "osRelease": "24.6.0",
+      "montage": "Version: ImageMagick 7.1.1-41 Q16-HDRI x86_64 22504 https://imagemagick.org\nCopyright: (C) 1999 ImageMagick Studio LLC\nLicense: https://imagemagick.org/script/license.php\nFeatures: Cipher DPC HDRI Modules OpenMP \nDelegates (built-in): bzlib fontconfig freetype gslib heic jng jp2 jpeg jxl lcms lqr ltdl lzma openexr png ps raw tiff webp xml zlib zstd\nCompiler: clang (16.0.0)"
+    },
+    "sourceHash": "dfe96d64b66367cc5b787af90d4b21e7a4c212c6327951051465bf64dc459c17"
+  },
+  "clips": [
+    {
+      "motion": "bathEnter",
+      "format": "shared-human-v1",
+      "metadata": "cozy-ajusshi-v1-bathEnter.json",
+      "runtimeMetadata": "clip.json",
+      "clock": "simulation",
+      "loop": false
+    }
+  ],
+  "gates": {
+    "maxAnkleError": 8.124660459608662e-8,
+    "fourDirections": true,
+    "fixedPivot": true
+  },
+  "pending": [
+    "body-and-towel-mesh-rim-collision",
+    "water-occlusion",
+    "game-integration",
+    "performance",
+    "human-approval"
+  ]
+}

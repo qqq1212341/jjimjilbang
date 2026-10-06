@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "41d962d0ee85d92c697231c608a70c34aedaa6b44c22c4a1a280ad75f6c44ea9",
+  "previous": "absent",
+  "current": "ee7ca47a6e2b05c699d1eb6f28ac51b2f7208c6502a664d7aa3746180d213af3",
+  "approvedBy": "사장님(jjs01hwang) 2026-09-25 대화 승인",
+  "review": {
+    "version": 1,
+    "fingerprint": "41d962d0ee85d92c697231c608a70c34aedaa6b44c22c4a1a280ad75f6c44ea9",
+    "candidateDigest": "ee7ca47a6e2b05c699d1eb6f28ac51b2f7208c6502a664d7aa3746180d213af3",
+    "approved": true,
+    "approvedBy": "사장님(jjs01hwang) 2026-09-25 대화 승인",
+    "checks": {
+      "ground-and-loop-visual-review": {
+        "passed": true,
+        "evidence": "../office-f-casual-v2-review.webp",
+        "sha256": "44871c8ba790faa8a8287a5f63131ad9f2b2453cb6e315ab281bf1e6e931adca"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-cast-v4/cozy-office-f-v1/report.json",
+        "sha256": "abea58fabdb295ac14abef70299d3c0a4d7a8e5ca5d0f2918966929c06cb1245"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_cast-walk-perf.json",
+        "sha256": "4ccd8fb14e3ab5764949d2fe4ce8798f1ddf5174e3b78ab63b070e1e1b297f82"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-25-bath-looks-and-enter.md",
+        "sha256": "43d98435e8e66ddcc06a4fc879e5f7a81ddf15f9f3933a731dac930437d7269b"
+      }
+    }
+  }
+}

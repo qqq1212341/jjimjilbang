@@ -1,0 +1,161 @@
+{
+  "id": "cozy-tourist-v1",
+  "action": "change",
+  "directions": {
+    "0": [
+      {
+        "error": 1.1659223105683851e-7,
+        "file": "cozy-tourist-v1-change-d0-0.webp"
+      },
+      {
+        "error": 1.1189847118239118e-7,
+        "file": "cozy-tourist-v1-change-d0-1.webp"
+      },
+      {
+        "error": 1.0027679896128139e-7,
+        "file": "cozy-tourist-v1-change-d0-2.webp"
+      },
+      {
+        "error": 8.538106760598843e-8,
+        "file": "cozy-tourist-v1-change-d0-3.webp"
+      },
+      {
+        "error": 7.0993212567987e-8,
+        "file": "cozy-tourist-v1-change-d0-4.webp"
+      },
+      {
+        "error": 6.132078173482122e-8,
+        "file": "cozy-tourist-v1-change-d0-5.webp"
+      },
+      {
+        "error": 5.948383378912835e-8,
+        "file": "cozy-tourist-v1-change-d0-6.webp"
+      },
+      {
+        "error": 5.948383378912835e-8,
+        "file": "cozy-tourist-v1-change-d0-7.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 1.1659223105683851e-7,
+        "file": "cozy-tourist-v1-change-d90-0.webp"
+      },
+      {
+        "error": 1.1189847118239118e-7,
+        "file": "cozy-tourist-v1-change-d90-1.webp"
+      },
+      {
+        "error": 1.0027679896128139e-7,
+        "file": "cozy-tourist-v1-change-d90-2.webp"
+      },
+      {
+        "error": 8.538106760598843e-8,
+        "file": "cozy-tourist-v1-change-d90-3.webp"
+      },
+      {
+        "error": 7.0993212567987e-8,
+        "file": "cozy-tourist-v1-change-d90-4.webp"
+      },
+      {
+        "error": 6.132078173482122e-8,
+        "file": "cozy-tourist-v1-change-d90-5.webp"
+      },
+      {
+        "error": 5.948383378912835e-8,
+        "file": "cozy-tourist-v1-change-d90-6.webp"
+      },
+      {
+        "error": 5.948383378912835e-8,
+        "file": "cozy-tourist-v1-change-d90-7.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 1.1659223105683851e-7,
+        "file": "cozy-tourist-v1-change-d180-0.webp"
+      },
+      {
+        "error": 1.1189847118239118e-7,
+        "file": "cozy-tourist-v1-change-d180-1.webp"
+      },
+      {
+        "error": 1.0027679896128139e-7,
+        "file": "cozy-tourist-v1-change-d180-2.webp"
+      },
+      {
+        "error": 8.538106760598843e-8,
+        "file": "cozy-tourist-v1-change-d180-3.webp"
+      },
+      {
+        "error": 7.0993212567987e-8,
+        "file": "cozy-tourist-v1-change-d180-4.webp"
+      },
+      {
+        "error": 6.132078173482122e-8,
+        "file": "cozy-tourist-v1-change-d180-5.webp"
+      },
+      {
+        "error": 5.948383378912835e-8,
+        "file": "cozy-tourist-v1-change-d180-6.webp"
+      },
+      {
+        "error": 5.948383378912835e-8,
+        "file": "cozy-tourist-v1-change-d180-7.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 1.1659223105683851e-7,
+        "file": "cozy-tourist-v1-change-d270-0.webp"
+      },
+      {
+        "error": 1.1189847118239118e-7,
+        "file": "cozy-tourist-v1-change-d270-1.webp"
+      },
+      {
+        "error": 1.0027679896128139e-7,
+        "file": "cozy-tourist-v1-change-d270-2.webp"
+      },
+      {
+        "error": 8.538106760598843e-8,
+        "file": "cozy-tourist-v1-change-d270-3.webp"
+      },
+      {
+        "error": 7.0993212567987e-8,
+        "file": "cozy-tourist-v1-change-d270-4.webp"
+      },
+      {
+        "error": 6.132078173482122e-8,
+        "file": "cozy-tourist-v1-change-d270-5.webp"
+      },
+      {
+        "error": 5.948383378912835e-8,
+        "file": "cozy-tourist-v1-change-d270-6.webp"
+      },
+      {
+        "error": 5.948383378912835e-8,
+        "file": "cozy-tourist-v1-change-d270-7.webp"
+      }
+    ]
+  },
+  "width": 73,
+  "height": 148,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.8445945945945946
+  },
+  "crop": {
+    "left": 439,
+    "top": 518
+  },
+  "scale": 0.5,
+  "loop": false,
+  "durationMs": 1400,
+  "maxError": 1.1659223105683851e-7,
+  "props": [
+    "clothes"
+  ],
+  "look": "casual",
+  "armRatio": 0.5719247837893897
+}

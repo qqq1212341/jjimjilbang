@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "832ced8e2e14c41232a75766bbce250a75fc3a7cf7162de08faf53eadffa5329",
+  "previous": "absent",
+  "current": "3197a677dedcb4e7bb0e5a4bfc9e1e6f46c6e675a960f9a99de75de4f0a88f6b",
+  "approvedBy": "사장님 승인 기록 2026-09-26-cast-motions.md",
+  "review": {
+    "version": 1,
+    "fingerprint": "832ced8e2e14c41232a75766bbce250a75fc3a7cf7162de08faf53eadffa5329",
+    "candidateDigest": "3197a677dedcb4e7bb0e5a4bfc9e1e6f46c6e675a960f9a99de75de4f0a88f6b",
+    "approved": true,
+    "approvedBy": "사장님 승인 기록 2026-09-26-cast-motions.md",
+    "checks": {
+      "contact:tool": {
+        "passed": true,
+        "evidence": "../qa-game-staff-v1/staff-work-in-game.webp",
+        "sha256": "f36045aabe0491b5d764a2e11c25b09a98352f0545e9f745cf03346156cfb717"
+      },
+      "contact:workSurface": {
+        "passed": true,
+        "evidence": "../qa-game-staff-v1/staff-work-in-game.webp",
+        "sha256": "f36045aabe0491b5d764a2e11c25b09a98352f0545e9f745cf03346156cfb717"
+      },
+      "ground-and-loop-visual-review": {
+        "passed": true,
+        "evidence": "../owner-scrub-prop-v2-review.webp",
+        "sha256": "b6515e793c2e5066418e1334500f745831408ac656acfc410d5e4ac8a119f659"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-staff-v1/report.json",
+        "sha256": "7a40114250c1e3862f2593ea25ff297dd76de1fb4cb44cc342d41746fdb6d4ac"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_cast-walk-perf.json",
+        "sha256": "4ccd8fb14e3ab5764949d2fe4ce8798f1ddf5174e3b78ab63b070e1e1b297f82"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-26-cast-motions.md",
+        "sha256": "a0f12a304e18c2115f5d593f92220c4e2d797f3738d36a766270f7bac2ce6f90"
+      }
+    }
+  }
+}

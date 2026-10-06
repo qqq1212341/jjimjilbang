@@ -1,0 +1,20 @@
+{
+ "wall_bath": {
+  "sides": {
+   "l": "wall_bath_l.png",
+   "r": "wall_bath_r.png"
+  },
+  "w": 96,
+  "h": 276,
+  "scale": 2
+ },
+ "wall_sauna": {
+  "sides": {
+   "l": "wall_sauna_l.png",
+   "r": "wall_sauna_r.png"
+  },
+  "w": 96,
+  "h": 276,
+  "scale": 2
+ }
+}

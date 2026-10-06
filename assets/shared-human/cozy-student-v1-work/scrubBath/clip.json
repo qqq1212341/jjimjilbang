@@ -1,0 +1,134 @@
+{
+  "durationMs": 1200,
+  "loop": true,
+  "directions": {
+    "0": {
+      "frames": [
+        {
+          "key": "cozy-student-v1-scrubBath-d0-0",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d0-0.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d0-1",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d0-1.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d0-2",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d0-2.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d0-3",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d0-3.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d0-4",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d0-4.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d0-5",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d0-5.webp"
+        }
+      ],
+      "pivot": {
+        "x": 0.5,
+        "y": 0.6024590163934426
+      }
+    },
+    "90": {
+      "frames": [
+        {
+          "key": "cozy-student-v1-scrubBath-d90-0",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d90-0.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d90-1",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d90-1.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d90-2",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d90-2.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d90-3",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d90-3.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d90-4",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d90-4.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d90-5",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d90-5.webp"
+        }
+      ],
+      "pivot": {
+        "x": 0.5,
+        "y": 0.6024590163934426
+      }
+    },
+    "180": {
+      "frames": [
+        {
+          "key": "cozy-student-v1-scrubBath-d180-0",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d180-0.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d180-1",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d180-1.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d180-2",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d180-2.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d180-3",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d180-3.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d180-4",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d180-4.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d180-5",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d180-5.webp"
+        }
+      ],
+      "pivot": {
+        "x": 0.5,
+        "y": 0.6024590163934426
+      }
+    },
+    "270": {
+      "frames": [
+        {
+          "key": "cozy-student-v1-scrubBath-d270-0",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d270-0.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d270-1",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d270-1.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d270-2",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d270-2.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d270-3",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d270-3.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d270-4",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d270-4.webp"
+        },
+        {
+          "key": "cozy-student-v1-scrubBath-d270-5",
+          "url": "assets/shared-human/cozy-student-v1-work/scrubBath/cozy-student-v1-scrubBath-d270-5.webp"
+        }
+      ],
+      "pivot": {
+        "x": 0.5,
+        "y": 0.6024590163934426
+      }
+    }
+  }
+}

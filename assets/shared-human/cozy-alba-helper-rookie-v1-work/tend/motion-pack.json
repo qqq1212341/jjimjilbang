@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "adapter": "body",
+  "adapterVersion": 1,
+  "key": "cozy-alba-helper-rookie-v1/tend",
+  "stage": "baked-candidate",
+  "productionReady": false,
+  "renderKey": "18aefb57e1ae2d5bed0fc49ddb1fd610307a1063c7193e127a6388ecb35fc1a4",
+  "fingerprint": "3f69b97be3e2fa76d461dc48b6d6825c510e17eb2c32d14ef16ce09ef300062c",
+  "provenance": {
+    "assets": {
+      "/models/owner_walk.glb": "3e8931ec40b2683cd7f30d8e74b12471bfbe59c61dda5f82a95bcd1f80ad24e0",
+      "/models/jjim_helper_walk.glb": "b206abda743a12aba5a8039fe6a0d081c1e3468ad6bf6ad8ccf63c67262c7955"
+    },
+    "resources": {},
+    "engine": {
+      "executable": "/Users/jjs01/.cache/dgl-seat-baker/150.0.7871.124/mac-arm64/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing",
+      "expectedVersion": "150.0.7871.124",
+      "canvasFlags": [
+        "--disable-features=SkiaGraphite"
+      ],
+      "angle": "metal",
+      "platform": "darwin",
+      "arch": "arm64",
+      "binaryHash": "22ddf33cec88bbfd181588eb3da31250a65ba8ebfdb6efcd2694a36275697284",
+      "hardware": "Apple M4 Pro",
+      "osRelease": "24.6.0",
+      "montage": "Version: ImageMagick 7.1.1-41 Q16-HDRI x86_64 22504 https://imagemagick.org\nCopyright: (C) 1999 ImageMagick Studio LLC\nLicense: https://imagemagick.org/script/license.php\nFeatures: Cipher DPC HDRI Modules OpenMP \nDelegates (built-in): bzlib fontconfig freetype gslib heic jng jp2 jpeg jxl lcms lqr ltdl lzma openexr png ps raw tiff webp xml zlib zstd\nCompiler: clang (16.0.0)"
+    },
+    "sourceHash": "c2238335b607f38f99067db4fcc38d727d296891e7291873f63029c172fb6011"
+  },
+  "clips": [
+    {
+      "motion": "tend",
+      "format": "shared-human-v1",
+      "metadata": "cozy-alba-helper-rookie-v1-tend.json",
+      "runtimeMetadata": "clip.json",
+      "clock": "simulation",
+      "loop": true
+    }
+  ],
+  "gates": {
+    "handError": 6.753955060151923e-8,
+    "fourDirections": true,
+    "fixedPivot": true
+  },
+  "pending": [
+    "ground-and-loop-visual-review",
+    "game-integration",
+    "performance",
+    "human-approval"
+  ]
+}

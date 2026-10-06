@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "50f8d70f91f0f50a09d005252b3d5e1f12e7f25976e6617688ef9d4285bb0c3f",
+  "previous": "428a00487b1ce6033d0ae8a5f1d1732fffe45956d9c7e6bbc62c2df2f1062817",
+  "current": "11ca447f87ae1563f5cb2f6063cd1d5f2f8498dafd2143adf620495314b7c84d",
+  "approvedBy": "사장님 승인 기록 2026-09-27-male-waist-towel.md",
+  "review": {
+    "version": 1,
+    "fingerprint": "50f8d70f91f0f50a09d005252b3d5e1f12e7f25976e6617688ef9d4285bb0c3f",
+    "candidateDigest": "11ca447f87ae1563f5cb2f6063cd1d5f2f8498dafd2143adf620495314b7c84d",
+    "approved": true,
+    "approvedBy": "사장님 승인 기록 2026-09-27-male-waist-towel.md",
+    "checks": {
+      "ground-and-loop-visual-review": {
+        "passed": true,
+        "evidence": "../male-waist-towel-review.webp",
+        "sha256": "005c96ab8cbb55d7adb6c122992dc87297a78f7d9d9c679cfce502c7cbf59eff"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-cast-v4/cozy-student-v1/report.json",
+        "sha256": "5c15f63adff92c5aed0e43fdb767f133c502497dcf4c73f49c641a0004e2ce70"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_cast-walk-perf.json",
+        "sha256": "4ccd8fb14e3ab5764949d2fe4ce8798f1ddf5174e3b78ab63b070e1e1b297f82"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-27-male-waist-towel.md",
+        "sha256": "8545bae36f2ad47675741e5c80106f7ee5edfa5f61178abd673c504733b6ce08"
+      }
+    }
+  }
+}

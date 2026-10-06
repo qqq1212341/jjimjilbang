@@ -1,0 +1,127 @@
+{
+  "id": "cozy-ajumma-f-v1",
+  "action": "kidsPlay",
+  "directions": {
+    "0": [
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d0-0.webp"
+      },
+      {
+        "error": 4.83556803977594e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d0-1.webp"
+      },
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d0-2.webp"
+      },
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d0-3.webp"
+      },
+      {
+        "error": 4.835568052534548e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d0-4.webp"
+      },
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d0-5.webp"
+      }
+    ],
+    "90": [
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d90-0.webp"
+      },
+      {
+        "error": 4.83556803977594e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d90-1.webp"
+      },
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d90-2.webp"
+      },
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d90-3.webp"
+      },
+      {
+        "error": 4.835568052534548e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d90-4.webp"
+      },
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d90-5.webp"
+      }
+    ],
+    "180": [
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d180-0.webp"
+      },
+      {
+        "error": 4.83556803977594e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d180-1.webp"
+      },
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d180-2.webp"
+      },
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d180-3.webp"
+      },
+      {
+        "error": 4.835568052534548e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d180-4.webp"
+      },
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d180-5.webp"
+      }
+    ],
+    "270": [
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d270-0.webp"
+      },
+      {
+        "error": 4.83556803977594e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d270-1.webp"
+      },
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d270-2.webp"
+      },
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d270-3.webp"
+      },
+      {
+        "error": 4.835568052534548e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d270-4.webp"
+      },
+      {
+        "error": 5.461772000454496e-8,
+        "file": "cozy-ajumma-f-v1-kidsPlay-d270-5.webp"
+      }
+    ]
+  },
+  "width": 58,
+  "height": 144,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.875
+  },
+  "crop": {
+    "left": 454,
+    "top": 516
+  },
+  "scale": 0.5,
+  "loop": true,
+  "durationMs": 1600,
+  "maxError": 5.461772000454496e-8,
+  "props": [],
+  "look": "lounge",
+  "armRatio": 0.5754488710204448
+}

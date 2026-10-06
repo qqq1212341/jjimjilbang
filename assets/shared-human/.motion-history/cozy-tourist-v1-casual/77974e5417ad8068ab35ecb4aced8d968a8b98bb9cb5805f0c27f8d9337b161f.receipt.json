@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "stage": "adopted",
+  "fingerprint": "5d3f3ab035f4c3d6421fae1d660ed7cce32c2df593145f43c43868685364ca77",
+  "previous": "absent",
+  "current": "77974e5417ad8068ab35ecb4aced8d968a8b98bb9cb5805f0c27f8d9337b161f",
+  "approvedBy": "사장님(jjs01hwang) 2026-09-25 대화 승인",
+  "review": {
+    "version": 1,
+    "fingerprint": "5d3f3ab035f4c3d6421fae1d660ed7cce32c2df593145f43c43868685364ca77",
+    "candidateDigest": "77974e5417ad8068ab35ecb4aced8d968a8b98bb9cb5805f0c27f8d9337b161f",
+    "approved": true,
+    "approvedBy": "사장님(jjs01hwang) 2026-09-25 대화 승인",
+    "checks": {
+      "ground-and-loop-visual-review": {
+        "passed": true,
+        "evidence": "../tourist-casual-v3-review.webp",
+        "sha256": "98935683d7a0f36b6f7b1ca4ea2e0f22c83342fa53017d9d52e67e9994d4dce5"
+      },
+      "game-integration": {
+        "passed": true,
+        "evidence": "../qa-game-cast-v4/cozy-tourist-v1/report.json",
+        "sha256": "c7be0f6cf7ae8ac061de72e17401fc2cac5cb8215848111ef691d12b15677662"
+      },
+      "performance": {
+        "passed": true,
+        "evidence": "../refs/_cast-walk-perf.json",
+        "sha256": "4ccd8fb14e3ab5764949d2fe4ce8798f1ddf5174e3b78ab63b070e1e1b297f82"
+      },
+      "human-approval": {
+        "passed": true,
+        "evidence": "../approvals/2026-09-25-bath-looks-and-enter.md",
+        "sha256": "43d98435e8e66ddcc06a4fc879e5f7a81ddf15f9f3933a731dac930437d7269b"
+      }
+    }
+  }
+}

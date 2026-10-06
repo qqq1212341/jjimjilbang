@@ -1,0 +1,614 @@
+{
+  "durationMs": 2000,
+  "loop": false,
+  "directions": {
+    "0": {
+      "frames": [
+        {
+          "key": "cozy-owner-v1-serve-d0-0",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-0.webp",
+          "item": {
+            "x": 13.222636301038904,
+            "y": -57.223147860504355,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-1",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-1.webp",
+          "item": {
+            "x": 13.326559694916114,
+            "y": -56.97848899770082,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-2",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-2.webp",
+          "item": {
+            "x": 13.620360552448119,
+            "y": -56.28681615998261,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-3",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-3.webp",
+          "item": {
+            "x": 14.053237981927339,
+            "y": -55.267725891537,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-4",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-4.webp",
+          "item": {
+            "x": 14.550343502391684,
+            "y": -54.0974281853903,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-5",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-5.webp",
+          "item": {
+            "x": 15.02572305263044,
+            "y": -52.978278155357884,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-6",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-6.webp",
+          "item": {
+            "x": 15.397179223464775,
+            "y": -52.10378699098834,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-7",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-7.webp",
+          "item": {
+            "x": 15.600483909859577,
+            "y": -51.6251621271432,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-8",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-8.webp",
+          "item": {
+            "x": 15.600483909859577,
+            "y": -51.6251621271432,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-9",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-9.webp",
+          "item": {
+            "x": 15.397179223464775,
+            "y": -52.10378699098834,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-10",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-10.webp",
+          "item": {
+            "x": 15.02572305263044,
+            "y": -52.978278155357884,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-11",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-11.webp",
+          "item": {
+            "x": 14.550343502391684,
+            "y": -54.0974281853903,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-12",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-12.webp",
+          "item": {
+            "x": 14.053237981927339,
+            "y": -55.267725891537,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-13",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-13.webp",
+          "item": {
+            "x": 13.620360552448119,
+            "y": -56.28681615998261,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-14",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-14.webp",
+          "item": {
+            "x": 13.326559694916114,
+            "y": -56.97848899770082,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d0-15",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d0-15.webp",
+          "item": {
+            "x": 13.222636301038904,
+            "y": -57.223147860504355,
+            "behind": false
+          }
+        }
+      ],
+      "pivot": {
+        "x": 0.5747126436781609,
+        "y": 0.8089171974522293
+      }
+    },
+    "90": {
+      "frames": [
+        {
+          "key": "cozy-owner-v1-serve-d90-0",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-0.webp",
+          "item": {
+            "x": -13.222637935906278,
+            "y": -57.22314701390587,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-1",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-1.webp",
+          "item": {
+            "x": -13.326561236645773,
+            "y": -56.97848815775768,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-2",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-2.webp",
+          "item": {
+            "x": -13.620361849808575,
+            "y": -56.28681535272358,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-3",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-3.webp",
+          "item": {
+            "x": -14.053238966989682,
+            "y": -55.267725166332866,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-4",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-4.webp",
+          "item": {
+            "x": -14.550344191841049,
+            "y": -54.097427597159935,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-5",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-5.webp",
+          "item": {
+            "x": -15.025723513722738,
+            "y": -52.978277732697904,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-6",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-6.webp",
+          "item": {
+            "x": -15.397179536772342,
+            "y": -52.10378671542435,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-7",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-7.webp",
+          "item": {
+            "x": -15.600484151527269,
+            "y": -51.62516193671411,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-8",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-8.webp",
+          "item": {
+            "x": -15.600484151527269,
+            "y": -51.62516193671411,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-9",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-9.webp",
+          "item": {
+            "x": -15.397179536772342,
+            "y": -52.10378671542435,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-10",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-10.webp",
+          "item": {
+            "x": -15.025723513722738,
+            "y": -52.978277732697904,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-11",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-11.webp",
+          "item": {
+            "x": -14.550344191841049,
+            "y": -54.09742759715988,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-12",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-12.webp",
+          "item": {
+            "x": -14.053238966989682,
+            "y": -55.267725166332866,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-13",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-13.webp",
+          "item": {
+            "x": -13.620361849808575,
+            "y": -56.28681535272358,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-14",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-14.webp",
+          "item": {
+            "x": -13.326561236645773,
+            "y": -56.97848815775768,
+            "behind": false
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d90-15",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d90-15.webp",
+          "item": {
+            "x": -13.222637935906278,
+            "y": -57.22314701390587,
+            "behind": false
+          }
+        }
+      ],
+      "pivot": {
+        "x": 0.5747126436781609,
+        "y": 0.8089171974522293
+      }
+    },
+    "180": {
+      "frames": [
+        {
+          "key": "cozy-owner-v1-serve-d180-0",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-0.webp",
+          "item": {
+            "x": -13.222636364765691,
+            "y": -66.267966027988,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-1",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-1.webp",
+          "item": {
+            "x": -13.326559754682137,
+            "y": -66.09439491240425,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-2",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-2.webp",
+          "item": {
+            "x": -13.620360601113049,
+            "y": -65.60369357786567,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-3",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-3.webp",
+          "item": {
+            "x": -14.053238014839167,
+            "y": -64.88070872260795,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-4",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-4.webp",
+          "item": {
+            "x": -14.550343518789134,
+            "y": -64.05045098517786,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-5",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-5.webp",
+          "item": {
+            "x": -15.025723055575241,
+            "y": -63.25647947562163,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-6",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-6.webp",
+          "item": {
+            "x": -15.397179218003828,
+            "y": -62.6360790928116,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-7",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-7.webp",
+          "item": {
+            "x": -15.600483900743058,
+            "y": -62.29652270794884,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-8",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-8.webp",
+          "item": {
+            "x": -15.600483900743058,
+            "y": -62.29652270794884,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-9",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-9.webp",
+          "item": {
+            "x": -15.397179218003828,
+            "y": -62.6360790928116,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-10",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-10.webp",
+          "item": {
+            "x": -15.025723055575241,
+            "y": -63.25647947562163,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-11",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-11.webp",
+          "item": {
+            "x": -14.550343518789163,
+            "y": -64.05045098517786,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-12",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-12.webp",
+          "item": {
+            "x": -14.053238014839167,
+            "y": -64.88070872260795,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-13",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-13.webp",
+          "item": {
+            "x": -13.620360601113049,
+            "y": -65.60369357786567,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-14",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-14.webp",
+          "item": {
+            "x": -13.326559754682137,
+            "y": -66.09439491240425,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d180-15",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d180-15.webp",
+          "item": {
+            "x": -13.222636364765691,
+            "y": -66.267966027988,
+            "behind": true
+          }
+        }
+      ],
+      "pivot": {
+        "x": 0.5747126436781609,
+        "y": 0.8089171974522293
+      }
+    },
+    "270": {
+      "frames": [
+        {
+          "key": "cozy-owner-v1-serve-d270-0",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-0.webp",
+          "item": {
+            "x": 13.222638528434686,
+            "y": -66.26796249239834,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-1",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-1.webp",
+          "item": {
+            "x": 13.326561836653013,
+            "y": -66.09439136229776,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-2",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-2.webp",
+          "item": {
+            "x": 13.62036245672266,
+            "y": -65.6036900163453,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-3",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-3.webp",
+          "item": {
+            "x": 14.053238966990307,
+            "y": -64.88070503044514,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-4",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-4.webp",
+          "item": {
+            "x": 14.550344191841646,
+            "y": -64.05044746530046,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-5",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-5.webp",
+          "item": {
+            "x": 15.025723513723335,
+            "y": -63.256476236928165,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-6",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-6.webp",
+          "item": {
+            "x": 15.397179536772967,
+            "y": -62.63607614920187,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-7",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-7.webp",
+          "item": {
+            "x": 15.600484151527837,
+            "y": -62.29651995263441,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-8",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-8.webp",
+          "item": {
+            "x": 15.600484151527837,
+            "y": -62.29651995263441,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-9",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-9.webp",
+          "item": {
+            "x": 15.397179536772967,
+            "y": -62.63607614920187,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-10",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-10.webp",
+          "item": {
+            "x": 15.025723513723335,
+            "y": -63.256476236928165,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-11",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-11.webp",
+          "item": {
+            "x": 14.550344191841646,
+            "y": -64.05044746530041,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-12",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-12.webp",
+          "item": {
+            "x": 14.053238966990307,
+            "y": -64.88070503044514,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-13",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-13.webp",
+          "item": {
+            "x": 13.62036245672266,
+            "y": -65.6036900163453,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-14",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-14.webp",
+          "item": {
+            "x": 13.326561836653013,
+            "y": -66.09439136229776,
+            "behind": true
+          }
+        },
+        {
+          "key": "cozy-owner-v1-serve-d270-15",
+          "url": "assets/shared-human/cozy-owner-v1-work/serve/cozy-owner-v1-serve-d270-15.webp",
+          "item": {
+            "x": 13.222638528434686,
+            "y": -66.26796249239834,
+            "behind": true
+          }
+        }
+      ],
+      "pivot": {
+        "x": 0.5747126436781609,
+        "y": 0.8089171974522293
+      }
+    }
+  }
+}
